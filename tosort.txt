@@ -588,8 +588,8 @@
 [2015/10/27] https://hal.archives-ouvertes.fr/hal-00937745/document
 [2015/10/16] http://onlinelibrary.wiley.com/doi/10.1111/1467-9787.00264/epdf
 [2015/10/16] http://onlinelibrary.wiley.com/doi/10.1111/j.1467-9787.2010.00685.x/epdf
-[2015/10/16] http://www.tandfonline.com/doi/pdf/10.1080/21622671.2015.1064825
-[2015/10/16] https://cybergeo.revues.org/24688
-[2015/10/08] http://www.nature.com/articles/srep14945
-[2015/09/28] http://arxiv.org/pdf/1304.3381v1.pdf
+X [2015/10/16] http://www.tandfonline.com/doi/pdf/10.1080/21622671.2015.1064825
+X [2015/10/16] https://cybergeo.revues.org/24688
+X [2015/10/08] http://www.nature.com/articles/srep14945
+X [2015/09/28] http://arxiv.org/pdf/1304.3381v1.pdf
 
