@@ -578,13 +578,13 @@
 [2015/10/30] https://cybergeo.revues.org/25954
 [2015/10/30] https://cybergeo.revues.org/25076
 [2015/10/30] http://link.springer.com/chapter/10.1007/978-3-642-80135-8_7
-[2015/10/30] http://rge.revues.org/
-[2015/10/28] https://cybergeo.revues.org/2289
-[2015/10/28] https://scholar.google.com/scholar?q=kamada+community+detection&btnG=&hl=fr&as_sdt=0%2C5
-[2015/10/28] http://ac.els-cdn.com/S1751157710000027/1-s2.0-S1751157710000027-main.pdf?_tid=d6620f84-7da1-11e5-9ecf-00000aacb362&acdnat=1446057154_e8fdf3746b977d68b9377b8569f4aa2e
-[2015/10/27] http://www.helsinki.fi/tint/maki/materials/ModelsEPSApubl09.pdf
-[2015/10/27] http://psr.sagepub.com/content/8/2/173.full.pdf
-[2015/10/27] https://systemika.g-i.cz/record/1570/files/Bertalanffy,%20Ludwig%20von%20-%20The%20Meaning%20of%20General%20System%20Theory.pdf
+X [2015/10/30] http://rge.revues.org/ => 22/08/2018 : nothing special
+X [2015/10/28] https://cybergeo.revues.org/2289
+X [2015/10/28] https://scholar.google.com/scholar?q=kamada+community+detection&btnG=&hl=fr&as_sdt=0%2C5 => 22/08/2018 : nothing special
+X [2015/10/28] http://ac.els-cdn.com/S1751157710000027/1-s2.0-S1751157710000027-main.pdf?_tid=d6620f84-7da1-11e5-9ecf-00000aacb362&acdnat=1446057154_e8fdf3746b977d68b9377b8569f4aa2e
+X [2015/10/27] http://www.helsinki.fi/tint/maki/materials/ModelsEPSApubl09.pdf
+X [2015/10/27] http://psr.sagepub.com/content/8/2/173.full.pdf
+X [2015/10/27] https://systemika.g-i.cz/record/1570/files/Bertalanffy,%20Ludwig%20von%20-%20The%20Meaning%20of%20General%20System%20Theory.pdf
 X [2015/10/27] https://hal.archives-ouvertes.fr/hal-00937745/document
 X [2015/10/16] http://onlinelibrary.wiley.com/doi/10.1111/1467-9787.00264/epdf
 X [2015/10/16] http://onlinelibrary.wiley.com/doi/10.1111/j.1467-9787.2010.00685.x/epdf
