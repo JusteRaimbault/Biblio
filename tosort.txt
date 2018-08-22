@@ -585,9 +585,9 @@
 [2015/10/27] http://www.helsinki.fi/tint/maki/materials/ModelsEPSApubl09.pdf
 [2015/10/27] http://psr.sagepub.com/content/8/2/173.full.pdf
 [2015/10/27] https://systemika.g-i.cz/record/1570/files/Bertalanffy,%20Ludwig%20von%20-%20The%20Meaning%20of%20General%20System%20Theory.pdf
-[2015/10/27] https://hal.archives-ouvertes.fr/hal-00937745/document
-[2015/10/16] http://onlinelibrary.wiley.com/doi/10.1111/1467-9787.00264/epdf
-[2015/10/16] http://onlinelibrary.wiley.com/doi/10.1111/j.1467-9787.2010.00685.x/epdf
+X [2015/10/27] https://hal.archives-ouvertes.fr/hal-00937745/document
+X [2015/10/16] http://onlinelibrary.wiley.com/doi/10.1111/1467-9787.00264/epdf
+X [2015/10/16] http://onlinelibrary.wiley.com/doi/10.1111/j.1467-9787.2010.00685.x/epdf
 X [2015/10/16] http://www.tandfonline.com/doi/pdf/10.1080/21622671.2015.1064825
 X [2015/10/16] https://cybergeo.revues.org/24688
 X [2015/10/08] http://www.nature.com/articles/srep14945
