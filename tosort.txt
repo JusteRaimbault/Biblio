@@ -573,11 +573,11 @@
 [2015/11/12] https://github.com/Robinlovelace/Validation
 [2015/11/09] http://www.persee.fr/doc/ingeo_0020-0093_2003_num_67_4_2913
 [2015/11/02] http://link.springer.com/chapter/10.1007/978-3-642-80135-8_7
-[2015/10/30] https://tel.archives-ouvertes.fr/tel-00008053/document
-[2015/10/30] http://www.psy.cmu.edu/~siegler/simon68.pdf
-[2015/10/30] https://cybergeo.revues.org/25954
-[2015/10/30] https://cybergeo.revues.org/25076
-[2015/10/30] http://link.springer.com/chapter/10.1007/978-3-642-80135-8_7
+X [2015/10/30] https://tel.archives-ouvertes.fr/tel-00008053/document
+X [2015/10/30] http://www.psy.cmu.edu/~siegler/simon68.pdf
+X [2015/10/30] https://cybergeo.revues.org/25954
+X [2015/10/30] https://cybergeo.revues.org/25076
+X [2015/10/30] http://link.springer.com/chapter/10.1007/978-3-642-80135-8_7
 X [2015/10/30] http://rge.revues.org/ => 22/08/2018 : nothing special
 X [2015/10/28] https://cybergeo.revues.org/2289
 X [2015/10/28] https://scholar.google.com/scholar?q=kamada+community+detection&btnG=&hl=fr&as_sdt=0%2C5 => 22/08/2018 : nothing special
