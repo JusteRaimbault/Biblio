@@ -568,11 +568,11 @@
 [2015/11/20] http://cer1se.free.fr/principia/
 [2015/11/20] http://rde.revues.org/147
 [2015/11/20] http://neocarto.hypotheses.org/1963
-[2015/11/20] http://www.nber.org/papers/w15409.pdf
-[2015/11/16] https://networkit.iti.kit.edu/
-[2015/11/12] https://github.com/Robinlovelace/Validation
-[2015/11/09] http://www.persee.fr/doc/ingeo_0020-0093_2003_num_67_4_2913
-[2015/11/02] http://link.springer.com/chapter/10.1007/978-3-642-80135-8_7
+X [2015/11/20] http://www.nber.org/papers/w15409.pdf
+X [2015/11/16] https://networkit.iti.kit.edu/ -> 2018/08/28 ok used if needed (python)
+X [2015/11/12] https://github.com/Robinlovelace/Validation -> 2018/08/28 not useful directly ; add in ideas 
+X [2015/11/09] http://www.persee.fr/doc/ingeo_0020-0093_2003_num_67_4_2913
+X [2015/11/02] http://link.springer.com/chapter/10.1007/978-3-642-80135-8_7
 X [2015/10/30] https://tel.archives-ouvertes.fr/tel-00008053/document
 X [2015/10/30] http://www.psy.cmu.edu/~siegler/simon68.pdf
 X [2015/10/30] https://cybergeo.revues.org/25954
