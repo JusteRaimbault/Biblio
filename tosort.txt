@@ -558,16 +558,16 @@
 [2015/12/11] http://arxiv.org/pdf/1512.03419v1.pdf
 [2015/12/11] http://arxiv.org/pdf/1512.03301v1.pdf
 [2015/12/09] http://arxiv.org/pdf/1512.02233v1.pdf
-[2015/12/09] http://arxiv.org/pdf/1505.01668v2.pdf
-[2015/12/09] http://www.hypergeo.eu/spip.php?article5
-[2015/12/09] https://scholar.google.com/scholar?hl=fr&q=Chaos%2C+fractales+et+dynamiques+en+g%C3%A9ographie&btnG=&lr=
-[2015/12/09] http://onlinelibrary.wiley.com/doi/10.1111/j.1435-5597.1964.tb01283.x/epdf
-[2015/12/09] http://cybergeo.revues.org/27331#tocto3n2
-[2015/11/20] http://www.csun.edu/~vcsoc00i/classes/s680f11/Lakatos.pdf
-[2015/11/20] https://fr.wikipedia.org/wiki/Sch%C3%A8me_(psychologie)
-[2015/11/20] http://cer1se.free.fr/principia/
-[2015/11/20] http://rde.revues.org/147
-[2015/11/20] http://neocarto.hypotheses.org/1963
+X [2015/12/09] http://arxiv.org/pdf/1505.01668v2.pdf
+X [2015/12/09] http://www.hypergeo.eu/spip.php?article5 -> 30/08/2018 : not useful
+X [2015/12/09] https://scholar.google.com/scholar?hl=fr&q=Chaos%2C+fractales+et+dynamiques+en+g%C3%A9ographie&btnG=&lr=
+X [2015/12/09] http://onlinelibrary.wiley.com/doi/10.1111/j.1435-5597.1964.tb01283.x/epdf
+X [2015/12/09] http://cybergeo.revues.org/27331#tocto3n2
+X [2015/11/20] http://www.csun.edu/~vcsoc00i/classes/s680f11/Lakatos.pdf
+X [2015/11/20] https://fr.wikipedia.org/wiki/Sch%C3%A8me_(psychologie) -> 30/08/2018 : not useful (hors contexte)
+X [2015/11/20] http://cer1se.free.fr/principia/ -> 30/08/2018 : not useful
+X [2015/11/20] http://rde.revues.org/147 30/08/2018 : papier Picon 
+X [2015/11/20] http://neocarto.hypotheses.org/1963
 X [2015/11/20] http://www.nber.org/papers/w15409.pdf
 X [2015/11/16] https://networkit.iti.kit.edu/ -> 2018/08/28 ok used if needed (python)
 X [2015/11/12] https://github.com/Robinlovelace/Validation -> 2018/08/28 not useful directly ; add in ideas 
