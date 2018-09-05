@@ -555,9 +555,9 @@
 [2015/12/11] https://halshs.archives-ouvertes.fr/halshs-00156880/document
 [2015/12/11] https://halshs.archives-ouvertes.fr/halshs-00460325/document
 [2015/12/11] http://masyt.free.fr/Documents/Projet/Projets%202013-2014/Nanterre%20-%20Jacob%20Raimbault.pdf
-[2015/12/11] http://arxiv.org/pdf/1512.03419v1.pdf
-[2015/12/11] http://arxiv.org/pdf/1512.03301v1.pdf
-[2015/12/09] http://arxiv.org/pdf/1512.02233v1.pdf
+X [2015/12/11] http://arxiv.org/pdf/1512.03419v1.pdf
+X [2015/12/11] http://arxiv.org/pdf/1512.03301v1.pdf
+X [2015/12/09] http://arxiv.org/pdf/1512.02233v1.pdf -> scirep version
 X [2015/12/09] http://arxiv.org/pdf/1505.01668v2.pdf
 X [2015/12/09] http://www.hypergeo.eu/spip.php?article5 -> 30/08/2018 : not useful
 X [2015/12/09] https://scholar.google.com/scholar?hl=fr&q=Chaos%2C+fractales+et+dynamiques+en+g%C3%A9ographie&btnG=&lr=
