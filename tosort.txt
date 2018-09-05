@@ -551,10 +551,10 @@
 [2015/12/11] https://cybergeo.revues.org/23433
 [2015/12/11] https://cybergeo.revues.org/22397
 [2015/12/11] http://usj.sagepub.com/content/42/13/2389.full.pdf+html
-[2015/12/11] ComplexSystems/CityNetwork/Biblio/Docs/ToSort/EG_421_0032.pdf
-[2015/12/11] https://halshs.archives-ouvertes.fr/halshs-00156880/document
-[2015/12/11] https://halshs.archives-ouvertes.fr/halshs-00460325/document
-[2015/12/11] http://masyt.free.fr/Documents/Projet/Projets%202013-2014/Nanterre%20-%20Jacob%20Raimbault.pdf
+X [2015/12/11] ComplexSystems/CityNetwork/Biblio/Docs/ToSort/EG_421_0032.pdf -> Ok Espace Geo
+X [2015/12/11] https://halshs.archives-ouvertes.fr/halshs-00156880/document
+X [2015/12/11] https://halshs.archives-ouvertes.fr/halshs-00460325/document
+X [2015/12/11] http://masyt.free.fr/Documents/Projet/Projets%202013-2014/Nanterre%20-%20Jacob%20Raimbault.pdf -> mail statut 05/09/2018
 X [2015/12/11] http://arxiv.org/pdf/1512.03419v1.pdf
 X [2015/12/11] http://arxiv.org/pdf/1512.03301v1.pdf
 X [2015/12/09] http://arxiv.org/pdf/1512.02233v1.pdf -> scirep version
