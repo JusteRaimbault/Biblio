@@ -547,10 +547,10 @@
 [2015/12/17] http://arxiv.org/pdf/1503.06205v3.pdf
 [2015/12/17] https://scholar.google.com/scholar?cluster=2136225064121670812&hl=fr&as_sdt=0,5
 [2015/12/11] http://arxiv.org/pdf/1512.02859v1.pdf
-[2015/12/11] ComplexSystems/CityNetwork/Biblio/Docs/ToSort/unige_17739_attachment01.pdf
-[2015/12/11] https://cybergeo.revues.org/23433
-[2015/12/11] https://cybergeo.revues.org/22397
-[2015/12/11] http://usj.sagepub.com/content/42/13/2389.full.pdf+html
+X [2015/12/11] ComplexSystems/CityNetwork/Biblio/Docs/ToSort/unige_17739_attachment01.pdf
+X [2015/12/11] https://cybergeo.revues.org/23433
+X [2015/12/11] https://cybergeo.revues.org/22397
+X [2015/12/11] http://usj.sagepub.com/content/42/13/2389.full.pdf+html
 X [2015/12/11] ComplexSystems/CityNetwork/Biblio/Docs/ToSort/EG_421_0032.pdf -> Ok Espace Geo
 X [2015/12/11] https://halshs.archives-ouvertes.fr/halshs-00156880/document
 X [2015/12/11] https://halshs.archives-ouvertes.fr/halshs-00460325/document
