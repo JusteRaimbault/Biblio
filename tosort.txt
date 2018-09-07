@@ -542,11 +542,11 @@
 [2015/12/17] http://arxiv.org/pdf/1512.05066v1.pdf
 [2015/12/17] http://arxiv.org/pdf/1512.05120v1.pdf
 [2015/12/17] http://arxiv.org/abs/1503.04085
-[2015/12/17] http://arxiv.org/abs/1512.04776
-[2015/12/17] http://arxiv.org/abs/1512.04828
-[2015/12/17] http://arxiv.org/pdf/1503.06205v3.pdf
-[2015/12/17] https://scholar.google.com/scholar?cluster=2136225064121670812&hl=fr&as_sdt=0,5
-[2015/12/11] http://arxiv.org/pdf/1512.02859v1.pdf
+X [2015/12/17] http://arxiv.org/abs/1512.04776
+X [2015/12/17] http://arxiv.org/abs/1512.04828
+X [2015/12/17] http://arxiv.org/pdf/1503.06205v3.pdf
+X [2015/12/17] https://scholar.google.com/scholar?cluster=2136225064121670812&hl=fr&as_sdt=0,5
+X [2015/12/11] http://arxiv.org/pdf/1512.02859v1.pdf
 X [2015/12/11] ComplexSystems/CityNetwork/Biblio/Docs/ToSort/unige_17739_attachment01.pdf
 X [2015/12/11] https://cybergeo.revues.org/23433
 X [2015/12/11] https://cybergeo.revues.org/22397
