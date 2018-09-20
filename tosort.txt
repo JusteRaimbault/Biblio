@@ -535,10 +535,10 @@
 [2015/12/31] http://biomet.oxfordjournals.org/content/68/3/589.full.pdf
 [2015/12/17] http://journals.aps.org/pre/abstract/10.1103/PhysRevE.92.062817
 [2015/12/17] http://arxiv.org/abs/1512.02077
-[2015/12/17] http://arxiv.org/pdf/1312.0171v2.pdf
-[2015/12/17] http://arxiv.org/pdf/1512.05020v1.pdf
-[2015/12/17] http://arxiv.org/pdf/1512.05013v1.pdf
-[2015/12/17] http://arxiv.org/pdf/1512.05057v1.pdf
+X [2015/12/17] http://arxiv.org/pdf/1312.0171v2.pdf
+X [2015/12/17] http://arxiv.org/pdf/1512.05020v1.pdf
+X [2015/12/17] http://arxiv.org/pdf/1512.05013v1.pdf
+X [2015/12/17] http://arxiv.org/pdf/1512.05057v1.pdf
 X [2015/12/17] http://arxiv.org/pdf/1512.05066v1.pdf
 X [2015/12/17] http://arxiv.org/pdf/1512.05120v1.pdf
 X [2015/12/17] http://arxiv.org/abs/1503.04085
