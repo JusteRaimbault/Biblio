@@ -525,16 +525,16 @@
 [2016/01/17] http://onlinelibrary.wiley.com/doi/10.1002/env.715/abstract
 [2016/01/17] http://www.sciencedirect.com/science/article/pii/096669239600004X
 [2016/01/17] http://journals.aps.org/pre/abstract/10.1103/PhysRevE.92.062130
-[2016/01/06] https://books.google.fr/books?id=fxL4tu5bzAAC&printsec=frontcover&redir_esc=y#v=onepage&q&f=false
-[2015/12/31] http://arxiv.org/pdf/1512.08205v1.pdf
-[2015/12/31] http://www.jstor.org/stable/pdf/2245500.pdf
-[2015/12/31] http://down.cenet.org.cn/upfile/36/200532113916127.pdf
-[2015/12/31] http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2770199/pdf/nihms-105583.pdf
-[2015/12/31] http://www.jstor.org/stable/pdf/2290993.pdf?acceptTC=true
-[2015/12/31] http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=134482&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D134482
-[2015/12/31] http://biomet.oxfordjournals.org/content/68/3/589.full.pdf
-[2015/12/17] http://journals.aps.org/pre/abstract/10.1103/PhysRevE.92.062817
-[2015/12/17] http://arxiv.org/abs/1512.02077
+X [2016/01/06] https://books.google.fr/books?id=fxL4tu5bzAAC&printsec=frontcover&redir_esc=y#v=onepage&q&f=false
+X [2015/12/31] http://arxiv.org/pdf/1512.08205v1.pdf
+X [2015/12/31] http://www.jstor.org/stable/pdf/2245500.pdf
+X [2015/12/31] http://down.cenet.org.cn/upfile/36/200532113916127.pdf ==> 2018/09/21 : file does not exist ; impossible to find (no ref) .
+X [2015/12/31] http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2770199/pdf/nihms-105583.pdf
+X [2015/12/31] http://www.jstor.org/stable/pdf/2290993.pdf?acceptTC=true
+X [2015/12/31] http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=134482&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D134482
+X [2015/12/31] http://biomet.oxfordjournals.org/content/68/3/589.full.pdf
+X [2015/12/17] http://journals.aps.org/pre/abstract/10.1103/PhysRevE.92.062817
+X [2015/12/17] http://arxiv.org/abs/1512.02077
 X [2015/12/17] http://arxiv.org/pdf/1312.0171v2.pdf
 X [2015/12/17] http://arxiv.org/pdf/1512.05020v1.pdf
 X [2015/12/17] http://arxiv.org/pdf/1512.05013v1.pdf
