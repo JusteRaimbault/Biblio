@@ -524,7 +524,7 @@
 [2016/01/17] http://www.tandfonline.com/doi/pdf/10.1080/01944365908978307?redirect=1
 [2016/01/17] http://onlinelibrary.wiley.com/doi/10.1002/env.715/abstract
 [2016/01/17] http://www.sciencedirect.com/science/article/pii/096669239600004X
-[2016/01/17] http://journals.aps.org/pre/abstract/10.1103/PhysRevE.92.062130
+X [2016/01/17] http://journals.aps.org/pre/abstract/10.1103/PhysRevE.92.062130
 X [2016/01/06] https://books.google.fr/books?id=fxL4tu5bzAAC&printsec=frontcover&redir_esc=y#v=onepage&q&f=false
 X [2015/12/31] http://arxiv.org/pdf/1512.08205v1.pdf
 X [2015/12/31] http://www.jstor.org/stable/pdf/2245500.pdf
