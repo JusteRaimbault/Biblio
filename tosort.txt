@@ -514,14 +514,14 @@
 [2016/02/05] http://www.plosone.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0146576&representation=PDF
 [2016/02/05] http://arxiv.org/pdf/1602.01578v1.pdf
 [2016/02/04] http://arxiv.org/pdf/1602.01211v1.pdf
-[2016/02/04] http://arxiv.org/pdf/1602.01205v1.pdf
-[2016/02/04] http://onlinelibrary.wiley.com/doi/10.1002/pst.389/epdf
-[2016/02/04] https://cran.r-project.org/web/packages/mi/mi.pdf
-[2016/02/04] http://www.ncgia.ucsb.edu/projects/gig/Pub/SLEUTHPapers_Nov24/guan%20and%20clarke%202010.pdf
-[2016/02/04] https://www.researchgate.net/profile/Donald_Specht/publication/220360902_Probabilistic_Neural_Networks._Neural_Networks_3109-118/links/0c96051b63d9acfb5e000000.pdf
-[2016/01/17] http://www.sciencedirect.com/science/article/pii/0166046276900314
-[2016/01/17] http://www.sciencedirect.com/science/article/pii/0966692395000429
-[2016/01/17] http://www.tandfonline.com/doi/pdf/10.1080/01944365908978307?redirect=1
+X [2016/02/04] http://arxiv.org/pdf/1602.01205v1.pdf
+X [2016/02/04] http://onlinelibrary.wiley.com/doi/10.1002/pst.389/epdf
+X [2016/02/04] https://cran.r-project.org/web/packages/mi/mi.pdf
+X [2016/02/04] http://www.ncgia.ucsb.edu/projects/gig/Pub/SLEUTHPapers_Nov24/guan%20and%20clarke%202010.pdf
+X [2016/02/04] https://www.researchgate.net/profile/Donald_Specht/publication/220360902_Probabilistic_Neural_Networks._Neural_Networks_3109-118/links/0c96051b63d9acfb5e000000.pdf
+X [2016/01/17] http://www.sciencedirect.com/science/article/pii/0166046276900314
+X [2016/01/17] http://www.sciencedirect.com/science/article/pii/0966692395000429
+X [2016/01/17] http://www.tandfonline.com/doi/pdf/10.1080/01944365908978307?redirect=1
 X [2016/01/17] http://onlinelibrary.wiley.com/doi/10.1002/env.715/abstract
 X [2016/01/17] http://www.sciencedirect.com/science/article/pii/096669239600004X
 X [2016/01/17] http://journals.aps.org/pre/abstract/10.1103/PhysRevE.92.062130
