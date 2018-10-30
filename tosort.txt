@@ -510,10 +510,10 @@
 [2016/02/05] http://ac.els-cdn.com/S1369848611000835/1-s2.0-S1369848611000835-main.pdf?_tid=603560e6-cc2e-11e5-a582-00000aab0f27&acdnat=1454693706_0866a51e2cadfde6c34ee2614f339da6
 [2016/02/05] https://halshs.archives-ouvertes.fr/hal-00962384/document
 [2016/02/05] https://hal.archives-ouvertes.fr/hal-01200665/document
-[2016/02/05] http://indecs.eu/2016/indecs2016-pp10-22.pdf
-[2016/02/05] http://www.plosone.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0146576&representation=PDF
-[2016/02/05] http://arxiv.org/pdf/1602.01578v1.pdf
-[2016/02/04] http://arxiv.org/pdf/1602.01211v1.pdf
+X [2016/02/05] http://indecs.eu/2016/indecs2016-pp10-22.pdf
+X [2016/02/05] http://www.plosone.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0146576&representation=PDF
+X [2016/02/05] http://arxiv.org/pdf/1602.01578v1.pdf
+X [2016/02/04] http://arxiv.org/pdf/1602.01211v1.pdf
 X [2016/02/04] http://arxiv.org/pdf/1602.01205v1.pdf
 X [2016/02/04] http://onlinelibrary.wiley.com/doi/10.1002/pst.389/epdf
 X [2016/02/04] https://cran.r-project.org/web/packages/mi/mi.pdf
