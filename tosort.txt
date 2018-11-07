@@ -504,9 +504,9 @@
 [2016/02/17] http://arxiv.org/abs/1602.04930
 [2016/02/17] http://arxiv.org/pdf/1602.05109v1.pdf
 [2016/02/17] http://arxiv.org/pdf/1602.04878v1.pdf
-[2016/02/08] http://link.springer.com/article/10.1140/epjb/e2015-60933-3?wt_mc=internal.event.1.SEM.ArticleAuthorIncrementalIssue
-[2016/02/08] http://casmodeling.springeropen.com/articles/10.1186/s40294-016-0016-9
-[2016/02/08] https://cran.r-project.org/web/packages/e1071/vignettes/svmdoc.pdf
+X [2016/02/08] http://link.springer.com/article/10.1140/epjb/e2015-60933-3?wt_mc=internal.event.1.SEM.ArticleAuthorIncrementalIssue
+X [2016/02/08] http://casmodeling.springeropen.com/articles/10.1186/s40294-016-0016-9
+X [2016/02/08] https://cran.r-project.org/web/packages/e1071/vignettes/svmdoc.pdf
 X [2016/02/05] http://ac.els-cdn.com/S1369848611000835/1-s2.0-S1369848611000835-main.pdf?_tid=603560e6-cc2e-11e5-a582-00000aab0f27&acdnat=1454693706_0866a51e2cadfde6c34ee2614f339da6
 X [2016/02/05] https://halshs.archives-ouvertes.fr/hal-00962384/document
 X [2016/02/05] https://hal.archives-ouvertes.fr/hal-01200665/document
