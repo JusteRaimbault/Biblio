@@ -494,16 +494,16 @@
 [2016/03/11] http://ac.els-cdn.com/S1574008087800068/1-s2.0-S1574008087800068-main.pdf?_tid=3bc020f0-e7a6-11e5-8b90-00000aacb361&acdnat=1457713865_7c2918b0797d49cadd0c78b46e068a9e
 [2016/03/11] http://ac.els-cdn.com/S0094119098921040/1-s2.0-S0094119098921040-main.pdf?_tid=8b73cc42-e7a5-11e5-8f58-00000aacb35d&acdnat=1457713570_6a6f389d596b1809d226408bde0304e3
 [2016/03/09] http://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0150209
-[2016/03/09] http://www.nature.com.sci-hub.io/nature/journal/vaop/ncurrent/full/nature17160.html
-[2016/03/09] http://datascience.iq.harvard.edu/files/datascience/files/big_data_technology_litrature_review_0.pdf?m=1438656642
-[2016/03/02] http://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-016-0065-5
-[2016/02/26] https://www.plos.org/wp-content/uploads/2011/09/When-is-OA-not-OA.pdf
-[2016/02/26] http://www.readcube.com/articles/10.1038%2Fsrep22049
-[2016/02/17] http://arxiv.org/abs/1506.07032
-[2016/02/17] http://arxiv.org/abs/1504.02031
-[2016/02/17] http://arxiv.org/abs/1602.04930
-[2016/02/17] http://arxiv.org/pdf/1602.05109v1.pdf
-[2016/02/17] http://arxiv.org/pdf/1602.04878v1.pdf
+X [2016/03/09] http://www.nature.com.sci-hub.io/nature/journal/vaop/ncurrent/full/nature17160.html
+X [2016/03/09] http://datascience.iq.harvard.edu/files/datascience/files/big_data_technology_litrature_review_0.pdf?m=1438656642 => DEAD LINK
+X [2016/03/02] http://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-016-0065-5
+X [2016/02/26] https://www.plos.org/wp-content/uploads/2011/09/When-is-OA-not-OA.pdf => similar https://www.plos.org/files/HowOpenIsIt_English.pdf
+X [2016/02/26] http://www.readcube.com/articles/10.1038%2Fsrep22049
+X [2016/02/17] http://arxiv.org/abs/1506.07032
+X [2016/02/17] http://arxiv.org/abs/1504.02031
+X [2016/02/17] http://arxiv.org/abs/1602.04930
+X [2016/02/17] http://arxiv.org/pdf/1602.05109v1.pdf
+X [2016/02/17] http://arxiv.org/pdf/1602.04878v1.pdf
 X [2016/02/08] http://link.springer.com/article/10.1140/epjb/e2015-60933-3?wt_mc=internal.event.1.SEM.ArticleAuthorIncrementalIssue
 X [2016/02/08] http://casmodeling.springeropen.com/articles/10.1186/s40294-016-0016-9
 X [2016/02/08] https://cran.r-project.org/web/packages/e1071/vignettes/svmdoc.pdf
