@@ -487,13 +487,13 @@
 [2016/04/25] http://www.tandfonline.com.sci-hub.io/doi/pdf/10.1080/00207179008934126
 [2016/04/25] http://ac.els-cdn.com/0005109894000962/1-s2.0-0005109894000962-main.pdf?_tid=09029984-0ae9-11e6-838a-00000aab0f6c&acdnat=1461590847_f23fde243e4453c28811724a9c18d01e
 [2016/04/13] http://www.nature.com.sci-hub.io/nature/journal/v532/n7598/full/nature17620.html
-[2016/03/19] http://jods.mitpress.mit.edu/pub/AgeOfEntanglement
-[2016/03/16] http://isuf2014.fe.up.pt/ISUF2014_%20Book%20of%20Abstracts.pdf
-[2016/03/11] [Economic Geography] http://ac.els-cdn.com/S0166046296021369/1-s2.0-S0166046296021369-main.pdf?_tid=be336166-e7a4-11e5-88c1-00000aab0f02&acdnat=1457713225_b736b7298d53ea2cb9e772016ea453d0
-[2016/03/11] https://scholar.google.com/scholar?q=monocentric+urban+equilibrium&btnG=&hl=fr&as_sdt=0%2C5
-[2016/03/11] http://ac.els-cdn.com/S1574008087800068/1-s2.0-S1574008087800068-main.pdf?_tid=3bc020f0-e7a6-11e5-8b90-00000aacb361&acdnat=1457713865_7c2918b0797d49cadd0c78b46e068a9e
-[2016/03/11] http://ac.els-cdn.com/S0094119098921040/1-s2.0-S0094119098921040-main.pdf?_tid=8b73cc42-e7a5-11e5-8f58-00000aacb35d&acdnat=1457713570_6a6f389d596b1809d226408bde0304e3
-[2016/03/09] http://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0150209
+X [2016/03/19] http://jods.mitpress.mit.edu/pub/AgeOfEntanglement
+X [2016/03/16] http://isuf2014.fe.up.pt/ISUF2014_%20Book%20of%20Abstracts.pdf => conf report
+X [2016/03/11] [Economic Geography] http://ac.els-cdn.com/S0166046296021369/1-s2.0-S0166046296021369-main.pdf?_tid=be336166-e7a4-11e5-88c1-00000aab0f02&acdnat=1457713225_b736b7298d53ea2cb9e772016ea453d0
+X [2016/03/11] https://scholar.google.com/scholar?q=monocentric+urban+equilibrium&btnG=&hl=fr&as_sdt=0%2C5 => Fujita-Ogawa
+X [2016/03/11] http://ac.els-cdn.com/S1574008087800068/1-s2.0-S1574008087800068-main.pdf?_tid=3bc020f0-e7a6-11e5-8b90-00000aacb361&acdnat=1457713865_7c2918b0797d49cadd0c78b46e068a9e
+X [2016/03/11] http://ac.els-cdn.com/S0094119098921040/1-s2.0-S0094119098921040-main.pdf?_tid=8b73cc42-e7a5-11e5-8f58-00000aacb35d&acdnat=1457713570_6a6f389d596b1809d226408bde0304e3
+X [2016/03/09] http://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0150209
 X [2016/03/09] http://www.nature.com.sci-hub.io/nature/journal/vaop/ncurrent/full/nature17160.html
 X [2016/03/09] http://datascience.iq.harvard.edu/files/datascience/files/big_data_technology_litrature_review_0.pdf?m=1438656642 => DEAD LINK
 X [2016/03/02] http://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-016-0065-5
