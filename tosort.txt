@@ -471,22 +471,22 @@
 [2016/05/25] https://piwik.org/
 [2016/05/25] http://www.nature.com.sci-hub.cc/nature/journal/vaop/ncurrent/full/nature18291.html
 [2016/05/24] http://www.nature.com/articles/srep26536?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+srep%2Frss%2Fcurrent+%28Scientific+Reports%29
-[2016/05/23] http://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0155401
-[2016/05/23] http://shiny.rstudio.com/gallery/plot-interaction-zoom.html
-[2016/05/19] http://journals.plos.org/plosone/article/asset?id=10.1371%2Fjournal.pone.0155838.PDF
-[2016/05/19] http://www.jstor.org/stable/pdf/43149997.pdf?_=1463676464330
-[2016/05/19] [Ontology] http://arxiv.org/pdf/1605.05402v1.pdf
-[2016/05/17] http://journals.uic.edu/ojs/index.php/fm/article/view/6102/5510
-[2016/05/11] http://epn.sagepub.com.sci-hub.cc/content/35/8/1389.full.pdf+html
-[2016/05/11] http://ac.els-cdn.com/S0304380000003549/1-s2.0-S0304380000003549-main.pdf?_tid=663ae14c-1796-11e6-bc29-00000aab0f26&acdnat=1462984721_596e12a025bcc470d57ea81585eab256
-[2016/05/11] http://epn.sagepub.com.sci-hub.cc/content/33/5/901.full.pdf+html
-[2016/05/03] https://scholar.google.com/scholar?q=ordres+de+grandeur+syst%C3%A8mes+g%C3%A9opoint+durand-dast%C3%A8s&btnG=&hl=fr&as_sdt=0%2C5
-[2016/05/03] http://popups.ulg.ac.be/0770-7576/index.php?id=2343&file=1
-[2016/04/25] http://www.ent.mrt.ac.lk/iml/paperbase/TAC%20Collection/TAC/2005/august/01492567.pdf
-[2016/04/25] http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.139.6482&rep=rep1&type=pdf
-[2016/04/25] http://www.tandfonline.com.sci-hub.io/doi/pdf/10.1080/00207179008934126
-[2016/04/25] http://ac.els-cdn.com/0005109894000962/1-s2.0-0005109894000962-main.pdf?_tid=09029984-0ae9-11e6-838a-00000aab0f6c&acdnat=1461590847_f23fde243e4453c28811724a9c18d01e
-[2016/04/13] http://www.nature.com.sci-hub.io/nature/journal/v532/n7598/full/nature17620.html
+X [2016/05/23] http://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0155401
+X [2016/05/23] http://shiny.rstudio.com/gallery/plot-interaction-zoom.html
+X [2016/05/19] http://journals.plos.org/plosone/article/asset?id=10.1371%2Fjournal.pone.0155838.PDF
+X [2016/05/19] http://www.jstor.org/stable/pdf/43149997.pdf?_=1463676464330
+X [2016/05/19] [Ontology] http://arxiv.org/pdf/1605.05402v1.pdf
+X [2016/05/17] http://journals.uic.edu/ojs/index.php/fm/article/view/6102/5510
+X [2016/05/11] http://epn.sagepub.com.sci-hub.cc/content/35/8/1389.full.pdf+html
+X [2016/05/11] http://ac.els-cdn.com/S0304380000003549/1-s2.0-S0304380000003549-main.pdf?_tid=663ae14c-1796-11e6-bc29-00000aab0f26&acdnat=1462984721_596e12a025bcc470d57ea81585eab256
+X [2016/05/11] http://epn.sagepub.com.sci-hub.cc/content/33/5/901.full.pdf+html
+X [2016/05/03] https://scholar.google.com/scholar?q=ordres+de+grandeur+syst%C3%A8mes+g%C3%A9opoint+durand-dast%C3%A8s&btnG=&hl=fr&as_sdt=0%2C5 => papier determinisme
+X [2016/05/03] http://popups.ulg.ac.be/0770-7576/index.php?id=2343&file=1
+X [2016/04/25] http://www.ent.mrt.ac.lk/iml/paperbase/TAC%20Collection/TAC/2005/august/01492567.pdf
+X [2016/04/25] http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.139.6482&rep=rep1&type=pdf
+X [2016/04/25] http://www.tandfonline.com.sci-hub.io/doi/pdf/10.1080/00207179008934126
+X [2016/04/25] http://ac.els-cdn.com/0005109894000962/1-s2.0-0005109894000962-main.pdf?_tid=09029984-0ae9-11e6-838a-00000aab0f6c&acdnat=1461590847_f23fde243e4453c28811724a9c18d01e
+X [2016/04/13] http://www.nature.com.sci-hub.io/nature/journal/v532/n7598/full/nature17620.html
 X [2016/03/19] http://jods.mitpress.mit.edu/pub/AgeOfEntanglement
 X [2016/03/16] http://isuf2014.fe.up.pt/ISUF2014_%20Book%20of%20Abstracts.pdf => conf report
 X [2016/03/11] [Economic Geography] http://ac.els-cdn.com/S0166046296021369/1-s2.0-S0166046296021369-main.pdf?_tid=be336166-e7a4-11e5-88c1-00000aab0f02&acdnat=1457713225_b736b7298d53ea2cb9e772016ea453d0
