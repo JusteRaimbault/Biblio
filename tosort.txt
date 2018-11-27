@@ -467,9 +467,9 @@
 [2016/05/27] http://arxiv.org/pdf/1505.01756v2.pdf
 [2016/05/27] http://arxiv.org/pdf/1605.08354v1.pdf
 [2016/05/27] http://science.sciencemag.org.sci-hub.cc/content/338/6105/344.full.pdf+html
-[2016/05/25] http://arxiv.org/pdf/1605.07465v1.pdf
-[2016/05/25] https://piwik.org/
-[2016/05/25] http://www.nature.com.sci-hub.cc/nature/journal/vaop/ncurrent/full/nature18291.html
+X [2016/05/25] http://arxiv.org/pdf/1605.07465v1.pdf
+X [2016/05/25] https://piwik.org/
+X [2016/05/25] http://www.nature.com.sci-hub.cc/nature/journal/vaop/ncurrent/full/nature18291.html
 X [2016/05/24] http://www.nature.com/articles/srep26536?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+srep%2Frss%2Fcurrent+%28Scientific+Reports%29
 X [2016/05/23] http://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0155401
 X [2016/05/23] http://shiny.rstudio.com/gallery/plot-interaction-zoom.html
