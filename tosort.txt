@@ -464,9 +464,9 @@
 [2016/05/31] https://halshs.archives-ouvertes.fr/hal-01305357/document
 [2016/05/30] [The Cost of Knowledge] http://thecostofknowledge.com/#list
 [2016/05/30] https://gowers.files.wordpress.com/2012/02/elsevierstatementfinal.pdf
-[2016/05/27] http://arxiv.org/pdf/1505.01756v2.pdf
-[2016/05/27] http://arxiv.org/pdf/1605.08354v1.pdf
-[2016/05/27] http://science.sciencemag.org.sci-hub.cc/content/338/6105/344.full.pdf+html
+X [2016/05/27] http://arxiv.org/pdf/1505.01756v2.pdf
+X [2016/05/27] http://arxiv.org/pdf/1605.08354v1.pdf
+X [2016/05/27] http://science.sciencemag.org.sci-hub.cc/content/338/6105/344.full.pdf+html
 X [2016/05/25] http://arxiv.org/pdf/1605.07465v1.pdf
 X [2016/05/25] https://piwik.org/
 X [2016/05/25] http://www.nature.com.sci-hub.cc/nature/journal/vaop/ncurrent/full/nature18291.html
