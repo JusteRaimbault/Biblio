@@ -463,7 +463,7 @@
 [2016/05/31] https://books.google.fr/books?id=6JZP7Uy4fD4C&pg=PA235&lpg=PA235&dq=vincent+ginot+robert&source=bl&ots=0lHZz0y7hR&sig=vZzxVQh6jDO0JStmEuUDWAxxurc&hl=fr&sa=X&ved=0ahUKEwjlg-mL_b3MAhWFrxoKHf5nCKQQ6AEIITAB#v=onepage&q=vincent%20ginot%20robert&f=false
 [2016/05/31] https://halshs.archives-ouvertes.fr/hal-01305357/document
 [2016/05/30] [The Cost of Knowledge] http://thecostofknowledge.com/#list
-[2016/05/30] https://gowers.files.wordpress.com/2012/02/elsevierstatementfinal.pdf
+X [2016/05/30] https://gowers.files.wordpress.com/2012/02/elsevierstatementfinal.pdf
 X [2016/05/27] http://arxiv.org/pdf/1505.01756v2.pdf
 X [2016/05/27] http://arxiv.org/pdf/1605.08354v1.pdf
 X [2016/05/27] http://science.sciencemag.org.sci-hub.cc/content/338/6105/344.full.pdf+html
