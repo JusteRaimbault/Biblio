@@ -452,9 +452,9 @@
 [2016/06/15] [Biblio] [Urban Form] http://arxiv.org/pdf/1606.04385v1.pdf
 [2016/06/15] [Biblio] [China] http://arxiv.org/abs/1606.04382
 [2016/06/15] [Biblio] [Reproducibility] http://jods.mitpress.mit.edu/pub/dbdb
-[2016/06/15] [Biblio] http://cybergeo.revues.org/27668
-[2016/06/06] http://ac.els-cdn.com/S0967070X09000109/1-s2.0-S0967070X09000109-main.pdf?_tid=344a3e9c-2bde-11e6-a239-00000aab0f01&acdnat=1465214584_cbc62d5eedc942f97c715c8c6acdac09
-[2016/06/06] http://ac.els-cdn.com/S0378437106000938/1-s2.0-S0378437106000938-main.pdf?_tid=05433e4c-2bdd-11e6-a379-00000aab0f6c&acdnat=1465214075_ec9a1af02fb454de1b803679f6fffba8
+X [2016/06/15] [Biblio] http://cybergeo.revues.org/27668
+X [2016/06/06] http://ac.els-cdn.com/S0967070X09000109/1-s2.0-S0967070X09000109-main.pdf?_tid=344a3e9c-2bde-11e6-a239-00000aab0f01&acdnat=1465214584_cbc62d5eedc942f97c715c8c6acdac09
+X [2016/06/06] http://ac.els-cdn.com/S0378437106000938/1-s2.0-S0378437106000938-main.pdf?_tid=05433e4c-2bdd-11e6-a379-00000aab0f6c&acdnat=1465214075_ec9a1af02fb454de1b803679f6fffba8
 X [2016/06/06] http://www.tandfonline.com.sci-hub.bz/doi/pdf/10.1080/00167223.2002.10649465
 [2016/06/06] http://www.geoportail.gouv.fr/depot/api/tutoriel/WMTS_QGIS.pdf
 X [2016/06/03] http://journals.plos.org/plosone/article/asset?id=10.1371%2Fjournal.pone.0156808.PDF
