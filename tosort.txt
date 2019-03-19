@@ -445,12 +445,12 @@
 [2016/06/21] [Biblio] [Book] http://nature-of-computation.org/
 [2016/06/20] (unread rss)  http://arxiv.org/abs/1503.06152
 [2016/06/20] http://dx.doi.org/10.1073/pnas.1509757112
-[2016/06/20] http://arxiv.org/abs/1512.01364
-[2016/06/16] http://cybergeo.revues.org/27671
-[2016/06/16] http://arxiv.org/pdf/1606.04796v1.pdf
-[2016/06/16] http://arxiv.org/pdf/1606.04707v1.pdf
-[2016/06/15] [Biblio] [Urban Form] http://arxiv.org/pdf/1606.04385v1.pdf
-[2016/06/15] [Biblio] [China] http://arxiv.org/abs/1606.04382
+X [2016/06/20] http://arxiv.org/abs/1512.01364
+X [2016/06/16] http://cybergeo.revues.org/27671
+X [2016/06/16] http://arxiv.org/pdf/1606.04796v1.pdf
+X [2016/06/16] http://arxiv.org/pdf/1606.04707v1.pdf
+X [2016/06/15] [Biblio] [Urban Form] http://arxiv.org/pdf/1606.04385v1.pdf
+X [2016/06/15] [Biblio] [China] http://arxiv.org/abs/1606.04382
 [2016/06/15] [Biblio] [Reproducibility] http://jods.mitpress.mit.edu/pub/dbdb
 X [2016/06/15] [Biblio] http://cybergeo.revues.org/27668
 X [2016/06/06] http://ac.els-cdn.com/S0967070X09000109/1-s2.0-S0967070X09000109-main.pdf?_tid=344a3e9c-2bde-11e6-a239-00000aab0f01&acdnat=1465214584_cbc62d5eedc942f97c715c8c6acdac09
