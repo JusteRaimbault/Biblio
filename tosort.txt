@@ -456,14 +456,14 @@ X [2016/06/15] [Biblio] http://cybergeo.revues.org/27668
 X [2016/06/06] http://ac.els-cdn.com/S0967070X09000109/1-s2.0-S0967070X09000109-main.pdf?_tid=344a3e9c-2bde-11e6-a239-00000aab0f01&acdnat=1465214584_cbc62d5eedc942f97c715c8c6acdac09
 X [2016/06/06] http://ac.els-cdn.com/S0378437106000938/1-s2.0-S0378437106000938-main.pdf?_tid=05433e4c-2bdd-11e6-a379-00000aab0f6c&acdnat=1465214075_ec9a1af02fb454de1b803679f6fffba8
 X [2016/06/06] http://www.tandfonline.com.sci-hub.bz/doi/pdf/10.1080/00167223.2002.10649465
-[2016/06/06] http://www.geoportail.gouv.fr/depot/api/tutoriel/WMTS_QGIS.pdf
+X [2016/06/06] http://www.geoportail.gouv.fr/depot/api/tutoriel/WMTS_QGIS.pdf
 X [2016/06/03] http://journals.plos.org/plosone/article/asset?id=10.1371%2Fjournal.pone.0156808.PDF
-[2016/06/03] http://ac.els-cdn.com/0198971595000283/1-s2.0-0198971595000283-main.pdf?_tid=104d2d6e-2978-11e6-8176-00000aacb35f&acdnat=1464950812_ef41a2c1d0729b1ee6662632e5d4bec9
-[2016/06/03] http://tuvalu.santafe.edu/events/workshops/index.php/Background_Readings_CSSS16
-[2016/06/03] http://www.masfoundations.org/mas.pdf
+X [2016/06/03] http://ac.els-cdn.com/0198971595000283/1-s2.0-0198971595000283-main.pdf?_tid=104d2d6e-2978-11e6-8176-00000aacb35f&acdnat=1464950812_ef41a2c1d0729b1ee6662632e5d4bec9
+X [2016/06/03] http://tuvalu.santafe.edu/events/workshops/index.php/Background_Readings_CSSS16
+X [2016/06/03] http://www.masfoundations.org/mas.pdf
 [2016/06/03] http://vita.had.co.nz/papers/tidy-data.pdf
-[2016/06/03] http://www.abigaildevereaux.com/wp-content/uploads/2016/02/CV_AbigailNusseyDevereaux_WO.pdf
-[2016/06/03] http://csc.ucdavis.edu/~chaos/chaos/pubs.htm
+X [2016/06/03] http://www.abigaildevereaux.com/wp-content/uploads/2016/02/CV_AbigailNusseyDevereaux_WO.pdf
+X [2016/06/03] http://csc.ucdavis.edu/~chaos/chaos/pubs.htm
 [2016/05/31] https://books.google.fr/books?id=6JZP7Uy4fD4C&pg=PA235&lpg=PA235&dq=vincent+ginot+robert&source=bl&ots=0lHZz0y7hR&sig=vZzxVQh6jDO0JStmEuUDWAxxurc&hl=fr&sa=X&ved=0ahUKEwjlg-mL_b3MAhWFrxoKHf5nCKQQ6AEIITAB#v=onepage&q=vincent%20ginot%20robert&f=false
 X [2016/05/31] https://halshs.archives-ouvertes.fr/hal-01305357/document
 X [2016/05/30] [The Cost of Knowledge] http://thecostofknowledge.com/#list -> journals in Publications
