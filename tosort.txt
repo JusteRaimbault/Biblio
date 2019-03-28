@@ -404,10 +404,10 @@
 [2016/08/29] http://www.sciencedirect.com.sci-hub.cc/science/article/pii/S0307904X16304152
 [2016/08/29] http://journals.plos.org/plosbiology/article/asset?id=10.1371%2Fjournal.pbio.1002547.PDF
 [2016/08/25] [Biblio planning Hall] [to be read] http://epb.sagepub.com.sci-hub.cc/content/21/7/S79.full.pdf+html http://www.shahrsazionline.com/wp-content/uploads/2015/10/Transport_and_Urban_Developmentwww.shahrsazionline.com_.pdf#page=76
-[2016/08/25] http://arxiv.org/pdf/1601.01972v2.pdf
+- [2016/08/25] http://arxiv.org/pdf/1601.01972v2.pdf => todo version published naturecoms
 [2016/08/19] http://download.springer.com/static/pdf/709/art%253A10.1007%252FBF01048312.pdf?originUrl=http%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2FBF01048312&token2=exp=1471612287~acl=%2Fstatic%2Fpdf%2F709%2Fart%25253A10.1007%25252FBF01048312.pdf%3ForiginUrl%3Dhttp%253A%252F%252Flink.springer.com%252Farticle%252F10.1007%252FBF01048312*~hmac=0026656c20b5588b9aed9a5933ec2928ccebc2448d6807d8e7e2f612ac4b5012
 [2016/08/19] http://www.complex-systems.com/pdf/10-2-3.pdf
-[2016/08/19] http://arxiv.org/pdf/1606.05665v6.pdf
+X [2016/08/19] http://arxiv.org/pdf/1606.05665v6.pdf
 [2016/08/17] http://www.readcube.com/articles/10.1038/srep31461
 [2016/08/17] https://www.project-syndicate.org/commentary/data-optimization-danger-by-carlo-ratti-and-dirk-helbing-2016-08
 [2016/08/17] https://oscarperpinan.github.io/rastervis/
@@ -417,7 +417,7 @@
 [2016/08/10] http://www.nature.com/articles/srep31293#ref1
 [2016/08/10] http://www.sciencedirect.com/science/journal/07418329/46/2
 [2016/08/09] http://www.santafe.edu/media/cms_page_media/626/INPUB%20-DONOTCITE-citiy_networks.pdf
-[2016/08/09] http://cybergeo.revues.org/27725
+X [2016/08/09] http://cybergeo.revues.org/27725
 [2016/07/27] http://onlinelibrary.wiley.com/doi/10.1348/000711099159116/abstract
 [2016/07/27] http://biomet.oxfordjournals.org/content/83/4/875.full.pdf+html
 [2016/07/27] Fondements théoriques pour la simulation de systèmes complexes en géographie : Volume I - Recherche
@@ -425,18 +425,18 @@
 [2016/07/27] http://www.sudoc.abes.fr/DB=2.1//SRCH?IKT=12&TRM=097337811&COOKIE=U10178,Klecteurweb,D2.1,Edced3a23-69c,I250,B341720009+,SY,A%5C9008+1,,J,H2-26,,29,,34,,39,,44,,49-50,,53-78,,80-87,NLECTEUR+PSI,R193.55.107.188,FN
 [2016/07/27] https://tel.archives-ouvertes.fr/tel-00838028/file/these_A_CARROUET_Guillaume_2013.pdf
 [2016/07/27] http://www.forum-transports-territoires.com/2015/index.php?page=25-juin
-[2016/07/09] http://arxiv.org/pdf/1607.01879v1.pdf
-[2016/07/09] http://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0158391
+X [2016/07/09] http://arxiv.org/pdf/1607.01879v1.pdf
+X [2016/07/09] http://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0158391
 [2016/07/09] http://link.springer.com.sci-hub.cc/chapter/10.1007/11563983_10
-[2016/07/06] http://journals.plos.org/plosone/article/asset?id=10.1371%2Fjournal.pone.0158572.PDF
-[2016/07/06] http://www.pnas.org/content/113/27/7310.full.pdf
+X [2016/07/06] http://journals.plos.org/plosone/article/asset?id=10.1371%2Fjournal.pone.0158572.PDF
+X [2016/07/06] http://www.pnas.org/content/113/27/7310.full.pdf
 [2016/07/03] http://altmetrics.org/altmetrics16/
 [2016/06/29] http://www.readcube.com/articles/10.1038/srep28817
 [2016/06/29] http://www.readcube.com/articles/10.1038/srep28728
-[2016/06/29] http://journals.plos.org/plosone/article/asset?id=10.1371%2Fjournal.pone.0158323.PDF
-[2016/06/28] https://arxiv.org/pdf/1606.07772v1.pdf
+X [2016/06/29] http://journals.plos.org/plosone/article/asset?id=10.1371%2Fjournal.pone.0158323.PDF
+X [2016/06/28] https://arxiv.org/pdf/1606.07772v1.pdf
 [2016/06/28] https://github.com/wgmg/msy
-[2016/06/28] http://journals.plos.org/plosone/article/asset?id=10.1371%2Fjournal.pone.0157913.PDF
+X [2016/06/28] http://journals.plos.org/plosone/article/asset?id=10.1371%2Fjournal.pone.0157913.PDF
 [2016/06/27] [biblio big data : papier DeDeo] http://arxiv.org/pdf/1412.4643v3.pdf
 [2016/06/23] http://www.mdpi.com/1099-4300/18/4/138
 [2016/06/23] http://www.econ.uiuc.edu/~econ508/Papers/eggs.pdf
