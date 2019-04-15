@@ -431,8 +431,8 @@ X [2016/07/09] http://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pon
 X [2016/07/06] http://journals.plos.org/plosone/article/asset?id=10.1371%2Fjournal.pone.0158572.PDF
 X [2016/07/06] http://www.pnas.org/content/113/27/7310.full.pdf
 [2016/07/03] http://altmetrics.org/altmetrics16/
-[2016/06/29] http://www.readcube.com/articles/10.1038/srep28817
-[2016/06/29] http://www.readcube.com/articles/10.1038/srep28728
+X [2016/06/29] http://www.readcube.com/articles/10.1038/srep28817
+X [2016/06/29] http://www.readcube.com/articles/10.1038/srep28728
 X [2016/06/29] http://journals.plos.org/plosone/article/asset?id=10.1371%2Fjournal.pone.0158323.PDF
 X [2016/06/28] https://arxiv.org/pdf/1606.07772v1.pdf
 [2016/06/28] https://github.com/wgmg/msy
