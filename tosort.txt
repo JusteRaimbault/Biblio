@@ -427,20 +427,20 @@ X [2016/07/27] http://biomet.oxfordjournals.org/content/83/4/875.full.pdf+html =
 [2016/07/27] http://www.forum-transports-territoires.com/2015/index.php?page=25-juin
 X [2016/07/09] http://arxiv.org/pdf/1607.01879v1.pdf
 X [2016/07/09] http://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0158391
-[2016/07/09] http://link.springer.com.sci-hub.cc/chapter/10.1007/11563983_10
+X [2016/07/09] http://link.springer.com.sci-hub.cc/chapter/10.1007/11563983_10
 X [2016/07/06] http://journals.plos.org/plosone/article/asset?id=10.1371%2Fjournal.pone.0158572.PDF
 X [2016/07/06] http://www.pnas.org/content/113/27/7310.full.pdf
-[2016/07/03] http://altmetrics.org/altmetrics16/
+X [2016/07/03] http://altmetrics.org/altmetrics16/
 X [2016/06/29] http://www.readcube.com/articles/10.1038/srep28817
 X [2016/06/29] http://www.readcube.com/articles/10.1038/srep28728
 X [2016/06/29] http://journals.plos.org/plosone/article/asset?id=10.1371%2Fjournal.pone.0158323.PDF
 X [2016/06/28] https://arxiv.org/pdf/1606.07772v1.pdf
-[2016/06/28] https://github.com/wgmg/msy
+X [2016/06/28] https://github.com/wgmg/msy => softwares
 X [2016/06/28] http://journals.plos.org/plosone/article/asset?id=10.1371%2Fjournal.pone.0157913.PDF
-[2016/06/27] [biblio big data : papier DeDeo] http://arxiv.org/pdf/1412.4643v3.pdf
-[2016/06/23] http://www.mdpi.com/1099-4300/18/4/138
-[2016/06/23] http://www.econ.uiuc.edu/~econ508/Papers/eggs.pdf
-[2016/06/23] http://pythonhosted.org/lda/api.html#module-lda.lda
+X [2016/06/27] [biblio big data : papier DeDeo] http://arxiv.org/pdf/1412.4643v3.pdf
+X [2016/06/23] http://www.mdpi.com/1099-4300/18/4/138
+X [2016/06/23] http://www.econ.uiuc.edu/~econ508/Papers/eggs.pdf => joke paper !
+X [2016/06/23] http://pythonhosted.org/lda/api.html#module-lda.lda => Softwares
 X [2016/06/23] http://arxiv.org/pdf/1606.06162v1.pdf
 X [2016/06/21] [Biblio] [Book] http://nature-of-computation.org/ : OK (TODO readrec?)
 X [2016/06/20] (unread rss)  http://arxiv.org/abs/1503.06152 => published
@@ -451,7 +451,7 @@ X [2016/06/16] http://arxiv.org/pdf/1606.04796v1.pdf
 X [2016/06/16] http://arxiv.org/pdf/1606.04707v1.pdf
 X [2016/06/15] [Biblio] [Urban Form] http://arxiv.org/pdf/1606.04385v1.pdf
 X [2016/06/15] [Biblio] [China] http://arxiv.org/abs/1606.04382
-[2016/06/15] [Biblio] [Reproducibility] http://jods.mitpress.mit.edu/pub/dbdb
+X [2016/06/15] [Biblio] [Reproducibility] http://jods.mitpress.mit.edu/pub/dbdb => ??? [404 + no reprod paper in jods]
 X [2016/06/15] [Biblio] http://cybergeo.revues.org/27668
 X [2016/06/06] http://ac.els-cdn.com/S0967070X09000109/1-s2.0-S0967070X09000109-main.pdf?_tid=344a3e9c-2bde-11e6-a239-00000aab0f01&acdnat=1465214584_cbc62d5eedc942f97c715c8c6acdac09
 X [2016/06/06] http://ac.els-cdn.com/S0378437106000938/1-s2.0-S0378437106000938-main.pdf?_tid=05433e4c-2bdd-11e6-a379-00000aab0f6c&acdnat=1465214075_ec9a1af02fb454de1b803679f6fffba8
