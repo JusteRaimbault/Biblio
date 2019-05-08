@@ -402,7 +402,7 @@
 [2016/08/29] http://onlinelibrary.wiley.com/doi/10.1111/j.0016-7363.2005.00675.x/full
 [2016/08/29] http://journals.plos.org/ploscompbiol/article/asset?id=10.1371%2Fjournal.pcbi.1004829.PDF
 [2016/08/29] http://www.sciencedirect.com.sci-hub.cc/science/article/pii/S0307904X16304152
-[2016/08/29] http://journals.plos.org/plosbiology/article/asset?id=10.1371%2Fjournal.pbio.1002547.PDF
+X [2016/08/29] http://journals.plos.org/plosbiology/article/asset?id=10.1371%2Fjournal.pbio.1002547.PDF
 [2016/08/25] [Biblio planning Hall] [to be read] http://epb.sagepub.com.sci-hub.cc/content/21/7/S79.full.pdf+html http://www.shahrsazionline.com/wp-content/uploads/2015/10/Transport_and_Urban_Developmentwww.shahrsazionline.com_.pdf#page=76
 - [2016/08/25] http://arxiv.org/pdf/1601.01972v2.pdf => todo version published naturecoms
 [2016/08/19] http://download.springer.com/static/pdf/709/art%253A10.1007%252FBF01048312.pdf?originUrl=http%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2FBF01048312&token2=exp=1471612287~acl=%2Fstatic%2Fpdf%2F709%2Fart%25253A10.1007%25252FBF01048312.pdf%3ForiginUrl%3Dhttp%253A%252F%252Flink.springer.com%252Farticle%252F10.1007%252FBF01048312*~hmac=0026656c20b5588b9aed9a5933ec2928ccebc2448d6807d8e7e2f612ac4b5012
