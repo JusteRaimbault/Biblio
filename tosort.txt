@@ -393,30 +393,30 @@
 [2016/09/08] http://arxiv.org/pdf/1609.01214v1.pdf
 [2016/09/08] http://arxiv.org/pdf/1609.01217v1.pdf
 [2016/09/04] https://ideas.repec.org/a/eee/regeco/v17y1987i3p367-390.html https://fr.wikipedia.org/wiki/Mod%C3%A8le_de_Salop
-[2016/09/03] http://journals.plos.org/plosone/article/asset?id=10.1371%2Fjournal.pone.0162366.PDF
-[2016/09/03] http://science.sciencemag.org/content/353/6301/790
-[2016/08/31] http://www.nature.com/articles/ncomms12600#ref43
-[2016/08/29] http://www.mdpi.com/1999-5903/4/1/1/htm
-[2016/08/29] https://cran.r-project.org/src/contrib/Archive/rmongodb/
-[2016/08/29] http://ac.els-cdn.com/S0378437107012630/1-s2.0-S0378437107012630-main.pdf?_tid=095606fe-6df5-11e6-b32d-00000aab0f6b&acdnat=1472481167_4c9146e60fdc0dc5c60b39cd14f72ec7
-[2016/08/29] http://onlinelibrary.wiley.com/doi/10.1111/j.0016-7363.2005.00675.x/full
-[2016/08/29] http://journals.plos.org/ploscompbiol/article/asset?id=10.1371%2Fjournal.pcbi.1004829.PDF
-[2016/08/29] http://www.sciencedirect.com.sci-hub.cc/science/article/pii/S0307904X16304152
+X [2016/09/03] http://journals.plos.org/plosone/article/asset?id=10.1371%2Fjournal.pone.0162366.PDF => ideas + chat (calibprofile) 
+X [2016/09/03] http://science.sciencemag.org/content/353/6301/790
+X [2016/08/31] http://www.nature.com/articles/ncomms12600#ref43 + article power laws ref 43
+X [2016/08/29] http://www.mdpi.com/1999-5903/4/1/1/htm
+X [2016/08/29] https://cran.r-project.org/src/contrib/Archive/rmongodb/
+X [2016/08/29] http://ac.els-cdn.com/S0378437107012630/1-s2.0-S0378437107012630-main.pdf?_tid=095606fe-6df5-11e6-b32d-00000aab0f6b&acdnat=1472481167_4c9146e60fdc0dc5c60b39cd14f72ec7
+X [2016/08/29] http://onlinelibrary.wiley.com/doi/10.1111/j.0016-7363.2005.00675.x/full
+X [2016/08/29] http://journals.plos.org/ploscompbiol/article/asset?id=10.1371%2Fjournal.pcbi.1004829.PDF
+X [2016/08/29] http://www.sciencedirect.com.sci-hub.cc/science/article/pii/S0307904X16304152
 X [2016/08/29] http://journals.plos.org/plosbiology/article/asset?id=10.1371%2Fjournal.pbio.1002547.PDF
 [2016/08/25] [Biblio planning Hall] [to be read] http://epb.sagepub.com.sci-hub.cc/content/21/7/S79.full.pdf+html http://www.shahrsazionline.com/wp-content/uploads/2015/10/Transport_and_Urban_Developmentwww.shahrsazionline.com_.pdf#page=76
 - [2016/08/25] http://arxiv.org/pdf/1601.01972v2.pdf => todo version published naturecoms
 [2016/08/19] http://download.springer.com/static/pdf/709/art%253A10.1007%252FBF01048312.pdf?originUrl=http%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2FBF01048312&token2=exp=1471612287~acl=%2Fstatic%2Fpdf%2F709%2Fart%25253A10.1007%25252FBF01048312.pdf%3ForiginUrl%3Dhttp%253A%252F%252Flink.springer.com%252Farticle%252F10.1007%252FBF01048312*~hmac=0026656c20b5588b9aed9a5933ec2928ccebc2448d6807d8e7e2f612ac4b5012
 [2016/08/19] http://www.complex-systems.com/pdf/10-2-3.pdf
 X [2016/08/19] http://arxiv.org/pdf/1606.05665v6.pdf
-[2016/08/17] http://www.readcube.com/articles/10.1038/srep31461
-[2016/08/17] https://www.project-syndicate.org/commentary/data-optimization-danger-by-carlo-ratti-and-dirk-helbing-2016-08
-[2016/08/17] https://oscarperpinan.github.io/rastervis/
+X [2016/08/17] http://www.readcube.com/articles/10.1038/srep31461
+X [2016/08/17] https://www.project-syndicate.org/commentary/data-optimization-danger-by-carlo-ratti-and-dirk-helbing-2016-08
+X [2016/08/17] https://oscarperpinan.github.io/rastervis/ => resources
 X [2016/08/17] http://ac.els-cdn.com/S0378375802003531/1-s2.0-S0378375802003531-main.pdf?_tid=2a3677d0-6497-11e6-bed3-00000aab0f6c&acdnat=1471451289_2f2de01d4b029c2a5e56a10646150c08
 X [2016/08/17] http://www.tandfonline.com.sci-hub.cc/doi/pdf/10.2980/i1195-6860-12-3-302.1
 X [2016/08/10] [Network Generation] http://cybergeo.revues.org/27734
 X [2016/08/10] http://www.nature.com/articles/srep31293#ref1
-[2016/08/10] http://www.sciencedirect.com/science/journal/07418329/46/2
-[2016/08/09] http://www.santafe.edu/media/cms_page_media/626/INPUB%20-DONOTCITE-citiy_networks.pdf
+X [2016/08/10] http://www.sciencedirect.com/science/journal/07418329/46/2 => random resources
+X [2016/08/09] http://www.santafe.edu/media/cms_page_media/626/INPUB%20-DONOTCITE-citiy_networks.pdf => The topology of cities (?)
 X [2016/08/09] http://cybergeo.revues.org/27725
 X [2016/07/27] http://onlinelibrary.wiley.com/doi/10.1348/000711099159116/abstract => info criterion - => SimulationModels
 X [2016/07/27] http://biomet.oxfordjournals.org/content/83/4/875.full.pdf+html => Gen AIC => SimulationModels
