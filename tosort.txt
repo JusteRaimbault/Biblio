@@ -388,10 +388,10 @@
 [2016/09/08] http://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0162381
 [2016/09/08] http://arxiv.org/pdf/1609.00900v1.pdf
 [2016/09/08] http://arxiv.org/pdf/1609.01118v1.pdf
-[2016/09/08] http://arxiv.org/pdf/1609.00876v1.pdf
-[2016/09/08] http://arxiv.org/pdf/1609.01207v1.pdf
-[2016/09/08] http://arxiv.org/pdf/1609.01214v1.pdf
-[2016/09/08] http://arxiv.org/pdf/1609.01217v1.pdf
+X [2016/09/08] http://arxiv.org/pdf/1609.00876v1.pdf
+X [2016/09/08] http://arxiv.org/pdf/1609.01207v1.pdf
+X [2016/09/08] http://arxiv.org/pdf/1609.01214v1.pdf
+X [2016/09/08] http://arxiv.org/pdf/1609.01217v1.pdf
 [2016/09/04] https://ideas.repec.org/a/eee/regeco/v17y1987i3p367-390.html https://fr.wikipedia.org/wiki/Mod%C3%A8le_de_Salop
 X [2016/09/03] http://journals.plos.org/plosone/article/asset?id=10.1371%2Fjournal.pone.0162366.PDF => ideas + chat (calibprofile) 
 X [2016/09/03] http://science.sciencemag.org/content/353/6301/790
