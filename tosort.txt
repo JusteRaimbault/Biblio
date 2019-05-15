@@ -356,17 +356,17 @@
 [2016/09/27] http://www.nature.com.sci-hub.cc/nature/journal/vaop/ncurrent/full/nature19798.html
 [2016/09/27] http://arxiv.org/pdf/1608.02054v2.pdf
 [2016/09/27] http://arxiv.org/pdf/1105.5445v3.pdf
-[2016/09/27] http://arxiv.org/pdf/1609.07697v1.pdf
-[2016/09/27] http://arxiv.org/pdf/1609.07602v1.pdf
-[2016/09/27] http://www.nature.com/articles/srep33870?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+srep%2Frss%2Fcurrent+%28Scientific+Reports%29
-[2016/09/20] http://arxiv.org/pdf/1609.05542v1.pdf
-[2016/09/15] http://arxiv.org/pdf/1609.04033v1.pdf
-[2016/09/15] http://www.consc.net/papers/emergence.pdf
-[2016/09/15] http://epb.sagepub.com.sci-hub.cc/content/43/5/805.full.pdf+html
-[2016/09/15] http://epb.sagepub.com.sci-hub.cc/content/43/5/826.full.pdf+html
-[2016/09/14] http://arxiv.org/pdf/1609.03806v1.pdf
-[2016/09/14] http://arxiv.org/pdf/1609.03502v1.pdf
-[2016/09/14] https://arxiv.org/pdf/1109.2411.pdf
+X [2016/09/27] http://arxiv.org/pdf/1609.07697v1.pdf
+X [2016/09/27] http://arxiv.org/pdf/1609.07602v1.pdf
+X [2016/09/27] http://www.nature.com/articles/srep33870?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+srep%2Frss%2Fcurrent+%28Scientific+Reports%29
+X [2016/09/20] http://arxiv.org/pdf/1609.05542v1.pdf
+X [2016/09/15] http://arxiv.org/pdf/1609.04033v1.pdf (=> not published version - ok)
+X [2016/09/15] http://www.consc.net/papers/emergence.pdf
+X [2016/09/15] http://epb.sagepub.com.sci-hub.cc/content/43/5/805.full.pdf+html
+X [2016/09/15] http://epb.sagepub.com.sci-hub.cc/content/43/5/826.full.pdf+html
+X [2016/09/14] http://arxiv.org/pdf/1609.03806v1.pdf
+X [2016/09/14] http://arxiv.org/pdf/1609.03502v1.pdf
+X [2016/09/14] https://arxiv.org/pdf/1109.2411.pdf
 [2016/09/14] http://projecteuclid.org/download/pdfview_1/euclid.aos/1083178935
 [2016/09/14] http://www.annalesdelarechercheurbaine.fr/IMG/pdf/103.maizia.pdf
 [2016/09/14] https://halshs.archives-ouvertes.fr/halshs-00129279/document
