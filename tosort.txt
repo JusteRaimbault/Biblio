@@ -322,19 +322,19 @@
 [2016/10/06] https://arxiv.org/pdf/1610.01308v1.pdf
 [2016/10/06] http://cybergeo.revues.org/27800
 [2016/10/05] https://arxiv.org/pdf/1610.01002v1.pdf
-[2016/10/05] https://arxiv.org/pdf/1610.00985v1.pdf
+X [2016/10/05] https://arxiv.org/pdf/1610.00985v1.pdf
 [2016/10/05] https://books.google.fr/books?id=OuCKE1NSSEMC&pg=PA29&lpg=PA29&dq=spatio-temporal+stationarity+and+ergodicity&source=bl&ots=y7hW8d4rz0&sig=xzcRr1NSal14DwFwiamUAJtlazQ&hl=fr&sa=X&redir_esc=y#v=onepage&q=spatio-temporal%20stationarity%20and%20ergodicity&f=false
 [2016/10/05] http://rspb.royalsocietypublishing.org.sci-hub.cc/content/259/1355/111
-[2016/10/05] http://www.pnas.org/content/113/39/10759.short?rss=1&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+pnas%2FUJrK+%28Recent+Issues%29
-[2016/10/05] http://www.pnas.org/content/113/39/10980.short?rss=1&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+pnas%2FUJrK+%28Recent+Issues%29
-[2016/10/05] http://www.pnas.org/content/113/39/10729.short?rss=1&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+pnas%2FUJrK+%28Recent+Issues%29
-[2016/10/05] http://www.pnas.org/content/113/39/10824.full.pdf
-[2016/10/05] http://www.pnas.org/content/113/40/11261.short?rss=1&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+pnas%2FUJrK+%28Recent+Issues%29
-[2016/10/05] http://www.pnas.org/content/113/40/E5866.short?rss=1&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+pnas%2FUJrK+%28Recent+Issues%29
-[2016/10/05] http://www.pnas.org/content/113/40/E5780.short?rss=1&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+pnas%2FUJrK+%28Recent+Issues%29
-[2016/10/05] http://www.pnas.org/content/113/40/E5778.short?rss=1&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+pnas%2FUJrK+%28Recent+Issues%29
+X [2016/10/05] http://www.pnas.org/content/113/39/10759.short?rss=1&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+pnas%2FUJrK+%28Recent+Issues%29
+X [2016/10/05] http://www.pnas.org/content/113/39/10980.short?rss=1&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+pnas%2FUJrK+%28Recent+Issues%29
+X [2016/10/05] http://www.pnas.org/content/113/39/10729.short?rss=1&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+pnas%2FUJrK+%28Recent+Issues%29
+X [2016/10/05] http://www.pnas.org/content/113/39/10824.full.pdf
+X [2016/10/05] http://www.pnas.org/content/113/40/11261.short?rss=1&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+pnas%2FUJrK+%28Recent+Issues%29
+X [2016/10/05] http://www.pnas.org/content/113/40/E5866.short?rss=1&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+pnas%2FUJrK+%28Recent+Issues%29
+X [2016/10/05] http://www.pnas.org/content/113/40/E5780.short?rss=1&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+pnas%2FUJrK+%28Recent+Issues%29
+X [2016/10/05] http://www.pnas.org/content/113/40/E5778.short?rss=1&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+pnas%2FUJrK+%28Recent+Issues%29
 [2016/10/05] https://cran.r-project.org/web/packages/cowplot/vignettes/introduction.html
-[2016/10/03] [benchmark : scirep] http://www.readcube.com/articles/10.1038/srep33441 http://www.nature.com/articles/srep26377 http://www.nature.com/articles/srep34218
+X [2016/10/03] [benchmark : scirep] http://www.readcube.com/articles/10.1038/srep33441 http://www.nature.com/articles/srep26377 http://www.nature.com/articles/srep34218
 [2016/10/02] http://link.springer.com.sci-hub.cc/chapter/10.1007/978-3-319-46840-2_10
 [2016/10/02] https://github.com/tj/git-extras/blob/master/Commands.md#git-commits-since
 X [2016/09/30] https://arxiv.org/pdf/1601.00334v2.pdf
