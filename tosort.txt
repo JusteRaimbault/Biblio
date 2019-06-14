@@ -347,13 +347,13 @@ X [2016/09/30] https://arxiv.org/abs/1609.09170
 [2016/09/28] http://ac.els-cdn.com/S0016328707000687/1-s2.0-S0016328707000687-main.pdf?_tid=1f058604-855c-11e6-9777-00000aacb35d&acdnat=1475054318_a369d008bdfb1b7eb01739b78be543a4
 [2016/09/28] http://www.jstor.org.sci-hub.cc/stable/40694466
 X [2016/09/27] http://arxiv.org/pdf/1609.06982v1.pdf => EPB ! (rq: not updated)
-[2016/09/27] http://link.springer.com.sci-hub.cc/article/10.1007/s11442-015-1180-0
-[2016/09/27] http://www.sciencedirect.com.sci-hub.cc/science/article/pii/S0304380007005558
+X [2016/09/27] http://link.springer.com.sci-hub.cc/article/10.1007/s11442-015-1180-0
+X [2016/09/27] http://www.sciencedirect.com.sci-hub.cc/science/article/pii/S0304380007005558
 X [2016/09/27] http://arxiv.org/pdf/1609.05542v1.pdf => already in GameTheory !
 X [2016/09/27] http://arxiv.org/pdf/1609.06052v1.pdf
 X [2016/09/27] http://arxiv.org/pdf/1609.06470v1.pdf
-[2016/09/27] http://www.sciencedirect.com.sci-hub.cc/science/article/pii/S0022249614000637
-[2016/09/27] http://www.nature.com.sci-hub.cc/nature/journal/vaop/ncurrent/full/nature19798.html
+X [2016/09/27] http://www.sciencedirect.com.sci-hub.cc/science/article/pii/S0022249614000637
+X [2016/09/27] http://www.nature.com.sci-hub.cc/nature/journal/vaop/ncurrent/full/nature19798.html
 X [2016/09/27] http://arxiv.org/pdf/1608.02054v2.pdf
 X [2016/09/27] http://arxiv.org/pdf/1105.5445v3.pdf
 X [2016/09/27] http://arxiv.org/pdf/1609.07697v1.pdf
