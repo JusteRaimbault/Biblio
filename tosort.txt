@@ -309,16 +309,16 @@
 [2016/10/18] http://www.nature.com/articles/srep34651
 [2016/10/18] https://arxiv.org/pdf/1610.04134v1.pdf
 [2016/10/18] https://arxiv.org/pdf/1610.03939v1.pdf
-[2016/10/18]  arXiv:1610.04595
-[2016/10/18] https://arxiv.org/abs/1610.04551
-[2016/10/18] https://arxiv.org/pdf/1610.04377v1.pdf
-[2016/10/18] https://arxiv.org/pdf/1610.04224v1.pdf
+X [2016/10/18]  arXiv:1610.04595
+X [2016/10/18] https://arxiv.org/abs/1610.04551
+X [2016/10/18] https://arxiv.org/pdf/1610.04377v1.pdf
+X [2016/10/18] https://arxiv.org/pdf/1610.04224v1.pdf
 [2016/10/18] https://www.researchgate.net/profile/Richard_Sliuzas
 [2016/10/18] http://academia.stackexchange.com/questions/78379/conference-presenting-stick-to-paper-material
 [2016/10/18] https://auth.openedition.org/proxy?url=http%3A%2F%2Fcybergeo.revues.org%2Fpdf%2F27804
 [2016/10/07] http://mappemonde.mgm.fr/num36/articles/art12404.html
 [2016/10/06] http://www.nature.com/polopoly_fs/1.20731!/menu/main/topColumns/topLeftColumn/pdf/538020a.pdf
-[2016/10/06] https://arxiv.org/pdf/1610.01312v1.pdf
+X [2016/10/06] https://arxiv.org/pdf/1610.01312v1.pdf
 X [2016/10/06] https://arxiv.org/pdf/1610.01308v1.pdf
 X [2016/10/06] http://cybergeo.revues.org/27800
 X [2016/10/05] https://arxiv.org/pdf/1610.01002v1.pdf
