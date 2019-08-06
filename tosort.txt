@@ -319,7 +319,7 @@
 [2016/10/07] http://mappemonde.mgm.fr/num36/articles/art12404.html
 [2016/10/06] http://www.nature.com/polopoly_fs/1.20731!/menu/main/topColumns/topLeftColumn/pdf/538020a.pdf
 [2016/10/06] https://arxiv.org/pdf/1610.01312v1.pdf
-[2016/10/06] https://arxiv.org/pdf/1610.01308v1.pdf
+X [2016/10/06] https://arxiv.org/pdf/1610.01308v1.pdf
 X [2016/10/06] http://cybergeo.revues.org/27800
 X [2016/10/05] https://arxiv.org/pdf/1610.01002v1.pdf
 X [2016/10/05] https://arxiv.org/pdf/1610.00985v1.pdf
