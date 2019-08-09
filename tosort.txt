@@ -295,20 +295,20 @@
 [2017/02/03] https://www.researchgate.net/profile/Hardeep_Rai/publication/268241310_A_Systematic_Study_of_OpenStreetMap_Data_Quality_Assessment/links/55fc3b0d08aeba1d9f3c3a93.pdf
 [2017/02/03] http://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XL-4/383/2014/isprsarchives-XL-4-383-2014.pdf
 [2017/02/03] http://en.cnki.com.cn/Article_en/CJFDTOTAL-ZTKX200603006.htm
-[2017/02/03] http://journals.aps.org.secure.sci-hub.cc/prl/pdf/10.1103/PhysRevLett.100.234101
+X [2017/02/03] http://journals.aps.org.secure.sci-hub.cc/prl/pdf/10.1103/PhysRevLett.100.234101
 [2017/01/25] http://nbviewer.jupyter.org/github/lmcinnes/hdbscan/blob/master/notebooks/Comparing%20Clustering%20Algorithms.ipynb
-[2017/01/25] http://www.pnas.org.sci-hub.cc/content/114/4/663.full.pdf
-[2017/01/25] https://cybergeo.revues.org/221
+X [2017/01/25] http://www.pnas.org.sci-hub.cc/content/114/4/663.full.pdf
+X [2017/01/25] https://cybergeo.revues.org/221
 [2017/01/25] http://www.cairn.info/revue-histoire-des-sciences-humaines-2002-1-page-123.htm
-[2017/01/25] http://ac.els-cdn.com/S0039368109000168/1-s2.0-S0039368109000168-main.pdf?_tid=b6097da8-e2ea-11e6-8690-00000aab0f6b&acdnat=1485341018_56e1143f3f79b345d0fe99633f542786
+X [2017/01/25] http://ac.els-cdn.com/S0039368109000168/1-s2.0-S0039368109000168-main.pdf?_tid=b6097da8-e2ea-11e6-8690-00000aab0f6b&acdnat=1485341018_56e1143f3f79b345d0fe99633f542786
 [2017/01/25] http://download.springer.com/static/pdf/146/art%253A10.1007%252Fs11229-009-9506-z.pdf?originUrl=http%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs11229-009-9506-z&token2=exp=1485342425~acl=%2Fstatic%2Fpdf%2F146%2Fart%25253A10.1007%25252Fs11229-009-9506-z.pdf%3ForiginUrl%3Dhttp%253A%252F%252Flink.springer.com%252Farticle%252F10.1007%252Fs11229-009-9506-z*~hmac=00d36a68e2cc336aafbbe80a7dc7a230bf64451d835908a188f72351c2b755b9
 [2017/01/25] http://download.springer.com/static/pdf/191/art%253A10.1007%252Fs11229-009-9503-2.pdf?originUrl=http%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs11229-009-9503-2&token2=exp=1485342573~acl=%2Fstatic%2Fpdf%2F191%2Fart%25253A10.1007%25252Fs11229-009-9503-2.pdf%3ForiginUrl%3Dhttp%253A%252F%252Flink.springer.com%252Farticle%252F10.1007%252Fs11229-009-9503-2*~hmac=5eac854dfe0a794ca2f7421552378882bb880bb6323565a6f55c6f00fd0df999
 [2016/10/24] https://scholar.google.com/scholar?q=arthur+evolution*+technology&btnG=&hl=fr&as_sdt=0%2C5&oq=art
-[2016/10/18] https://arxiv.org/pdf/1610.02708v1.pdf
-[2016/10/18] http://www.nature.com/nature/journal/vaop/ncurrent/full/nature20100.html
-[2016/10/18] http://www.nature.com/articles/srep34651
-[2016/10/18] https://arxiv.org/pdf/1610.04134v1.pdf
-[2016/10/18] https://arxiv.org/pdf/1610.03939v1.pdf
+X [2016/10/18] https://arxiv.org/pdf/1610.02708v1.pdf
+X [2016/10/18] http://www.nature.com/nature/journal/vaop/ncurrent/full/nature20100.html => WTF ?
+X [2016/10/18] http://www.nature.com/articles/srep34651
+X [2016/10/18] https://arxiv.org/pdf/1610.04134v1.pdf
+X [2016/10/18] https://arxiv.org/pdf/1610.03939v1.pdf
 X [2016/10/18]  arXiv:1610.04595
 X [2016/10/18] https://arxiv.org/abs/1610.04551
 X [2016/10/18] https://arxiv.org/pdf/1610.04377v1.pdf
@@ -324,7 +324,7 @@ X [2016/10/06] http://cybergeo.revues.org/27800
 X [2016/10/05] https://arxiv.org/pdf/1610.01002v1.pdf
 X [2016/10/05] https://arxiv.org/pdf/1610.00985v1.pdf
 [2016/10/05] https://books.google.fr/books?id=OuCKE1NSSEMC&pg=PA29&lpg=PA29&dq=spatio-temporal+stationarity+and+ergodicity&source=bl&ots=y7hW8d4rz0&sig=xzcRr1NSal14DwFwiamUAJtlazQ&hl=fr&sa=X&redir_esc=y#v=onepage&q=spatio-temporal%20stationarity%20and%20ergodicity&f=false
-[2016/10/05] http://rspb.royalsocietypublishing.org.sci-hub.cc/content/259/1355/111
+X [2016/10/05] http://rspb.royalsocietypublishing.org.sci-hub.cc/content/259/1355/111
 X [2016/10/05] http://www.pnas.org/content/113/39/10759.short?rss=1&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+pnas%2FUJrK+%28Recent+Issues%29
 X [2016/10/05] http://www.pnas.org/content/113/39/10980.short?rss=1&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+pnas%2FUJrK+%28Recent+Issues%29
 X [2016/10/05] http://www.pnas.org/content/113/39/10729.short?rss=1&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+pnas%2FUJrK+%28Recent+Issues%29
@@ -333,19 +333,19 @@ X [2016/10/05] http://www.pnas.org/content/113/40/11261.short?rss=1&utm_source=f
 X [2016/10/05] http://www.pnas.org/content/113/40/E5866.short?rss=1&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+pnas%2FUJrK+%28Recent+Issues%29
 X [2016/10/05] http://www.pnas.org/content/113/40/E5780.short?rss=1&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+pnas%2FUJrK+%28Recent+Issues%29
 X [2016/10/05] http://www.pnas.org/content/113/40/E5778.short?rss=1&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+pnas%2FUJrK+%28Recent+Issues%29
-[2016/10/05] https://cran.r-project.org/web/packages/cowplot/vignettes/introduction.html
+X [2016/10/05] https://cran.r-project.org/web/packages/cowplot/vignettes/introduction.html => resources
 X [2016/10/03] [benchmark : scirep] http://www.readcube.com/articles/10.1038/srep33441 http://www.nature.com/articles/srep26377 http://www.nature.com/articles/srep34218
-[2016/10/02] http://link.springer.com.sci-hub.cc/chapter/10.1007/978-3-319-46840-2_10
-[2016/10/02] https://github.com/tj/git-extras/blob/master/Commands.md#git-commits-since
+X [2016/10/02] http://link.springer.com.sci-hub.cc/chapter/10.1007/978-3-319-46840-2_10
+X [2016/10/02] https://github.com/tj/git-extras/blob/master/Commands.md#git-commits-since => resources
 X [2016/09/30] https://arxiv.org/pdf/1601.00334v2.pdf
 X [2016/09/30] https://arxiv.org/abs/1609.09218
 X [2016/09/30] https://arxiv.org/abs/1609.09181
 X [2016/09/30] https://arxiv.org/abs/1609.09170
-[2016/09/30] http://www.tandfonline.com/doi/full/10.1080/02673037.2016.1150433?src=recsys
-[2016/09/29] http://www.nature.com.sci-hub.cc/nphys/journal/v10/n10/full/nphys3110.html
-[2016/09/28] https://scholar.google.com/scholar?start=70&q=quantitative+epistemology&hl=fr&as_sdt=0,5
-[2016/09/28] http://ac.els-cdn.com/S0016328707000687/1-s2.0-S0016328707000687-main.pdf?_tid=1f058604-855c-11e6-9777-00000aacb35d&acdnat=1475054318_a369d008bdfb1b7eb01739b78be543a4
-[2016/09/28] http://www.jstor.org.sci-hub.cc/stable/40694466
+X [2016/09/30] http://www.tandfonline.com/doi/full/10.1080/02673037.2016.1150433?src=recsys
+X [2016/09/29] http://www.nature.com.sci-hub.cc/nphys/journal/v10/n10/full/nphys3110.html
+X [2016/09/28] https://scholar.google.com/scholar?start=70&q=quantitative+epistemology&hl=fr&as_sdt=0,5 => paper model evaluation vs validation
+X [2016/09/28] http://ac.els-cdn.com/S0016328707000687/1-s2.0-S0016328707000687-main.pdf?_tid=1f058604-855c-11e6-9777-00000aacb35d&acdnat=1475054318_a369d008bdfb1b7eb01739b78be543a4
+X [2016/09/28] http://www.jstor.org.sci-hub.cc/stable/40694466
 X [2016/09/27] http://arxiv.org/pdf/1609.06982v1.pdf => EPB ! (rq: not updated)
 X [2016/09/27] http://link.springer.com.sci-hub.cc/article/10.1007/s11442-015-1180-0
 X [2016/09/27] http://www.sciencedirect.com.sci-hub.cc/science/article/pii/S0304380007005558
