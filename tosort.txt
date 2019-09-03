@@ -250,9 +250,9 @@ X [2017/07/07] https://github.com/miotto/treetagger-python
 [2017/04/18] http://www.tandfonline.com.sci-hub.cc/doi/abs/10.1080/19463138.2016.1277227
 [2017/04/18] https://halshs.archives-ouvertes.fr/halshs-01082644/
 [2017/04/18] https://benthamopen.com/contents/pdf/TOGEOGJ/TOGEOGJ-1-1.pdf
-[2017/04/13] http://ieeexplore.ieee.org/abstract/document/4060955/
+X [2017/04/13] http://ieeexplore.ieee.org/abstract/document/4060955/
 [2017/04/13] https://en.wikipedia.org/wiki/Persistent_homology https://scholar.google.com/scholar?hl=fr&q=persistent+homology+point+cloud+discrepancy&btnG=&lr=&oq=persistent+homology+point+cloud+discrp http://projecteuclid.org.sci-hub.cc/euclid.aoas/1458909913#info
-[2017/04/12] http://www.pnas.org/content/114/15/E2998.full.pdf : significance trends
+X [2017/04/12] http://www.pnas.org/content/114/15/E2998.full.pdf : significance trends
 [2017/04/12] http://download.springer.com/static/pdf/67/art%253A10.1140%252Fepjb%252Fe2006-00085-1.pdf?originUrl=http%3A%2F%2Flink.springer.com%2Farticle%2F10.1140%2Fepjb%2Fe2006-00085-1&token2=exp=1491899196~acl=%2Fstatic%2Fpdf%2F67%2Fart%25253A10.1140%25252Fepjb%25252Fe2006-00085-1.pdf%3ForiginUrl%3Dhttp%253A%252F%252Flink.springer.com%252Farticle%252F10.1140%252Fepjb%252Fe2006-00085-1*~hmac=e954c48b22482ab9c429c4ae8c3aebf9be6245e97ed269e8c4c8262dd64e3d7d network analysis
 [2017/04/03] https://www.researchgate.net/publication/314981100_Work_organization_and_mental_health_problems_in_PhD_students
 [2017/03/30] http://www.pnas.org.sci-hub.cc/content/114/13/E2662.full.pdf
