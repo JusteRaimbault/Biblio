@@ -243,10 +243,10 @@ X [2017/07/07] https://github.com/miotto/treetagger-python
 [2017/04/24] http://www.amutc.fr/pdf/GPE_Rapport_Auzannet_Grand_Paris_Express_13decembre2012.pdf
 [2017/04/24] https://tel.archives-ouvertes.fr/tel-01230497/document
 [2017/04/21] Generative NW model and PrefAtt fitting :  https://arxiv.org/pdf/1704.06017.pdf
-[2017/04/20] MACRO COEVOL https://cybergeo.revues.org/27734
+X [2017/04/20] MACRO COEVOL https://cybergeo.revues.org/27734
 [2017/04/20] NW GEN HEURISTIC http://link.springer.com.secure.sci-hub.cc/article/10.1007/s11067-015-9308-4
 [2017/04/20] circ eco ? https://repositorium.sdum.uminho.pt/bitstream/1822/18705/1/Paper_Guimaraes.pdf
-[2017/04/18] http://cybergeo.revues.org/25900
+X [2017/04/18] http://cybergeo.revues.org/25900
 [2017/04/18] http://www.tandfonline.com.sci-hub.cc/doi/abs/10.1080/19463138.2016.1277227
 [2017/04/18] https://halshs.archives-ouvertes.fr/halshs-01082644/
 [2017/04/18] https://benthamopen.com/contents/pdf/TOGEOGJ/TOGEOGJ-1-1.pdf
