@@ -241,8 +241,8 @@ X [2017/07/07] https://github.com/miotto/treetagger-python
 [2017/04/24] https://arxiv.org/pdf/1704.06508.pdf
 [2017/04/24] https://scholar.google.com/scholar?hl=fr&q=grand+paris+express+projets&btnG=&lr=
 [2017/04/24] http://www.amutc.fr/pdf/GPE_Rapport_Auzannet_Grand_Paris_Express_13decembre2012.pdf
-[2017/04/24] https://tel.archives-ouvertes.fr/tel-01230497/document
-[2017/04/21] Generative NW model and PrefAtt fitting :  https://arxiv.org/pdf/1704.06017.pdf
+X [2017/04/24] https://tel.archives-ouvertes.fr/tel-01230497/document
+X [2017/04/21] Generative NW model and PrefAtt fitting :  https://arxiv.org/pdf/1704.06017.pdf
 X [2017/04/20] MACRO COEVOL https://cybergeo.revues.org/27734
 [2017/04/20] NW GEN HEURISTIC http://link.springer.com.secure.sci-hub.cc/article/10.1007/s11067-015-9308-4
 [2017/04/20] circ eco ? https://repositorium.sdum.uminho.pt/bitstream/1822/18705/1/Paper_Guimaraes.pdf
@@ -263,23 +263,23 @@ X [2017/03/23] https://arxiv.org/pdf/1703.07376.pdf
 X [2017/03/23] http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0172669&type=printable
 X [2017/03/22] http://cybergeo.revues.org/27985
 X [2017/03/20] [book barthelemy] http://www.cambridge.org/fr/academic/subjects/physics/statistical-physics/structure-and-dynamics-cities-urban-data-analysis-and-theoretical-modeling?format=HB&isbn=9781107109179 => Ok already bought
-[2017/03/16] http://journals.sagepub.com.sci-hub.cc/doi/pdf/10.1068/b38216
+X [2017/03/16] http://journals.sagepub.com.sci-hub.cc/doi/pdf/10.1068/b38216
 X [2017/03/16] http://ac.els-cdn.com/S0375960108015867/1-s2.0-S0375960108015867-main.pdf?_tid=17685a98-0a2c-11e7-ad1a-00000aacb35f&acdnat=1489657194_8cb0203c182f0d05f2540d2d723ae157
 [2017/03/09] http://download.springer.com/static/pdf/660/art%253A10.1140%252Fepjst%252Fe2012-01693-0.pdf?originUrl=http%3A%2F%2Flink.springer.com%2Farticle%2F10.1140%2Fepjst%2Fe2012-01693-0&token2=exp=1488971637~acl=%2Fstatic%2Fpdf%2F660%2Fart%25253A10.1140%25252Fepjst%25252Fe2012-01693-0.pdf%3ForiginUrl%3Dhttp%253A%252F%252Flink.springer.com%252Farticle%252F10.1140%252Fepjst%252Fe2012-01693-0*~hmac=ab8264999a2da65082fc2ed19d748364253dca5d3e98a70312db03ea1de6658c
 X [2017/03/03] https://arxiv.org/abs/1703.00533
 X [2017/03/03] https://arxiv.org/pdf/1607.07169.pdf
-[2017/03/03] http://www.pnas.org/content/114/9/2177.full.pdf
+X [2017/03/03] http://www.pnas.org/content/114/9/2177.full.pdf
 [2017/02/27] http://www.snf.ch/SiteCollectionDocuments/horizonte/Horizonte_gesamt/SNF_horizons_110_September_(EN).pdf
-[2017/02/27] http://biorxiv.org/content/biorxiv/early/2016/07/29/066803.full.pdf
+X [2017/02/27] http://biorxiv.org/content/biorxiv/early/2016/07/29/066803.full.pdf
 X [2017/02/27] http://science.sciencemag.org.sci-hub.cc/content/354/6318/1423
 X [2017/02/27] https://arxiv.org/pdf/1702.07483.pdf
 [2017/02/24] https://scholar.google.com/scholar?hl=fr&q=pearl+river+delta+governance&btnG=&lr= https://arxiv.org/pdf/1702.07227.pdf http://students.brown.edu/seeing-theory/statistical-inference/index.html#third
-[2017/02/23] http://iste.co.uk/data/doc_dhssdqzwkmot.pdf
+X [2017/02/23] http://iste.co.uk/data/doc_dhssdqzwkmot.pdf
 X [2017/02/23] http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0172643&type=printable
 X [2017/02/23] https://arxiv.org/pdf/1702.06176.pdf
 X [2017/02/23] https://arxiv.org/pdf/1702.06527.pdf
 X [2017/02/23] http://www.michaeleisen.org/blog/?p=1981
-[2017/02/23] http://www.spatialcomplexity.info/files/2017/02/SS-SI-Paper-BATTY-Jan2017.pdf
+X [2017/02/23] http://www.spatialcomplexity.info/files/2017/02/SS-SI-Paper-BATTY-Jan2017.pdf
 X [2017/02/16] https://arxiv.org/pdf/1702.04449.pdf
 X [2017/02/16] https://arxiv.org/pdf/1702.04046.pdf
 X [2017/02/16] http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0171833&type=printable
@@ -315,8 +315,8 @@ X [2016/10/18] https://arxiv.org/pdf/1610.04377v1.pdf
 X [2016/10/18] https://arxiv.org/pdf/1610.04224v1.pdf
 X [2016/10/18] https://www.researchgate.net/profile/Richard_Sliuzas
 X [2016/10/18] http://academia.stackexchange.com/questions/78379/conference-presenting-stick-to-paper-material
-[2016/10/18] https://auth.openedition.org/proxy?url=http%3A%2F%2Fcybergeo.revues.org%2Fpdf%2F27804
-[2016/10/07] http://mappemonde.mgm.fr/num36/articles/art12404.html
+X [2016/10/18] https://auth.openedition.org/proxy?url=http%3A%2F%2Fcybergeo.revues.org%2Fpdf%2F27804
+X [2016/10/07] http://mappemonde.mgm.fr/num36/articles/art12404.html
 [2016/10/06] http://www.nature.com/polopoly_fs/1.20731!/menu/main/topColumns/topLeftColumn/pdf/538020a.pdf
 X [2016/10/06] https://arxiv.org/pdf/1610.01312v1.pdf
 X [2016/10/06] https://arxiv.org/pdf/1610.01308v1.pdf
