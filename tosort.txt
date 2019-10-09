@@ -269,11 +269,11 @@ X [2017/03/16] http://ac.els-cdn.com/S0375960108015867/1-s2.0-S0375960108015867-
 X [2017/03/03] https://arxiv.org/abs/1703.00533
 X [2017/03/03] https://arxiv.org/pdf/1607.07169.pdf
 X [2017/03/03] http://www.pnas.org/content/114/9/2177.full.pdf
-[2017/02/27] http://www.snf.ch/SiteCollectionDocuments/horizonte/Horizonte_gesamt/SNF_horizons_110_September_(EN).pdf
+X [2017/02/27] http://www.snf.ch/SiteCollectionDocuments/horizonte/Horizonte_gesamt/SNF_horizons_110_September_(EN).pdf => open sci intro ? OK
 X [2017/02/27] http://biorxiv.org/content/biorxiv/early/2016/07/29/066803.full.pdf
 X [2017/02/27] http://science.sciencemag.org.sci-hub.cc/content/354/6318/1423
 X [2017/02/27] https://arxiv.org/pdf/1702.07483.pdf
-[2017/02/24] https://scholar.google.com/scholar?hl=fr&q=pearl+river+delta+governance&btnG=&lr= https://arxiv.org/pdf/1702.07227.pdf http://students.brown.edu/seeing-theory/statistical-inference/index.html#third
+X [2017/02/24] https://scholar.google.com/scholar?hl=fr&q=pearl+river+delta+governance&btnG=&lr= => resources geo | paper EPA https://arxiv.org/pdf/1702.07227.pdf http://students.brown.edu/seeing-theory/statistical-inference/index.html#third => 404 => pdf book seeing-theory + resources stats (viz) 
 X [2017/02/23] http://iste.co.uk/data/doc_dhssdqzwkmot.pdf
 X [2017/02/23] http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0172643&type=printable
 X [2017/02/23] https://arxiv.org/pdf/1702.06176.pdf
@@ -284,7 +284,7 @@ X [2017/02/16] https://arxiv.org/pdf/1702.04449.pdf
 X [2017/02/16] https://arxiv.org/pdf/1702.04046.pdf
 X [2017/02/16] http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0171833&type=printable
 X [2017/02/16] http://wid.world/methodology/#library-presentation-slides
-[2017/02/09] http://region-developpement.univ-tln.fr/fr/pdf/R11/R11_Derycke.pdf
+X [2017/02/09] http://region-developpement.univ-tln.fr/fr/pdf/R11/R11_Derycke.pdf => no pdf ! + Reg sci plutot que Geo?
 X [2017/02/09] http://link.springer.com/chapter/10.1007/978-1-4020-4676-6_8
 X [2017/02/09] http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.88.4991&rep=rep1&type=pdf => these Geoffrey !
 X [2017/02/09] http://www.cairn.info/revue-d-economie-regionale-et-urbaine-2009-2-page-267.htm
@@ -292,14 +292,14 @@ X [2017/02/09] http://onlinelibrary.wiley.com.sci-hub.cc/store/10.1111/j.0435-36
 X [2017/02/09] http://www.sciencedirect.com/science/article/pii/S0047259X03000605
 X [2017/02/09] http://cybergeo.revues.org/27945 => // UrbanSystems also ? ~ very descriptive
 X [2017/02/03] http://www.tandfonline.com/doi/pdf/10.1080/13658816.2013.867495?needAccess=true
-[2017/02/03] https://www.researchgate.net/profile/Hardeep_Rai/publication/268241310_A_Systematic_Study_of_OpenStreetMap_Data_Quality_Assessment/links/55fc3b0d08aeba1d9f3c3a93.pdf
-[2017/02/03] http://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XL-4/383/2014/isprsarchives-XL-4-383-2014.pdf
-[2017/02/03] http://en.cnki.com.cn/Article_en/CJFDTOTAL-ZTKX200603006.htm
+X [2017/02/03] https://www.researchgate.net/profile/Hardeep_Rai/publication/268241310_A_Systematic_Study_of_OpenStreetMap_Data_Quality_Assessment/links/55fc3b0d08aeba1d9f3c3a93.pdf
+X [2017/02/03] http://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XL-4/383/2014/isprsarchives-XL-4-383-2014.pdf
+X [2017/02/03] http://en.cnki.com.cn/Article_en/CJFDTOTAL-ZTKX200603006.htm
 X [2017/02/03] http://journals.aps.org.secure.sci-hub.cc/prl/pdf/10.1103/PhysRevLett.100.234101
 X [2017/01/25] http://nbviewer.jupyter.org/github/lmcinnes/hdbscan/blob/master/notebooks/Comparing%20Clustering%20Algorithms.ipynb
 X [2017/01/25] http://www.pnas.org.sci-hub.cc/content/114/4/663.full.pdf
 X [2017/01/25] https://cybergeo.revues.org/221
-[2017/01/25] http://www.cairn.info/revue-histoire-des-sciences-humaines-2002-1-page-123.htm
+X [2017/01/25] http://www.cairn.info/revue-histoire-des-sciences-humaines-2002-1-page-123.htm
 X [2017/01/25] http://ac.els-cdn.com/S0039368109000168/1-s2.0-S0039368109000168-main.pdf?_tid=b6097da8-e2ea-11e6-8690-00000aab0f6b&acdnat=1485341018_56e1143f3f79b345d0fe99633f542786
 [2017/01/25] http://download.springer.com/static/pdf/146/art%253A10.1007%252Fs11229-009-9506-z.pdf?originUrl=http%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs11229-009-9506-z&token2=exp=1485342425~acl=%2Fstatic%2Fpdf%2F146%2Fart%25253A10.1007%25252Fs11229-009-9506-z.pdf%3ForiginUrl%3Dhttp%253A%252F%252Flink.springer.com%252Farticle%252F10.1007%252Fs11229-009-9506-z*~hmac=00d36a68e2cc336aafbbe80a7dc7a230bf64451d835908a188f72351c2b755b9
 [2017/01/25] http://download.springer.com/static/pdf/191/art%253A10.1007%252Fs11229-009-9503-2.pdf?originUrl=http%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs11229-009-9503-2&token2=exp=1485342573~acl=%2Fstatic%2Fpdf%2F191%2Fart%25253A10.1007%25252Fs11229-009-9503-2.pdf%3ForiginUrl%3Dhttp%253A%252F%252Flink.springer.com%252Farticle%252F10.1007%252Fs11229-009-9503-2*~hmac=5eac854dfe0a794ca2f7421552378882bb880bb6323565a6f55c6f00fd0df999
@@ -317,13 +317,13 @@ X [2016/10/18] https://www.researchgate.net/profile/Richard_Sliuzas
 X [2016/10/18] http://academia.stackexchange.com/questions/78379/conference-presenting-stick-to-paper-material
 X [2016/10/18] https://auth.openedition.org/proxy?url=http%3A%2F%2Fcybergeo.revues.org%2Fpdf%2F27804
 X [2016/10/07] http://mappemonde.mgm.fr/num36/articles/art12404.html
-[2016/10/06] http://www.nature.com/polopoly_fs/1.20731!/menu/main/topColumns/topLeftColumn/pdf/538020a.pdf
+X [2016/10/06] http://www.nature.com/polopoly_fs/1.20731!/menu/main/topColumns/topLeftColumn/pdf/538020a.pdf
 X [2016/10/06] https://arxiv.org/pdf/1610.01312v1.pdf
 X [2016/10/06] https://arxiv.org/pdf/1610.01308v1.pdf
 X [2016/10/06] http://cybergeo.revues.org/27800
 X [2016/10/05] https://arxiv.org/pdf/1610.01002v1.pdf
 X [2016/10/05] https://arxiv.org/pdf/1610.00985v1.pdf
-[2016/10/05] https://books.google.fr/books?id=OuCKE1NSSEMC&pg=PA29&lpg=PA29&dq=spatio-temporal+stationarity+and+ergodicity&source=bl&ots=y7hW8d4rz0&sig=xzcRr1NSal14DwFwiamUAJtlazQ&hl=fr&sa=X&redir_esc=y#v=onepage&q=spatio-temporal%20stationarity%20and%20ergodicity&f=false
+X [2016/10/05] https://books.google.fr/books?id=OuCKE1NSSEMC&pg=PA29&lpg=PA29&dq=spatio-temporal+stationarity+and+ergodicity&source=bl&ots=y7hW8d4rz0&sig=xzcRr1NSal14DwFwiamUAJtlazQ&hl=fr&sa=X&redir_esc=y#v=onepage&q=spatio-temporal%20stationarity%20and%20ergodicity&f=false
 X [2016/10/05] http://rspb.royalsocietypublishing.org.sci-hub.cc/content/259/1355/111
 X [2016/10/05] http://www.pnas.org/content/113/39/10759.short?rss=1&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+pnas%2FUJrK+%28Recent+Issues%29
 X [2016/10/05] http://www.pnas.org/content/113/39/10980.short?rss=1&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+pnas%2FUJrK+%28Recent+Issues%29
@@ -367,10 +367,10 @@ X [2016/09/15] http://epb.sagepub.com.sci-hub.cc/content/43/5/826.full.pdf+html
 X [2016/09/14] http://arxiv.org/pdf/1609.03806v1.pdf
 X [2016/09/14] http://arxiv.org/pdf/1609.03502v1.pdf
 X [2016/09/14] https://arxiv.org/pdf/1109.2411.pdf
-[2016/09/14] http://projecteuclid.org/download/pdfview_1/euclid.aos/1083178935
-[2016/09/14] http://www.annalesdelarechercheurbaine.fr/IMG/pdf/103.maizia.pdf
-[2016/09/14] https://halshs.archives-ouvertes.fr/halshs-00129279/document
-[2016/09/14] http://www.cairn.info/revue-flux-2008-1-page-73.html https://scholar.google.com/scholar?hl=fr&q=MINDJID+MAIZIA&btnG=&lr=
+X [2016/09/14] http://projecteuclid.org/download/pdfview_1/euclid.aos/1083178935
+X [2016/09/14] http://www.annalesdelarechercheurbaine.fr/IMG/pdf/103.maizia.pdf ! UTC => Shanghai Utseus ?
+X [2016/09/14] https://halshs.archives-ouvertes.fr/halshs-00129279/document
+X [2016/09/14] http://www.cairn.info/revue-flux-2008-1-page-73.html https://scholar.google.com/scholar?hl=fr&q=MINDJID+MAIZIA&btnG=&lr= => resources geo
 X [2016/09/13] http://arxiv.org/pdf/1609.03324v1.pdf
 X [2016/09/13] http://arxiv.org/pdf/1609.03223v1.pdf
 X [2016/09/13] http://biomet.oxfordjournals.org/content/75/2/237.full.pdf
@@ -392,7 +392,7 @@ X [2016/09/08] http://arxiv.org/pdf/1609.00876v1.pdf
 X [2016/09/08] http://arxiv.org/pdf/1609.01207v1.pdf
 X [2016/09/08] http://arxiv.org/pdf/1609.01214v1.pdf
 X [2016/09/08] http://arxiv.org/pdf/1609.01217v1.pdf
-[2016/09/04] https://ideas.repec.org/a/eee/regeco/v17y1987i3p367-390.html https://fr.wikipedia.org/wiki/Mod%C3%A8le_de_Salop
+X [2016/09/04] https://ideas.repec.org/a/eee/regeco/v17y1987i3p367-390.html https://fr.wikipedia.org/wiki/Mod%C3%A8le_de_Salop
 X [2016/09/03] http://journals.plos.org/plosone/article/asset?id=10.1371%2Fjournal.pone.0162366.PDF => ideas + chat (calibprofile) 
 X [2016/09/03] http://science.sciencemag.org/content/353/6301/790
 X [2016/08/31] http://www.nature.com/articles/ncomms12600#ref43 + article power laws ref 43
@@ -420,10 +420,10 @@ X [2016/08/09] http://www.santafe.edu/media/cms_page_media/626/INPUB%20-DONOTCIT
 X [2016/08/09] http://cybergeo.revues.org/27725
 X [2016/07/27] http://onlinelibrary.wiley.com/doi/10.1348/000711099159116/abstract => info criterion - => SimulationModels
 X [2016/07/27] http://biomet.oxfordjournals.org/content/83/4/875.full.pdf+html => Gen AIC => SimulationModels
-[2016/07/27] Fondements théoriques pour la simulation de systèmes complexes en géographie : Volume I - Recherche
-[2016/07/27] http://www.univ-tours.fr/m-baptiste-herve-1292.kjsp
-[2016/07/27] http://www.sudoc.abes.fr/DB=2.1//SRCH?IKT=12&TRM=097337811&COOKIE=U10178,Klecteurweb,D2.1,Edced3a23-69c,I250,B341720009+,SY,A%5C9008+1,,J,H2-26,,29,,34,,39,,44,,49-50,,53-78,,80-87,NLECTEUR+PSI,R193.55.107.188,FN
-[2016/07/27] https://tel.archives-ouvertes.fr/tel-00838028/file/these_A_CARROUET_Guillaume_2013.pdf
+X [2016/07/27] Fondements théoriques pour la simulation de systèmes complexes en géographie : Volume I - Recherche
+X [2016/07/27] http://www.univ-tours.fr/m-baptiste-herve-1292.kjsp => resources Geo
+X [2016/07/27] http://www.sudoc.abes.fr/DB=2.1//SRCH?IKT=12&TRM=097337811&COOKIE=U10178,Klecteurweb,D2.1,Edced3a23-69c,I250,B341720009+,SY,A%5C9008+1,,J,H2-26,,29,,34,,39,,44,,49-50,,53-78,,80-87,NLECTEUR+PSI,R193.55.107.188,FN
+X [2016/07/27] https://tel.archives-ouvertes.fr/tel-00838028/file/these_A_CARROUET_Guillaume_2013.pdf
 X [2016/07/27] http://www.forum-transports-territoires.com/2015/index.php?page=25-juin
 X [2016/07/09] http://arxiv.org/pdf/1607.01879v1.pdf
 X [2016/07/09] http://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0158391
