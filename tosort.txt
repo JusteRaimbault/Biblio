@@ -202,43 +202,43 @@ X [2017/07/07] https://github.com/miotto/treetagger-python
 [2017/07/07] http://journals.sagepub.com/doi/pdf/10.1068/b240159
 [2017/07/07] http://www.sciencedirect.com.sci-hub.cc/science/article/pii/0377221788902792
 [2017/07/07] https://www.witpress.com/Secure/elibrary/papers/9781845646547/9781845646547019FU1.pdf
-[2017/07/07] https://arxiv.org/pdf/1706.09439.pdf
-[2017/07/07] http://www.spatialcomplexity.info/files/2017/06/BATTY-Working-Paper-The-Age-of-the-Smart-City.pdf
+X [2017/07/07] https://arxiv.org/pdf/1706.09439.pdf => Pone
+X [2017/07/07] http://www.spatialcomplexity.info/files/2017/06/BATTY-Working-Paper-The-Age-of-the-Smart-City.pdf
 [2017/07/07] [Biblio - from NetworkTerritories] https://scholar.google.fr/scholar?hl=fr&q=Does+the+tunnel+effect+still+remains+in+2016&btnG=&lr= https://scholar.google.fr/scholar?hl=fr&q=La+mobilit%C3%A9+dans+la+ville+durable%3A+la+construction+de+l%27%C3%A9vidence+du+Tramway+par+des+dynamiques+transactionnelles&btnG=&lr=
 [2017/07/07] [Biblio - from EcoGeo] https://scholar.google.fr/scholar?hl=fr&q=Three+Presentations+on+Geographical+Analysis+and+Modeling%3A+Non-Isotropic+Geographic+Modeling+Speculations+on+the+Geometry+of+Geography&btnG=&lr= https://scholar.google.fr/scholar?hl=fr&q=highway+urban+growth+causal+state+employment&btnG=&lr= https://scholar.google.fr/scholar?hl=fr&q=Transportation+policy+as+spatial+planning+tool+reducing+urban+sprawl+by+increasing+travel+costs+and+clustering+infrastructure+and+public+transportation&btnG=&lr= https://scholar.google.fr/scholar?cites=13771878500912690558&as_sdt=2005&sciodt=0,5&hl=fr https://scholar.google.fr/scholar?cluster=22913079507209008&hl=fr&as_sdt=2005&sciodt=0,5 https://scholar.google.fr/scholar?q=lotka-volterra+implies+pareto-zipf&btnG=&hl=fr&as_sdt=0%2C5 https://scholar.google.fr/scholar?q=As+far+as+the+laws+of+mathematics+refer+to+reality%2C+they+are+not+certain+and+as+far+as+they+are+certain%2C+they+do+not+refer+to+reality&btnG=&hl=fr&as_sdt=0%2C5 https://scholar.google.fr/scholar?hl=fr&q=Mapping+the+epistemological+diversity+of+Chinese+medicine+a+Q+methodology+study&btnG=&lr= https://scholar.google.fr/scholar?hl=fr&q=Interaction+of+rail+infrastructure+and+urbanisation+in+the+Netherlands&btnG=&lr= https://scholar.google.fr/scholar?hl=fr&q=Simulation+cognitive+de+la+prise+de+d%C3%A9cision+d%27experts+application+au+trafic+maritime&btnG=&lr=
 [2017/06/01] [multi-obj game theory] http://www.conta.uom.gr/conta/publications/PDF/MULTI-OBJECTIVE%20ROUTING%20IN%20INTEGRATED%20SERVICES%20NETWORKS%20-%20A%20GAME%20THEORY%20APPROACH.pdf
 [2017/06/01] [Morphological Analysis Ratti] http://journals.sagepub.com.sci-hub.cc/doi/abs/10.1068/b2665
-[2017/05/26] https://arxiv.org/pdf/1705.08502.pdf
-[2017/05/26] http://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1005512&type=printable
-[2017/05/24] https://arxiv.org/pdf/1705.08265.pdf
+X [2017/05/26] https://arxiv.org/pdf/1705.08502.pdf
+X [2017/05/26] http://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1005512&type=printable
+X [2017/05/24] https://arxiv.org/pdf/1705.08265.pdf
 [2017/05/24] [Biblio : Th - computationnal complexity] http://download.springer.com/static/pdf/117/chp%253A10.1007%252F978-3-642-28111-2_10.pdf?originUrl=http%3A%2F%2Flink.springer.com%2Fchapter%2F10.1007%2F978-3-642-28111-2_10&token2=exp=1495542367~acl=%2Fstatic%2Fpdf%2F117%2Fchp%25253A10.1007%25252F978-3-642-28111-2_10.pdf%3ForiginUrl%3Dhttp%253A%252F%252Flink.springer.com%252Fchapter%252F10.1007%252F978-3-642-28111-2_10*~hmac=cfafccdfa79790216f328b3168ca57033f78ac4ef8264fa510f080c04f51b268
 [2017/05/24] http://csc.ucdavis.edu/~cmg/papers/CompOnset.pdf
 [2017/05/24] [Biblio : R Lemoy EcoGeo] http://iopscience.iop.org/article/10.1209/0295-5075/93/38002/pdf
-[2017/05/24] https://cybergeo.revues.org/23381
-[2017/05/24] http://www.pnas.org/content/106/49/20622.full.pdf
+X [2017/05/24] https://cybergeo.revues.org/23381
+X [2017/05/24] http://www.pnas.org/content/106/49/20622.full.pdf
 [2017/05/22] [Lutecia] http://www.sciencedirect.com/science/article/pii/S0959378011001221
 [2017/05/22] http://www.jstor.org.sci-hub.cc/stable/3501681?seq=1#page_scan_tab_contents
-[2017/05/20] https://arxiv.org/pdf/1705.05603.pdf
-[2017/05/20] https://arxiv.org/pdf/1705.05651.pdf
+X [2017/05/20] https://arxiv.org/pdf/1705.05603.pdf
+X [2017/05/20] https://arxiv.org/pdf/1705.05651.pdf
 [2017/05/20] http://www.pnas.org.sci-hub.cc/content/114/20/5136.full.pdf
-[2017/05/20] https://arxiv.org/pdf/1705.04353.pdf
-[2017/05/20] https://arxiv.org/pdf/1705.06510.pdf
-[2017/05/15] http://rgeomatic.hypotheses.org/854
+X [2017/05/20] https://arxiv.org/pdf/1705.04353.pdf
+X [2017/05/20] https://arxiv.org/pdf/1705.06510.pdf
+X [2017/05/15] http://rgeomatic.hypotheses.org/854
 [2017/05/15] https://journals.aps.org/pre/abstract/10.1103/PhysRevE.95.052308
-[2017/05/15] https://f1000research.com/articles/6-588/v1
-[2017/05/15] https://f1000research.com/for-authors/publish-your-research
-[2017/05/11] https://arxiv.org/pdf/1705.01986.pdf
-[2017/05/11] https://arxiv.org/pdf/1705.02198.pdf
+X [2017/05/15] https://f1000research.com/articles/6-588/v1
+X [2017/05/15] https://f1000research.com/for-authors/publish-your-research => journals
+X [2017/05/11] https://arxiv.org/pdf/1705.01986.pdf
+X [2017/05/11] https://arxiv.org/pdf/1705.02198.pdf
 [2017/05/11] http://journals.sagepub.com/doi/pdf/10.1177/0042098015601599
-[2017/05/11] https://math.stackexchange.com/questions/1058261/pure-and-mixed-strategy-in-nash-equilibria-with-n-player
-[2017/05/01] http://cybergeo.revues.org/28040
-[2017/04/28] http://www.cairn.info/revue-espace-geographique-2013-1-page-32.htm
-[2017/04/28] http://cybergeo.revues.org/28038#tocto3n1
+X [2017/05/11] https://math.stackexchange.com/questions/1058261/pure-and-mixed-strategy-in-nash-equilibria-with-n-player => resources math
+X [2017/05/01] http://cybergeo.revues.org/28040
+X [2017/04/28] http://www.cairn.info/revue-espace-geographique-2013-1-page-32.htm
+X [2017/04/28] http://cybergeo.revues.org/28038#tocto3n1
 [2017/04/28] http://www.sciencedirect.com/science/article/pii/0165188988900553
-[2017/04/28] https://arxiv.org/pdf/1704.07523.pdf
-[2017/04/28] http://www.readcube.com/articles/10.1038/srep46672
-[2017/04/24] https://arxiv.org/pdf/1704.06476.pdf
-[2017/04/24] https://arxiv.org/pdf/1704.06508.pdf
+X [2017/04/28] https://arxiv.org/pdf/1704.07523.pdf
+X [2017/04/28] http://www.readcube.com/articles/10.1038/srep46672
+X [2017/04/24] https://arxiv.org/pdf/1704.06476.pdf
+X [2017/04/24] https://arxiv.org/pdf/1704.06508.pdf
 [2017/04/24] https://scholar.google.com/scholar?hl=fr&q=grand+paris+express+projets&btnG=&lr=
 [2017/04/24] http://www.amutc.fr/pdf/GPE_Rapport_Auzannet_Grand_Paris_Express_13decembre2012.pdf
 X [2017/04/24] https://tel.archives-ouvertes.fr/tel-01230497/document
