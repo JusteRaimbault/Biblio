@@ -168,45 +168,45 @@
 [2017/10/16] Granger causality / Transfer entropy https://sci-hub.cc/https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.103.238701
 [2017/10/16] Complexity : https://arxiv.org/pdf/0710.3784.pdf http://onlinelibrary.wiley.com/doi/10.1002/cplx.21424/full
 [2017/10/16] https://arxiv.org/pdf/1710.04538.pdf
-[2017/10/16] https://link.springer.com/content/pdf/10.1007%2Fs11067-005-2627-0.pdf
-[2017/10/16] Bibiometrics : https://link.springer.com/article/10.1007/s11192-017-2528-2
+X [2017/10/16] https://link.springer.com/content/pdf/10.1007%2Fs11067-005-2627-0.pdf
+X [2017/10/16] Bibiometrics : https://link.springer.com/article/10.1007/s11192-017-2528-2
 [2017/10/06] https://pdfs.semanticscholar.org/a9e4/02cb0c96ce816df075016ffd9754780c3d30.pdf
 [2017/10/06] https://tel.archives-ouvertes.fr/tel-00923682/document
-[2017/10/06] https://arxiv.org/pdf/1710.01869.pdf
+X [2017/10/06] https://arxiv.org/pdf/1710.01869.pdf
 [2017/10/06] ComplexSystems/CityNetwork/Biblio/Docs/UrbanMorphology/TH2010PEST1111_complete.pdf
 [2017/10/06] ComplexSystems/CityNetwork/Biblio/Docs/UrbanSystems/these_Thomas_Louail.pdf
-[2017/10/02] http://www.persee.fr/docAsPDF/spgeo_0046-2497_1993_num_22_1_3123.pdf https://fr.wikipedia.org/wiki/Liaison_ferroviaire_transalpine_Lyon_-_Turin
+X [2017/10/02] http://www.persee.fr/docAsPDF/spgeo_0046-2497_1993_num_22_1_3123.pdf https://fr.wikipedia.org/wiki/Liaison_ferroviaire_transalpine_Lyon_-_Turin => resources Geo
 [2017/10/02] http://chamilo1.grenet.fr/ujf/courses/LPROPPRS/document/FTUE304/ArcGIS/2012-2013/Module_AnalyseSpatiale/Ressources/Une_modelisation_spatiale_de_stations_de_ski.pdf
-[2017/09/30] https://arxiv.org/pdf/1709.08684.pdf
+X [2017/09/30] https://arxiv.org/pdf/1709.08684.pdf => sageo paper !
 [2017/09/30] https://twitter.com/valentinsocha/status/911304476643995649
 [2017/09/30] https://twitter.com/ParisAMDParis/status/913645871115489281
-[2017/09/30] https://arxiv.org/pdf/1709.08244.pdf
-[2017/09/29] [Biblio : Turing Patterns] https://arxiv.org/pdf/1709.10043.pdf
+X [2017/09/30] https://arxiv.org/pdf/1709.08244.pdf
+X [2017/09/29] [Biblio : Turing Patterns] https://arxiv.org/pdf/1709.10043.pdf
 [2017/09/28] https://sci-hub.cc/http://journals.sagepub.com/doi/pdf/10.1068/a161137
 [2017/09/28] https://sci-hub.cc/http://journals.sagepub.com/doi/pdf/10.1068/a160583
-[2017/09/18] [biblio] https://epjdatascience.springeropen.com/track/pdf/10.1140/epjds/s13688-017-0119-3?site=epjdatascience.springeropen.com
-[2017/09/18] https://arxiv.org/pdf/1709.04868.pdf
-[2017/09/06] [Morphogenesis] http://www.spatialcomplexity.info/archives/3368
-[2017/09/06] http://www.spatialcomplexity.info/files/2017/09/PG-DARCY-RGS-2017.pdf
-[2017/09/01] [biblio] http://cybergeo.revues.org/28543 http://www.entropicparticles.com/procedural-city-growth http://roadtrees.com/creating-road-trees/
-[2017/08/23] http://www.pnas.org/content/114/34/8963.full.pdf
+X [2017/09/18] [biblio] https://epjdatascience.springeropen.com/track/pdf/10.1140/epjds/s13688-017-0119-3?site=epjdatascience.springeropen.com
+X [2017/09/18] https://arxiv.org/pdf/1709.04868.pdf => PONE
+X [2017/09/06] [Morphogenesis] http://www.spatialcomplexity.info/archives/3368 => resources geo
+X [2017/09/06] http://www.spatialcomplexity.info/files/2017/09/PG-DARCY-RGS-2017.pdf => resources geo
+X [2017/09/01] [biblio] http://cybergeo.revues.org/28543 http://www.entropicparticles.com/procedural-city-growth => Geo resources http://roadtrees.com/creating-road-trees/ => dead link
+X [2017/08/23] http://www.pnas.org/content/114/34/8963.full.pdf
 [2017/07/25] [Biblio] Checker les automates cellulaires : http://www.complexcity.info/working-papers/
-[2017/07/25] http://www.persee.fr/doc/spgeo_0046-2497_1990_num_19_4_3009
+X [2017/07/25] http://www.persee.fr/doc/spgeo_0046-2497_1990_num_19_4_3009
 [2017/07/07] [Bib] http://onlinelibrary.wiley.com/doi/10.1111/j.1435-5957.2008.00205.x/full
-[2017/07/07] https://stats.stackexchange.com/questions/131281/dynamic-time-warping-clustering
-[2017/07/07] https://epjdatascience.springeropen.com/track/pdf/10.1140/epjds/s13688-017-0111-y?site=epjdatascience.springeropen.com
-[2017/07/07] https://arxiv.org/pdf/1707.01446.pdf
+X [2017/07/07] https://stats.stackexchange.com/questions/131281/dynamic-time-warping-clustering => resources Stats
+X [2017/07/07] https://epjdatascience.springeropen.com/track/pdf/10.1140/epjds/s13688-017-0111-y?site=epjdatascience.springeropen.com
+X [2017/07/07] https://arxiv.org/pdf/1707.01446.pdf => Procedia CS
 X [2017/07/07] [TreeTagger] http://corpus.leeds.ac.uk/tools/zh/
 X [2017/07/07] http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/
 X [2017/07/07] https://github.com/miotto/treetagger-python
 [2017/07/07] http://journals.sagepub.com/doi/pdf/10.1068/b240159
 [2017/07/07] http://www.sciencedirect.com.sci-hub.cc/science/article/pii/0377221788902792
-[2017/07/07] https://www.witpress.com/Secure/elibrary/papers/9781845646547/9781845646547019FU1.pdf
+X [2017/07/07] https://www.witpress.com/Secure/elibrary/papers/9781845646547/9781845646547019FU1.pdf
 X [2017/07/07] https://arxiv.org/pdf/1706.09439.pdf => Pone
 X [2017/07/07] http://www.spatialcomplexity.info/files/2017/06/BATTY-Working-Paper-The-Age-of-the-Smart-City.pdf
-[2017/07/07] [Biblio - from NetworkTerritories] https://scholar.google.fr/scholar?hl=fr&q=Does+the+tunnel+effect+still+remains+in+2016&btnG=&lr= https://scholar.google.fr/scholar?hl=fr&q=La+mobilit%C3%A9+dans+la+ville+durable%3A+la+construction+de+l%27%C3%A9vidence+du+Tramway+par+des+dynamiques+transactionnelles&btnG=&lr=
-[2017/07/07] [Biblio - from EcoGeo] https://scholar.google.fr/scholar?hl=fr&q=Three+Presentations+on+Geographical+Analysis+and+Modeling%3A+Non-Isotropic+Geographic+Modeling+Speculations+on+the+Geometry+of+Geography&btnG=&lr= https://scholar.google.fr/scholar?hl=fr&q=highway+urban+growth+causal+state+employment&btnG=&lr= https://scholar.google.fr/scholar?hl=fr&q=Transportation+policy+as+spatial+planning+tool+reducing+urban+sprawl+by+increasing+travel+costs+and+clustering+infrastructure+and+public+transportation&btnG=&lr= https://scholar.google.fr/scholar?cites=13771878500912690558&as_sdt=2005&sciodt=0,5&hl=fr https://scholar.google.fr/scholar?cluster=22913079507209008&hl=fr&as_sdt=2005&sciodt=0,5 https://scholar.google.fr/scholar?q=lotka-volterra+implies+pareto-zipf&btnG=&hl=fr&as_sdt=0%2C5 https://scholar.google.fr/scholar?q=As+far+as+the+laws+of+mathematics+refer+to+reality%2C+they+are+not+certain+and+as+far+as+they+are+certain%2C+they+do+not+refer+to+reality&btnG=&hl=fr&as_sdt=0%2C5 https://scholar.google.fr/scholar?hl=fr&q=Mapping+the+epistemological+diversity+of+Chinese+medicine+a+Q+methodology+study&btnG=&lr= https://scholar.google.fr/scholar?hl=fr&q=Interaction+of+rail+infrastructure+and+urbanisation+in+the+Netherlands&btnG=&lr= https://scholar.google.fr/scholar?hl=fr&q=Simulation+cognitive+de+la+prise+de+d%C3%A9cision+d%27experts+application+au+trafic+maritime&btnG=&lr=
-[2017/06/01] [multi-obj game theory] http://www.conta.uom.gr/conta/publications/PDF/MULTI-OBJECTIVE%20ROUTING%20IN%20INTEGRATED%20SERVICES%20NETWORKS%20-%20A%20GAME%20THEORY%20APPROACH.pdf
+X [2017/07/07] [Biblio - from NetworkTerritories] https://scholar.google.fr/scholar?hl=fr&q=Does+the+tunnel+effect+still+remains+in+2016&btnG=&lr= https://scholar.google.fr/scholar?hl=fr&q=La+mobilit%C3%A9+dans+la+ville+durable%3A+la+construction+de+l%27%C3%A9vidence+du+Tramway+par+des+dynamiques+transactionnelles&btnG=&lr=
+X [2017/07/07] [Biblio - from EcoGeo] https://scholar.google.fr/scholar?hl=fr&q=Three+Presentations+on+Geographical+Analysis+and+Modeling%3A+Non-Isotropic+Geographic+Modeling+Speculations+on+the+Geometry+of+Geography&btnG=&lr= https://scholar.google.fr/scholar?hl=fr&q=highway+urban+growth+causal+state+employment&btnG=&lr= => Levinson, two papers causal spatial analysis | https://scholar.google.fr/scholar?hl=fr&q=Transportation+policy+as+spatial+planning+tool+reducing+urban+sprawl+by+increasing+travel+costs+and+clustering+infrastructure+and+public+transportation&btnG=&lr= https://scholar.google.fr/scholar?cites=13771878500912690558&as_sdt=2005&sciodt=0,5&hl=fr => 1 paper reg science territory/nw |  https://scholar.google.fr/scholar?cluster=22913079507209008&hl=fr&as_sdt=2005&sciodt=0,5 => url only |  https://scholar.google.fr/scholar?q=lotka-volterra+implies+pareto-zipf&btnG=&hl=fr&as_sdt=0%2C5 https://scholar.google.fr/scholar?q=As+far+as+the+laws+of+mathematics+refer+to+reality%2C+they+are+not+certain+and+as+far+as+they+are+certain%2C+they+do+not+refer+to+reality&btnG=&hl=fr&as_sdt=0%2C => WTF? misc resources | https://scholar.google.fr/scholar?hl=fr&q=Mapping+the+epistemological+diversity+of+Chinese+medicine+a+Q+methodology+study&btnG=&lr= https://scholar.google.fr/scholar?hl=fr&q=Interaction+of+rail+infrastructure+and+urbanisation+in+the+Netherlands&btnG=&lr= https://scholar.google.fr/scholar?hl=fr&q=Simulation+cognitive+de+la+prise+de+d%C3%A9cision+d%27experts+application+au+trafic+maritime&btnG=&lr=
+X [2017/06/01] [multi-obj game theory] http://www.conta.uom.gr/conta/publications/PDF/MULTI-OBJECTIVE%20ROUTING%20IN%20INTEGRATED%20SERVICES%20NETWORKS%20-%20A%20GAME%20THEORY%20APPROACH.pdf
 [2017/06/01] [Morphological Analysis Ratti] http://journals.sagepub.com.sci-hub.cc/doi/abs/10.1068/b2665
 X [2017/05/26] https://arxiv.org/pdf/1705.08502.pdf
 X [2017/05/26] http://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1005512&type=printable
