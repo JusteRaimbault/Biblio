@@ -117,49 +117,49 @@
 [2017/12/20] [Bib Pnas] http://feedproxy.google.com/~r/pnas/UJrK/~3/U2kRVoUbgs0/13489.short
 [2017/12/20] http://feedproxy.google.com/~r/pnas/UJrK/~3/jPJ5NbgValQ/13501.short
 [2017/12/20] http://feedproxy.google.com/~r/pnas/UJrK/~3/vPOPBFu64nU/13531.short
-[2017/12/20] http://feedproxy.google.com/~r/pnas/UJrK/~3/EwN2vLl0KnQ/13447.short
-[2017/12/18] http://www.sciencedirect.com/science/article/pii/S235214651730594X
+X [2017/12/20] http://feedproxy.google.com/~r/pnas/UJrK/~3/EwN2vLl0KnQ/13447.short
+X [2017/12/18] http://www.sciencedirect.com/science/article/pii/S235214651730594X
 [2017/12/11] [Bitbol] https://en.wikipedia.org/wiki/Michel_Bitbol http://philsci-archive.pitt.edu/4006/1/Emergence1.pdf
 [2017/12/11] Physique quantique http://pagesperso.lina.univ-nantes.fr/~prie-y/archives/ENACTION-SCHOOLS/docs/documents2009/quantique-cognition.pdf
-[2017/12/11] http://rsta.royalsocietypublishing.org/content/roypta/375/2109/20160338.full.pdf
-[2017/12/11] https://halshs.archives-ouvertes.fr/halshs-00145939/document
-[2017/12/11] https://halshs.archives-ouvertes.fr/halshs-01625460/document
-[2017/12/11] https://arxiv.org/pdf/1712.02937.pdf
-[2017/11/25] https://tel.archives-ouvertes.fr/file/index/docid/676912/filename/TheseHabilitationHutzler.pdf
-[2017/11/24] [bib] https://arxiv.org/pdf/1711.07387.pdf
-[2017/11/24] http://www.persee.fr/doc/flux_1154-2721_1997_num_13_29_1207
-[2017/11/24] https://www.econstor.eu/bitstream/10419/109155/1/822169371.pdf
-[2017/11/24] https://arxiv.org/pdf/1711.02456.pdf
-[2017/11/24] https://arxiv.org/pdf/1711.03499.pdf
-[2017/11/24] https://halshs.archives-ouvertes.fr/tel-01419708/document
+X [2017/12/11] http://rsta.royalsocietypublishing.org/content/roypta/375/2109/20160338.full.pdf
+X [2017/12/11] https://halshs.archives-ouvertes.fr/halshs-00145939/document
+X [2017/12/11] https://halshs.archives-ouvertes.fr/halshs-01625460/document
+X [2017/12/11] https://arxiv.org/pdf/1712.02937.pdf => too few bib - strange paper (computer scientist ?)
+X [2017/11/25] https://tel.archives-ouvertes.fr/file/index/docid/676912/filename/TheseHabilitationHutzler.pdf => profile Hutzler + papier Morvan 2014 multiniveau (! pas le meme Morvan)
+X [2017/11/24] [bib] https://arxiv.org/pdf/1711.07387.pdf => totally alife paper!
+X [2017/11/24] http://www.persee.fr/doc/flux_1154-2721_1997_num_13_29_1207
+X [2017/11/24] https://www.econstor.eu/bitstream/10419/109155/1/822169371.pdf
+X [2017/11/24] https://arxiv.org/pdf/1711.02456.pdf
+X [2017/11/24] https://arxiv.org/pdf/1711.03499.pdf
+X [2017/11/24] https://halshs.archives-ouvertes.fr/tel-01419708/document
 [2017/11/24] [Ergodicity] https://sci-hub.cc/http://iopscience.iop.org/article/10.1088/1751-8113/47/48/485002/meta
-[2017/11/24] https://link.springer.com/content/pdf/10.1007/BF01886869.pdf
+X [2017/11/24] https://link.springer.com/content/pdf/10.1007/BF01886869.pdf
 [2017/11/24] https://scholar.google.fr/scholar?hl=fr&as_sdt=0%2C5&q=non-ergodic+non-stationary+spatial+processes&btnG=
-[2017/11/24] [Time Series] https://cran.r-project.org/web/packages/tseriesChaos/tseriesChaos.pdf
-[2017/11/24] https://cran.r-project.org/web/views/TimeSeries.html
-[2017/11/24] https://stackoverflow.com/questions/1714280/multivariate-time-series-modelling-in-r
+X [2017/11/24] [Time Series] https://cran.r-project.org/web/packages/tseriesChaos/tseriesChaos.pdf => idem 
+X [2017/11/24] https://cran.r-project.org/web/views/TimeSeries.html => idem
+X [2017/11/24] https://stackoverflow.com/questions/1714280/multivariate-time-series-modelling-in-r => resources time series
 [2017/11/24] http://www.sciencedirect.com/science/article/pii/0377221795002065
-[2017/11/24] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3170781/pdf/nihms313517.pdf (garch : hs)
-[2017/11/15] [BIB : PNAS] http://www.pnas.org/content/114/46/12303.short?rss=1&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+pnas%2FUJrK+%28Recent+Issues%29
-[2017/11/15] http://www.pnas.org/content/114/46/12219.short?rss=1&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+pnas%2FUJrK+%28Recent+Issues%29
-[2017/11/15] http://www.pnas.org/content/114/46/12338.short?rss=1&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+pnas%2FUJrK+%28Recent+Issues%29
-[2017/11/15] http://www.pnas.org/content/114/46/E9783.short?rss=1&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+pnas%2FUJrK+%28Recent+Issues%29
-[2017/11/02] [BIB] https://f1000research.com/articles/6-1151/v2
+X [2017/11/24] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3170781/pdf/nihms313517.pdf (garch : hs)
+X [2017/11/15] [BIB : PNAS] http://www.pnas.org/content/114/46/12303.short?rss=1&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+pnas%2FUJrK+%28Recent+Issues%29
+X [2017/11/15] http://www.pnas.org/content/114/46/12219.short?rss=1&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+pnas%2FUJrK+%28Recent+Issues%29
+X [2017/11/15] http://www.pnas.org/content/114/46/12338.short?rss=1&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+pnas%2FUJrK+%28Recent+Issues%29
+X [2017/11/15] http://www.pnas.org/content/114/46/E9783.short?rss=1&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+pnas%2FUJrK+%28Recent+Issues%29
+X [2017/11/02] [BIB] https://f1000research.com/articles/6-1151/v2 => v3
 [2017/11/02] https://ac.els-cdn.com/S0197397504000025/1-s2.0-S0197397504000025-main.pdf?_tid=d606671c-bfc9-11e7-9ec3-00000aacb35e&acdnat=1509626106_6593ac7e1944b417865abcc81486ecc4
 [2017/11/02] https://ac.els-cdn.com/0264837795000275/1-s2.0-0264837795000275-main.pdf?_tid=ea7bf76c-bfd2-11e7-ba38-00000aacb360&acdnat=1509630005_3497b66de2fee788b51593d117a8ff38
-[2017/11/02] http://www.hypergeo.eu/spip.php?article699
-[2017/11/02] http://jasss.soc.surrey.ac.uk/15/2/7.html
-[2017/10/28] https://hal-paris1.archives-ouvertes.fr/halshs-00156880/document
+X [2017/11/02] http://www.hypergeo.eu/spip.php?article699 => ok article -> geo
+X [2017/11/02] http://jasss.soc.surrey.ac.uk/15/2/7.html
+X [2017/10/28] https://hal-paris1.archives-ouvertes.fr/halshs-00156880/document
 [2017/10/28] ComplexSystems/CityNetwork/Biblio/Docs/TransportationGeography/EG_431_0051.pdf
 [2017/10/28] https://sci-hub.cc/http://onlinelibrary.wiley.com/book/10.1002/0470871296
 [2017/10/28] http://www.tandfonline.com/doi/pdf/10.1080/01615440.2013.804788?needAccess=true
-[2017/10/28] https://arxiv.org/pdf/1710.09559.pdf
-[2017/10/28] https://pdfs.semanticscholar.org/e9e6/bb5f2a04ae30d8ecc9287f8b702eedd7b772.pdf
-[2017/10/28] http://pubs.rsc.org/en/content/articlepdf/2014/CP/C4CP03465A
+X [2017/10/28] https://arxiv.org/pdf/1710.09559.pdf
+X [2017/10/28] https://pdfs.semanticscholar.org/e9e6/bb5f2a04ae30d8ecc9287f8b702eedd7b772.pdf
+X [2017/10/28] http://pubs.rsc.org/en/content/articlepdf/2014/CP/C4CP03465A
 [2017/10/28] https://sci-hub.cc/https://link.springer.com/article/10.1007/BF00893695?LI=true
 X [2017/10/28] https://sci-hub.cc/http://www.sciencedirect.com/science/article/pii/S1364815210002008
 [2017/10/20] [Morphogenesis / soc] https://scholar.google.fr/scholar?hl=fr&as_sdt=0%2C5&q=Jean+Petitot&btnG= https://scholar.google.fr/scholar?hl=fr&as_sdt=0%2C5&q=self+organized+criticality&btnG=&oq=self-organized+critical
-[2017/10/20] [LUTI]  http://lvmt.altercreation.fr/recherche/mots-du-lvmt/quels-systemes-territoriaux/ https://hal.inria.fr/hal-01093254/document https://dspace.ucalgary.ca/bitstream/1880/42758/1/49478Abraham.pdf
+X [2017/10/20] [LUTI]  http://lvmt.altercreation.fr/recherche/mots-du-lvmt/quels-systemes-territoriaux/ => resource geo https://hal.inria.fr/hal-01093254/document https://dspace.ucalgary.ca/bitstream/1880/42758/1/49478Abraham.pdf
 X [2017/10/18] http://www.persee.fr/doc/spgeo_0046-2497_1990_num_19_1_2943
 X [2017/10/18] https://arxiv.org/pdf/1709.05718.pdf
 X [2017/10/18] https://sci-hub.cc/http://journals.sagepub.com/doi/pdf/10.1177/0265813515599982
