@@ -106,17 +106,17 @@
 [2018/02/06] https://journals.openedition.org/cybergeo/2636?file=1
 [2018/02/06] https://www.sciencedirect.com/science/article/pii/S0965856416300854
 [2018/02/06] https://books.google.com/ngrams/graph?content=morphogenesis
-[2018/02/04] https://epjdatascience.springeropen.com/track/pdf/10.1140/epjds/s13688-018-0132-1?site=epjdatascience.springeropen.com
-[2018/01/18] http://journals.openedition.org/cybergeo/28922
-[2018/01/13] https://www.nature.com/articles/s41893-017-0010-z
-[2018/01/03] https://ac.els-cdn.com/S0966692309000866/1-s2.0-S0966692309000866-main.pdf?_tid=649318d4-f05f-11e7-a9a1-00000aab0f6b&acdnat=1514967996_c1fed01b5960edaa54efe05683842d02
+X [2018/02/04] https://epjdatascience.springeropen.com/track/pdf/10.1140/epjds/s13688-018-0132-1?site=epjdatascience.springeropen.com
+X [2018/01/18] http://journals.openedition.org/cybergeo/28922
+X [2018/01/13] https://www.nature.com/articles/s41893-017-0010-z
+X [2018/01/03] https://ac.els-cdn.com/S0966692309000866/1-s2.0-S0966692309000866-main.pdf?_tid=649318d4-f05f-11e7-a9a1-00000aab0f6b&acdnat=1514967996_c1fed01b5960edaa54efe05683842d02
 [2018/01/03] https://www.nap.edu/read/10144/chapter/16#227
-[2017/12/22] https://pdfs.semanticscholar.org/51c0/3c5ce7757ac89f22cb7559f85caded54c75c.pdf
-[2017/12/21] https://link.springer.com/content/pdf/10.1007%2Fs11067-017-9376-8.pdf
-[2017/12/20] http://journals.sagepub.com/doi/abs/10.1068/a3784
-[2017/12/20] [Bib Pnas] http://feedproxy.google.com/~r/pnas/UJrK/~3/U2kRVoUbgs0/13489.short
-[2017/12/20] http://feedproxy.google.com/~r/pnas/UJrK/~3/jPJ5NbgValQ/13501.short
-[2017/12/20] http://feedproxy.google.com/~r/pnas/UJrK/~3/vPOPBFu64nU/13531.short
+X [2017/12/22] https://pdfs.semanticscholar.org/51c0/3c5ce7757ac89f22cb7559f85caded54c75c.pdf
+X [2017/12/21] https://link.springer.com/content/pdf/10.1007%2Fs11067-017-9376-8.pdf
+X [2017/12/20] http://journals.sagepub.com/doi/abs/10.1068/a3784
+X [2017/12/20] [Bib Pnas] http://feedproxy.google.com/~r/pnas/UJrK/~3/U2kRVoUbgs0/13489.short
+X [2017/12/20] http://feedproxy.google.com/~r/pnas/UJrK/~3/jPJ5NbgValQ/13501.short
+X [2017/12/20] http://feedproxy.google.com/~r/pnas/UJrK/~3/vPOPBFu64nU/13531.short
 X [2017/12/20] http://feedproxy.google.com/~r/pnas/UJrK/~3/EwN2vLl0KnQ/13447.short
 X [2017/12/18] http://www.sciencedirect.com/science/article/pii/S235214651730594X
 [2017/12/11] [Bitbol] https://en.wikipedia.org/wiki/Michel_Bitbol http://philsci-archive.pitt.edu/4006/1/Emergence1.pdf
