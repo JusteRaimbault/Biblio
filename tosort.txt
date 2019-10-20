@@ -63,28 +63,28 @@
 [2018/05/25] [biblio] http://sci-hub.hk/https://www.nature.com/articles/s41586-018-0095-1
 [2018/05/25] https://dspace.mit.edu/bitstream/handle/1721.1/6089/AIM-306.pdf?%20sequence=2
 [2018/05/18] [Wilson gravity model] http://sci-hub.hk/https://www.sciencedirect.com/science/article/pii/0038012171900425
-[2018/05/17] [data paper transportation networks] https://www.nature.com/articles/sdata201889.pdf
+X [2018/05/17] [data paper transportation networks] https://www.nature.com/articles/sdata201889.pdf
 [2018/05/16] http://sci-hub.hk/https://link.springer.com/chapter/10.1007/978-981-10-7799-9_6
 [2018/05/15] [Biblio : Urban Systems comparison book] https://link.springer.com/book/10.1007/978-981-10-7799-9
-[2018/05/09] [Biblio Urban morphology] http://etseq.urv.cat/seeslab/media/publication_pdfs/Guimera-2004-Eur.Phys.J.B-38-381.pdf
+X [2018/05/09] [Biblio Urban morphology] http://etseq.urv.cat/seeslab/media/publication_pdfs/Guimera-2004-Eur.Phys.J.B-38-381.pdf
 [2018/05/09] https://link.springer.com/chapter/10.1007/978-1-4612-3034-2_4
 [2018/05/09] http://sci-hub.hk/https://www.sciencedirect.com/science/article/pii/S016920461500047X
-[2018/05/09] https://arxiv.org/abs/1408.2874
+X [2018/05/09] https://arxiv.org/abs/1408.2874
 [2018/04/25] https://febs.onlinelibrary.wiley.com/doi/pdf/10.1111/febs.14032 https://scholar.google.fr/scholar?hl=fr&as_sdt=0,5&qsp=8&q=%22monte+carlo+sampling%22+inverse+problems http://rses.anu.edu.au/~malcolm/papers/pdf/ip23r1.pdf https://books.google.fr/books?hl=fr&lr=&id=qLSv6fpeMowC&oi=fnd&pg=PP2&dq=simulation+models+inverse+problem&ots=GM4DmBtobs&sig=z0GKcFwQzOd9vxFW12n5CRIQ7HE#v=onepage&q=simulation%20models%20inverse%20problem&f=false https://link.springer.com/content/pdf/10.1007%2Fs10040-004-0404-7.pdf https://scholar.google.fr/scholar?hl=fr&as_sdt=0%2C5&q=Holland+J+H+1975+Adaptation+in+Natural+and+Artificial+Systems&btnG=
-[2018/04/24] stats / p values : https://link.springer.com/content/pdf/10.1007%2Fs10654-016-0149-3.pdf
+X [2018/04/24] stats / p values : https://link.springer.com/content/pdf/10.1007%2Fs10654-016-0149-3.pdf
 [2018/04/24] epistemic diversity -> perpsecitvism ? https://arxiv.org/pdf/1803.10118.pdf (from bib reproducibility)
 [2018/04/23] [[Biblio] autopoiesis/selfref] https://scholar.google.fr/scholar?cites=2910435935945444521&as_sdt=2005&sciodt=0,5&hl=fr
-[2018/04/20] [Biblio] http://jasss.soc.surrey.ac.uk/21/3/4.html
-[2018/04/14] http://jasss.soc.surrey.ac.uk/21/2/2.html
-[2018/04/14] http://jasss.soc.surrey.ac.uk/20/1/3.html
+X [2018/04/20] [Biblio] http://jasss.soc.surrey.ac.uk/21/3/4.html
+X [2018/04/14] http://jasss.soc.surrey.ac.uk/21/2/2.html => bib Lutecia - move overleaf to v2 (last edit 1y ago !)
+X [2018/04/14] http://jasss.soc.surrey.ac.uk/20/1/3.html
 [2018/04/08] [biblio : cvx optim kernel mixture ?] https://web.stanford.edu/~boyd/papers/pdf/cvxr_paper.pdf https://web.stanford.edu/~boyd/papers/pdf/kernel_learning_icassp08.pdf
-[2018/04/07] https://arxiv.org/pdf/1804.01696.pdf
-[2018/04/07] https://arxiv.org/abs/1712.08647
-[2018/04/07] https://arxiv.org/pdf/1804.01630.pdf
+X [2018/04/07] https://arxiv.org/pdf/1804.01696.pdf
+X [2018/04/07] https://arxiv.org/abs/1712.08647
+X [2018/04/07] https://arxiv.org/pdf/1804.01630.pdf
 [2018/04/05] [high dim lotka volterra] https://scholar.google.fr/scholar?hl=fr&as_sdt=0%2C5&q=lotka+volterra+high+dimensiion&btnG= https://www.sciencedirect.com/science/article/pii/S0960077905001888
 [2018/04/05] http://sci-hub.hk/http://iopscience.iop.org/article/10.1088/0951-7715/15/6/312/pdf
-[2018/04/04] [bib] https://arxiv.org/pdf/1804.00855.pdf
-[2018/04/04] http://www.pnas.org/content/pnas/115/14/3529.full.pdf
+X [2018/04/04] [bib] https://arxiv.org/pdf/1804.00855.pdf => ridicule sur limites, dimensions capturees (pourrait au moins faire une pca) ! pas encore publie dailleurs 
+X [2018/04/04] http://www.pnas.org/content/pnas/115/14/3529.full.pdf
 [2018/03/21] https://twitter.com/pablojensenlyon/status/976162523056607232/photo/1
 [2018/03/19] https://journal.emergentpublications.com/article/two-complexities/ https://scholar.google.fr/scholar?hl=fr&as_sdt=0%2C5&q=morin+complex+ethics&btnG=
 [2018/03/16] [Category Theory] http://ttic.uchicago.edu/~dreyer/course/papers/wadler.pdf https://www.google.fr/search?client=ubuntu&channel=fs&q=book+introduction+to+category+theory&ie=utf-8&oe=utf-8&gfe_rd=cr&dcr=0&ei=6P6rWrznC5uC4gTsoJlo https://www.quora.com/What-is-the-best-textbook-for-Category-theory https://www.amazon.com/Categories-Working-Mathematician-Graduate-Mathematics/dp/0387984038
