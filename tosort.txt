@@ -88,23 +88,24 @@
 [2018/03/21] https://twitter.com/pablojensenlyon/status/976162523056607232/photo/1
 [2018/03/19] https://journal.emergentpublications.com/article/two-complexities/ https://scholar.google.fr/scholar?hl=fr&as_sdt=0%2C5&q=morin+complex+ethics&btnG=
 [2018/03/16] [Category Theory] http://ttic.uchicago.edu/~dreyer/course/papers/wadler.pdf https://www.google.fr/search?client=ubuntu&channel=fs&q=book+introduction+to+category+theory&ie=utf-8&oe=utf-8&gfe_rd=cr&dcr=0&ei=6P6rWrznC5uC4gTsoJlo https://www.quora.com/What-is-the-best-textbook-for-Category-theory https://www.amazon.com/Categories-Working-Mathematician-Graduate-Mathematics/dp/0387984038
-[2018/03/15] http://iopscience.iop.org/article/10.1088/1742-5468/aab50a/meta
-[2018/03/14] https://hal.archives-ouvertes.fr/hal-01575456v2/document
-[2018/03/14] https://scipost.org/SciPostPhys.2.3.016
+X [2018/03/15] http://iopscience.iop.org/article/10.1088/1742-5468/aab50a/meta
+X [2018/03/14] https://hal.archives-ouvertes.fr/hal-01575456v2/document
+X [2018/03/14] https://scipost.org/SciPostPhys.2.3.016
 [2018/03/13] https://scholar.google.fr/scholar?hl=fr&as_sdt=0%2C5&q=algebraic+data+types&btnG=
-[2018/03/13] https://link.springer.com/chapter/10.1007/978-3-319-46481-7_7
+X [2018/03/13] https://link.springer.com/chapter/10.1007/978-3-319-46481-7_7
 [2018/03/13] https://scholar.google.fr/scholar?hl=fr&as_sdt=0%2C5&q=noisy+fitness+self+amplifying+noise&btnG=&oq=noisy+fitness+self-amplifying+noise
 [2018/03/13] https://books.google.fr/books?hl=fr&lr=&id=keypCAAAQBAJ&oi=fnd&pg=PA1&dq=noisy+fitness+self+amplifying+noise&ots=1gbMmJ_Rra&sig=a30LO-ace5R2EgS-5_dkqDLBe80#v=onepage&q&f=false
-[2018/03/13] http://sci-hub.hk/http://rspb.royalsocietypublishing.org/content/269/1508/2423
-[2018/03/12] [biblio] Kalman noisy test data : http://sci-hub.hk/https://www.sciencedirect.com/science/article/pii/S0164121214002660
-[2018/03/12] probas ranking switch bgo : https://engagedscholarship.csuohio.edu/cgi/viewcontent.cgi?article=1679&context=etdarchive
-[2018/03/10] [Bib : Holland GA] http://www.jstor.org/stable/24939139?seq=1#page_scan_tab_contents
-[2018/03/07] [biblio algo genetiques] https://link.springer.com/chapter/10.1007/978-3-319-15892-1_3 http://sci-hub.hk/http://ieeexplore.ieee.org/abstract/document/996017/ https://www.egr.msu.edu//~kdeb/papers/c2015002.pdf
-[2018/03/07] [biblio opinion dybamics] http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0183468 http://sci-hub.hk/10.1142/S0129183107011789 https://hal.archives-ouvertes.fr/hal-00995139/document https://link.springer.com/chapter/10.1007%2F978-3-319-02925-2_15 https://arxiv.org/pdf/0708.2981.pdf http://onlinelibrary.wiley.com/doi/10.1002/cplx.10031/pdf
-[2018/03/03] http://barabasi.com/f/939.pdf
-[2018/02/26] [Sobol Sensitivity ] http://sci-hub.hk/https://link.springer.com/article/10.1007/s11222-017-9759-1
-[2018/02/06] https://journals.openedition.org/cybergeo/2636?file=1
-[2018/02/06] https://www.sciencedirect.com/science/article/pii/S0965856416300854
+X [2018/03/13] http://sci-hub.hk/http://rspb.royalsocietypublishing.org/content/269/1508/2423
+X [2018/03/12] [biblio] Kalman noisy test data : http://sci-hub.hk/https://www.sciencedirect.com/science/article/pii/S0164121214002660
+X [2018/03/12] probas ranking switch bgo : https://engagedscholarship.csuohio.edu/cgi/viewcontent.cgi?article=1679&context=etdarchive
+X [2018/03/10] [Bib : Holland GA] http://www.jstor.org/stable/24939139?seq=1#page_scan_tab_contents
+X [2018/03/07] [biblio algo genetiques] https://link.springer.com/chapter/10.1007/978-3-319-15892-1_3 => already in SimulationModels ;  http://sci-hub.hk/http://ieeexplore.ieee.org/abstract/document/996017/=> idem ;  https://www.egr.msu.edu//~kdeb/papers/c2015002.pdf => idem
+X [2018/03/07] [biblio opinion dybamics] http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0183468 http://sci-hub.hk/10.1142/S0129183107011789 https://hal.archives-ouvertes.fr/hal-00995139/document https://link.springer.com/chapter/10.1007%2F978-3-319-02925-2_15 https://arxiv.org/pdf/0708.2981.pdf http://onlinelibrary.wiley.com/doi/10.1002/cplx.10031/pdf
+[2018/03/07] http://sci-hub.hk/10.1142/S0129183107011789 https://link.springer.com/chapter/10.1007%2F978-3-319-02925-2_15
+X [2018/03/03] http://barabasi.com/f/939.pdf
+X [2018/02/26] [Sobol Sensitivity ] http://sci-hub.hk/https://link.springer.com/article/10.1007/s11222-017-9759-1
+X [2018/02/06] https://journals.openedition.org/cybergeo/2636?file=1
+X [2018/02/06] https://www.sciencedirect.com/science/article/pii/S0965856416300854
 [2018/02/06] https://books.google.com/ngrams/graph?content=morphogenesis
 X [2018/02/04] https://epjdatascience.springeropen.com/track/pdf/10.1140/epjds/s13688-018-0132-1?site=epjdatascience.springeropen.com
 X [2018/01/18] http://journals.openedition.org/cybergeo/28922
