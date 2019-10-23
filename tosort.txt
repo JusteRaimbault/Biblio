@@ -82,7 +82,7 @@ X [2018/04/07] https://arxiv.org/pdf/1804.01696.pdf
 X [2018/04/07] https://arxiv.org/abs/1712.08647
 X [2018/04/07] https://arxiv.org/pdf/1804.01630.pdf
 [2018/04/05] [high dim lotka volterra] https://scholar.google.fr/scholar?hl=fr&as_sdt=0%2C5&q=lotka+volterra+high+dimensiion&btnG= https://www.sciencedirect.com/science/article/pii/S0960077905001888
-[2018/04/05] http://sci-hub.hk/http://iopscience.iop.org/article/10.1088/0951-7715/15/6/312/pdf
+X [2018/04/05] http://sci-hub.hk/http://iopscience.iop.org/article/10.1088/0951-7715/15/6/312/pdf
 X [2018/04/04] [bib] https://arxiv.org/pdf/1804.00855.pdf => ridicule sur limites, dimensions capturees (pourrait au moins faire une pca) ! pas encore publie dailleurs 
 X [2018/04/04] http://www.pnas.org/content/pnas/115/14/3529.full.pdf
 [2018/03/21] https://twitter.com/pablojensenlyon/status/976162523056607232/photo/1
@@ -111,7 +111,7 @@ X [2018/02/04] https://epjdatascience.springeropen.com/track/pdf/10.1140/epjds/s
 X [2018/01/18] http://journals.openedition.org/cybergeo/28922
 X [2018/01/13] https://www.nature.com/articles/s41893-017-0010-z
 X [2018/01/03] https://ac.els-cdn.com/S0966692309000866/1-s2.0-S0966692309000866-main.pdf?_tid=649318d4-f05f-11e7-a9a1-00000aab0f6b&acdnat=1514967996_c1fed01b5960edaa54efe05683842d02
-[2018/01/03] https://www.nap.edu/read/10144/chapter/16#227
+X [2018/01/03] https://www.nap.edu/read/10144/chapter/16#227
 X [2017/12/22] https://pdfs.semanticscholar.org/51c0/3c5ce7757ac89f22cb7559f85caded54c75c.pdf
 X [2017/12/21] https://link.springer.com/content/pdf/10.1007%2Fs11067-017-9376-8.pdf
 X [2017/12/20] http://journals.sagepub.com/doi/abs/10.1068/a3784
@@ -120,7 +120,7 @@ X [2017/12/20] http://feedproxy.google.com/~r/pnas/UJrK/~3/jPJ5NbgValQ/13501.sho
 X [2017/12/20] http://feedproxy.google.com/~r/pnas/UJrK/~3/vPOPBFu64nU/13531.short
 X [2017/12/20] http://feedproxy.google.com/~r/pnas/UJrK/~3/EwN2vLl0KnQ/13447.short
 X [2017/12/18] http://www.sciencedirect.com/science/article/pii/S235214651730594X
-[2017/12/11] [Bitbol] https://en.wikipedia.org/wiki/Michel_Bitbol http://philsci-archive.pitt.edu/4006/1/Emergence1.pdf
+X [2017/12/11] [Bitbol] https://en.wikipedia.org/wiki/Michel_Bitbol http://philsci-archive.pitt.edu/4006/1/Emergence1.pdf
 [2017/12/11] Physique quantique http://pagesperso.lina.univ-nantes.fr/~prie-y/archives/ENACTION-SCHOOLS/docs/documents2009/quantique-cognition.pdf
 X [2017/12/11] http://rsta.royalsocietypublishing.org/content/roypta/375/2109/20160338.full.pdf
 X [2017/12/11] https://halshs.archives-ouvertes.fr/halshs-00145939/document
