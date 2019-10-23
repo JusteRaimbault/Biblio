@@ -133,38 +133,39 @@ X [2017/11/24] https://www.econstor.eu/bitstream/10419/109155/1/822169371.pdf
 X [2017/11/24] https://arxiv.org/pdf/1711.02456.pdf
 X [2017/11/24] https://arxiv.org/pdf/1711.03499.pdf
 X [2017/11/24] https://halshs.archives-ouvertes.fr/tel-01419708/document
-[2017/11/24] [Ergodicity] https://sci-hub.cc/http://iopscience.iop.org/article/10.1088/1751-8113/47/48/485002/meta
+X [2017/11/24] [Ergodicity] https://sci-hub.cc/http://iopscience.iop.org/article/10.1088/1751-8113/47/48/485002/meta
 X [2017/11/24] https://link.springer.com/content/pdf/10.1007/BF01886869.pdf
 [2017/11/24] https://scholar.google.fr/scholar?hl=fr&as_sdt=0%2C5&q=non-ergodic+non-stationary+spatial+processes&btnG=
 X [2017/11/24] [Time Series] https://cran.r-project.org/web/packages/tseriesChaos/tseriesChaos.pdf => idem 
 X [2017/11/24] https://cran.r-project.org/web/views/TimeSeries.html => idem
 X [2017/11/24] https://stackoverflow.com/questions/1714280/multivariate-time-series-modelling-in-r => resources time series
-[2017/11/24] http://www.sciencedirect.com/science/article/pii/0377221795002065
+X [2017/11/24] http://www.sciencedirect.com/science/article/pii/0377221795002065
 X [2017/11/24] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3170781/pdf/nihms313517.pdf (garch : hs)
 X [2017/11/15] [BIB : PNAS] http://www.pnas.org/content/114/46/12303.short?rss=1&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+pnas%2FUJrK+%28Recent+Issues%29
 X [2017/11/15] http://www.pnas.org/content/114/46/12219.short?rss=1&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+pnas%2FUJrK+%28Recent+Issues%29
 X [2017/11/15] http://www.pnas.org/content/114/46/12338.short?rss=1&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+pnas%2FUJrK+%28Recent+Issues%29
 X [2017/11/15] http://www.pnas.org/content/114/46/E9783.short?rss=1&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+pnas%2FUJrK+%28Recent+Issues%29
 X [2017/11/02] [BIB] https://f1000research.com/articles/6-1151/v2 => v3
-[2017/11/02] https://ac.els-cdn.com/S0197397504000025/1-s2.0-S0197397504000025-main.pdf?_tid=d606671c-bfc9-11e7-9ec3-00000aacb35e&acdnat=1509626106_6593ac7e1944b417865abcc81486ecc4
-[2017/11/02] https://ac.els-cdn.com/0264837795000275/1-s2.0-0264837795000275-main.pdf?_tid=ea7bf76c-bfd2-11e7-ba38-00000aacb360&acdnat=1509630005_3497b66de2fee788b51593d117a8ff38
+X [2017/11/02] https://ac.els-cdn.com/S0197397504000025/1-s2.0-S0197397504000025-main.pdf?_tid=d606671c-bfc9-11e7-9ec3-00000aacb35e&acdnat=1509626106_6593ac7e1944b417865abcc81486ecc4
+X [2017/11/02] https://ac.els-cdn.com/0264837795000275/1-s2.0-0264837795000275-main.pdf?_tid=ea7bf76c-bfd2-11e7-ba38-00000aacb360&acdnat=1509630005_3497b66de2fee788b51593d117a8ff38 => ! critic Barth !
 X [2017/11/02] http://www.hypergeo.eu/spip.php?article699 => ok article -> geo
 X [2017/11/02] http://jasss.soc.surrey.ac.uk/15/2/7.html
 X [2017/10/28] https://hal-paris1.archives-ouvertes.fr/halshs-00156880/document
-[2017/10/28] ComplexSystems/CityNetwork/Biblio/Docs/TransportationGeography/EG_431_0051.pdf
-[2017/10/28] https://sci-hub.cc/http://onlinelibrary.wiley.com/book/10.1002/0470871296
-[2017/10/28] http://www.tandfonline.com/doi/pdf/10.1080/01615440.2013.804788?needAccess=true
+X [2017/10/28] ComplexSystems/CityNetwork/Biblio/Docs/TransportationGeography/EG_431_0051.pdf => already in thesis, add NetworksTerritories
+X [2017/10/28] https://sci-hub.cc/http://onlinelibrary.wiley.com/book/10.1002/0470871296
+X [2017/10/28] http://www.tandfonline.com/doi/pdf/10.1080/01615440.2013.804788?needAccess=true
 X [2017/10/28] https://arxiv.org/pdf/1710.09559.pdf
 X [2017/10/28] https://pdfs.semanticscholar.org/e9e6/bb5f2a04ae30d8ecc9287f8b702eedd7b772.pdf
 X [2017/10/28] http://pubs.rsc.org/en/content/articlepdf/2014/CP/C4CP03465A
-[2017/10/28] https://sci-hub.cc/https://link.springer.com/article/10.1007/BF00893695?LI=true
+X [2017/10/28] https://sci-hub.cc/https://link.springer.com/article/10.1007/BF00893695?LI=true
 X [2017/10/28] https://sci-hub.cc/http://www.sciencedirect.com/science/article/pii/S1364815210002008
 [2017/10/20] [Morphogenesis / soc] https://scholar.google.fr/scholar?hl=fr&as_sdt=0%2C5&q=Jean+Petitot&btnG= https://scholar.google.fr/scholar?hl=fr&as_sdt=0%2C5&q=self+organized+criticality&btnG=&oq=self-organized+critical
+
 X [2017/10/20] [LUTI]  http://lvmt.altercreation.fr/recherche/mots-du-lvmt/quels-systemes-territoriaux/ => resource geo https://hal.inria.fr/hal-01093254/document https://dspace.ucalgary.ca/bitstream/1880/42758/1/49478Abraham.pdf
 X [2017/10/18] http://www.persee.fr/doc/spgeo_0046-2497_1990_num_19_1_2943
 X [2017/10/18] https://arxiv.org/pdf/1709.05718.pdf
 X [2017/10/18] https://sci-hub.cc/http://journals.sagepub.com/doi/pdf/10.1177/0265813515599982
-[2017/10/18] https://scholar.google.fr/scholar?hl=fr&as_sdt=0%2C5&q=south+africa+transportation+pre-apartheid&btnG=
+X [2017/10/18] https://scholar.google.fr/scholar?hl=fr&as_sdt=0%2C5&q=south+africa+transportation+pre-apartheid&btnG= => nothing; reosurces transportation
 X [2017/10/16] AIC : http://www.publish.csiro.au/wr/pdf/WR99107 https://link.springer.com/content/pdf/10.1007/BF02294361.pdf
 X [2017/10/16] Granger causality / Transfer entropy https://sci-hub.cc/https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.103.238701
 X [2017/10/16] Complexity : https://arxiv.org/pdf/0710.3784.pdf http://onlinelibrary.wiley.com/doi/10.1002/cplx.21424/full
@@ -174,13 +175,13 @@ X [2017/10/16] Bibiometrics : https://link.springer.com/article/10.1007/s11192-0
 X [2017/10/06] https://pdfs.semanticscholar.org/a9e4/02cb0c96ce816df075016ffd9754780c3d30.pdf
 X [2017/10/06] https://tel.archives-ouvertes.fr/tel-00923682/document => these Hadri!
 X [2017/10/06] https://arxiv.org/pdf/1710.01869.pdf
-[2017/10/06] ComplexSystems/CityNetwork/Biblio/Docs/UrbanMorphology/TH2010PEST1111_complete.pdf
-[2017/10/06] ComplexSystems/CityNetwork/Biblio/Docs/UrbanSystems/these_Thomas_Louail.pdf
+X [2017/10/06] ComplexSystems/CityNetwork/Biblio/Docs/UrbanMorphology/TH2010PEST1111_complete.pdf => UrbanMorphology
+X [2017/10/06] ComplexSystems/CityNetwork/Biblio/Docs/UrbanSystems/these_Thomas_Louail.pdf => urbsyst / bib paper multiscale
 X [2017/10/02] http://www.persee.fr/docAsPDF/spgeo_0046-2497_1993_num_22_1_3123.pdf https://fr.wikipedia.org/wiki/Liaison_ferroviaire_transalpine_Lyon_-_Turin => resources Geo
-[2017/10/02] http://chamilo1.grenet.fr/ujf/courses/LPROPPRS/document/FTUE304/ArcGIS/2012-2013/Module_AnalyseSpatiale/Ressources/Une_modelisation_spatiale_de_stations_de_ski.pdf
+X [2017/10/02] http://chamilo1.grenet.fr/ujf/courses/LPROPPRS/document/FTUE304/ArcGIS/2012-2013/Module_AnalyseSpatiale/Ressources/Une_modelisation_spatiale_de_stations_de_ski.pdf => dead ; ppaper R. Knafou mappemonde "Dements graphiques pour une modélisation spatiale des stations de sports d'hiver"
 X [2017/09/30] https://arxiv.org/pdf/1709.08684.pdf => sageo paper !
-[2017/09/30] https://twitter.com/valentinsocha/status/911304476643995649
-[2017/09/30] https://twitter.com/ParisAMDParis/status/913645871115489281
+X [2017/09/30] https://twitter.com/valentinsocha/status/911304476643995649 => idem
+X [2017/09/30] https://twitter.com/ParisAMDParis/status/913645871115489281 => resources transportation
 X [2017/09/30] https://arxiv.org/pdf/1709.08244.pdf
 X [2017/09/29] [Biblio : Turing Patterns] https://arxiv.org/pdf/1709.10043.pdf
 X [2017/09/28] https://sci-hub.cc/http://journals.sagepub.com/doi/pdf/10.1068/a161137
@@ -191,7 +192,7 @@ X [2017/09/06] [Morphogenesis] http://www.spatialcomplexity.info/archives/3368 =
 X [2017/09/06] http://www.spatialcomplexity.info/files/2017/09/PG-DARCY-RGS-2017.pdf => resources geo
 X [2017/09/01] [biblio] http://cybergeo.revues.org/28543 http://www.entropicparticles.com/procedural-city-growth => Geo resources http://roadtrees.com/creating-road-trees/ => dead link
 X [2017/08/23] http://www.pnas.org/content/114/34/8963.full.pdf
-[2017/07/25] [Biblio] Checker les automates cellulaires : http://www.complexcity.info/working-papers/
+X [2017/07/25] [Biblio] Checker les automates cellulaires : http://www.complexcity.info/working-papers/ => resources geo
 X [2017/07/25] http://www.persee.fr/doc/spgeo_0046-2497_1990_num_19_4_3009
 X [2017/07/07] [Bib] http://onlinelibrary.wiley.com/doi/10.1111/j.1435-5957.2008.00205.x/full => already in Coevolution (bib before)
 X [2017/07/07] https://stats.stackexchange.com/questions/131281/dynamic-time-warping-clustering => resources Stats
@@ -240,7 +241,7 @@ X [2017/04/28] https://arxiv.org/pdf/1704.07523.pdf
 X [2017/04/28] http://www.readcube.com/articles/10.1038/srep46672
 X [2017/04/24] https://arxiv.org/pdf/1704.06476.pdf
 X [2017/04/24] https://arxiv.org/pdf/1704.06508.pdf
-[2017/04/24] https://scholar.google.com/scholar?hl=fr&q=grand+paris+express+projets&btnG=&lr=
+X [2017/04/24] https://scholar.google.com/scholar?hl=fr&q=grand+paris+express+projets&btnG=&lr= => ok first deja ds bib these
 X [2017/04/24] http://www.amutc.fr/pdf/GPE_Rapport_Auzannet_Grand_Paris_Express_13decembre2012.pdf
 X [2017/04/24] https://tel.archives-ouvertes.fr/tel-01230497/document
 X [2017/04/21] Generative NW model and PrefAtt fitting :  https://arxiv.org/pdf/1704.06017.pdf
@@ -252,7 +253,7 @@ X [2017/04/18] http://www.tandfonline.com.sci-hub.cc/doi/abs/10.1080/19463138.20
 X [2017/04/18] https://halshs.archives-ouvertes.fr/halshs-01082644/
 X [2017/04/18] https://benthamopen.com/contents/pdf/TOGEOGJ/TOGEOGJ-1-1.pdf => cite par le paper serbian urban system !
 X [2017/04/13] http://ieeexplore.ieee.org/abstract/document/4060955/
-[2017/04/13] https://en.wikipedia.org/wiki/Persistent_homology https://scholar.google.com/scholar?hl=fr&q=persistent+homology+point+cloud+discrepancy&btnG=&lr=&oq=persistent+homology+point+cloud+discrp http://projecteuclid.org.sci-hub.cc/euclid.aoas/1458909913#info
+X [2017/04/13] https://en.wikipedia.org/wiki/Persistent_homology https://scholar.google.com/scholar?hl=fr&q=persistent+homology+point+cloud+discrepancy&btnG=&lr=&oq=persistent+homology+point+cloud+discrp http://projecteuclid.org.sci-hub.cc/euclid.aoas/1458909913#info
 X [2017/04/12] http://www.pnas.org/content/114/15/E2998.full.pdf : significance trends
 X [2017/04/12] http://download.springer.com/static/pdf/67/art%253A10.1140%252Fepjb%252Fe2006-00085-1.pdf?originUrl=http%3A%2F%2Flink.springer.com%2Farticle%2F10.1140%2Fepjb%2Fe2006-00085-1&token2=exp=1491899196~acl=%2Fstatic%2Fpdf%2F67%2Fart%25253A10.1140%25252Fepjb%25252Fe2006-00085-1.pdf%3ForiginUrl%3Dhttp%253A%252F%252Flink.springer.com%252Farticle%252F10.1140%252Fepjb%252Fe2006-00085-1*~hmac=e954c48b22482ab9c429c4ae8c3aebf9be6245e97ed269e8c4c8262dd64e3d7d network analysis
 X [2017/04/03] https://www.researchgate.net/publication/314981100_Work_organization_and_mental_health_problems_in_PhD_students
@@ -304,7 +305,7 @@ X [2017/01/25] http://www.cairn.info/revue-histoire-des-sciences-humaines-2002-1
 X [2017/01/25] http://ac.els-cdn.com/S0039368109000168/1-s2.0-S0039368109000168-main.pdf?_tid=b6097da8-e2ea-11e6-8690-00000aab0f6b&acdnat=1485341018_56e1143f3f79b345d0fe99633f542786
 X [2017/01/25] http://download.springer.com/static/pdf/146/art%253A10.1007%252Fs11229-009-9506-z.pdf?originUrl=http%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs11229-009-9506-z&token2=exp=1485342425~acl=%2Fstatic%2Fpdf%2F146%2Fart%25253A10.1007%25252Fs11229-009-9506-z.pdf%3ForiginUrl%3Dhttp%253A%252F%252Flink.springer.com%252Farticle%252F10.1007%252Fs11229-009-9506-z*~hmac=00d36a68e2cc336aafbbe80a7dc7a230bf64451d835908a188f72351c2b755b9
 X [2017/01/25] http://download.springer.com/static/pdf/191/art%253A10.1007%252Fs11229-009-9503-2.pdf?originUrl=http%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs11229-009-9503-2&token2=exp=1485342573~acl=%2Fstatic%2Fpdf%2F191%2Fart%25253A10.1007%25252Fs11229-009-9503-2.pdf%3ForiginUrl%3Dhttp%253A%252F%252Flink.springer.com%252Farticle%252F10.1007%252Fs11229-009-9503-2*~hmac=5eac854dfe0a794ca2f7421552378882bb880bb6323565a6f55c6f00fd0df999
-[2016/10/24] https://scholar.google.com/scholar?q=arthur+evolution*+technology&btnG=&hl=fr&as_sdt=0%2C5&oq=art
+X [2016/10/24] https://scholar.google.com/scholar?q=arthur+evolution*+technology&btnG=&hl=fr&as_sdt=0%2C5&oq=art => book ; paper
 X [2016/10/18] https://arxiv.org/pdf/1610.02708v1.pdf
 X [2016/10/18] http://www.nature.com/nature/journal/vaop/ncurrent/full/nature20100.html => WTF ?
 X [2016/10/18] http://www.nature.com/articles/srep34651
