@@ -41,34 +41,34 @@
 [2018/07/11] http://web.pdx.edu/~crkl/SEAUG/papers/Anselin_IRSR_2003.pdf
 [2018/07/11] http://sci-hub.tw/https://www.journals.uchicago.edu/doi/pdfplus/10.1086/261725
 [2018/07/11] http://sci-hub.tw/http://journals.sagepub.com/doi/abs/10.1080/00420987220080021?journalCode=usja
-[2018/07/11] http://sci-hub.tw/https://onlinelibrary.wiley.com/doi/pdf/10.1111/roiw.12185
-[2018/07/05] [Biblio] https://arxiv.org/pdf/1807.00534.pdf
-[2018/07/05] https://arxiv.org/pdf/1807.01408.pdf
-[2018/07/05] https://arxiv.org/pdf/1804.04105.pdf
-[2018/07/05] https://arxiv.org/pdf/1807.01366.pdf
-[2018/07/05]  ----- recherches OSE (biais scholar rechercehs passees ?) https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1538-4632.1978.tb00011.x
+X [2018/07/11] http://sci-hub.tw/https://onlinelibrary.wiley.com/doi/pdf/10.1111/roiw.12185
+X [2018/07/05] [Biblio] https://arxiv.org/pdf/1807.00534.pdf
+X [2018/07/05] https://arxiv.org/pdf/1807.01408.pdf
+X [2018/07/05] https://arxiv.org/pdf/1804.04105.pdf
+X [2018/07/05] https://arxiv.org/pdf/1807.01366.pdf
+X [2018/07/05]  ----- recherches OSE (biais scholar rechercehs passees ?) https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1538-4632.1978.tb00011.x
 [2018/07/05] https://www.researchgate.net/profile/Peter_Beim_Graben2/publication/200179689_Zipf%27s_Law_is_not_a_Consequence_of_the_Central_Limit_Theorem/links/09e4150d1d73d67c85000000/Zipfs-Law-is-not-a-Consequence-of-the-Central-Limit-Theorem.pdf
 [2018/07/04] [Ergodicity Economics] https://ergodicityeconomics.files.wordpress.com/2018/06/ergodicity_economics.pdf
 [2018/06/20] https://scholar.google.fr/scholar?hl=fr&as_sdt=0%2C5&q=positive+definite+distance+matrix&btnG= https://ac.els-cdn.com/002437959500096A/1-s2.0-002437959500096A-main.pdf?_tid=b0194be4-5e1b-4392-a4c9-4da0769efa88&acdnat=1529492512_27460c70ebf52a19601506f195e5301c https://scholar.google.fr/scholar?hl=fr&as_sdt=0%2C5&q=control*+local+correlation+reaction+diffusion&btnG=
-[2018/06/18] [Circular Economy] http://jasss.soc.surrey.ac.uk/JASSS.html
-[2018/06/18] https://www.researchgate.net/publication/229627804_Eco-Industrial_Parks_in_The_Netherlands_The_Rotterdam_Harbor_and_Industry_Complex
-[2018/06/18] http://sci-hub.tw/https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/93WR00386
-[2018/06/05] https://www.sciencedirect.com/science/article/pii/S0022519318302856
-[2018/06/05] https://www.nature.com/articles/s41567-018-0081-4
+X [2018/06/18] [Circular Economy] http://jasss.soc.surrey.ac.uk/JASSS.html => no circeco paper in jasss : wtf ; target?
+X [2018/06/18] https://www.researchgate.net/publication/229627804_Eco-Industrial_Parks_in_The_Netherlands_The_Rotterdam_Harbor_and_Industry_Complex
+X [2018/06/18] http://sci-hub.tw/https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/93WR00386
+X [2018/06/05] https://www.sciencedirect.com/science/article/pii/S0022519318302856
+X [2018/06/05] https://www.nature.com/articles/s41567-018-0081-4
 [2018/06/05] https://link.springer.com/chapter/10.1007/978-3-319-75726-1_6
-[2018/05/30] [biblio] http://sci-hub.hk/https://dl.acm.org/citation.cfm?id=304276
-[2018/05/30] https://journals.openedition.org/cybergeo/29140
-[2018/05/30] https://www.emeraldinsight.com/doi/pdfplus/10.1108/9781615832538-014
-[2018/05/29] https://arxiv.org/pdf/1805.09962.pdf https://github.com/sterglee/scalalab
-[2018/05/25] [biblio] http://sci-hub.hk/https://www.nature.com/articles/s41586-018-0095-1
-[2018/05/25] https://dspace.mit.edu/bitstream/handle/1721.1/6089/AIM-306.pdf?%20sequence=2
-[2018/05/18] [Wilson gravity model] http://sci-hub.hk/https://www.sciencedirect.com/science/article/pii/0038012171900425
+X [2018/05/30] [biblio] http://sci-hub.hk/https://dl.acm.org/citation.cfm?id=304276
+X [2018/05/30] https://journals.openedition.org/cybergeo/29140
+X [2018/05/30] https://www.emeraldinsight.com/doi/pdfplus/10.1108/9781615832538-014
+X [2018/05/29] https://arxiv.org/pdf/1805.09962.pdf https://github.com/sterglee/scalalab => resources CS
+X [2018/05/25] [biblio] http://sci-hub.hk/https://www.nature.com/articles/s41586-018-0095-1
+X [2018/05/25] https://dspace.mit.edu/bitstream/handle/1721.1/6089/AIM-306.pdf?%20sequence=2
+X [2018/05/18] [Wilson gravity model] http://sci-hub.hk/https://www.sciencedirect.com/science/article/pii/0038012171900425
 X [2018/05/17] [data paper transportation networks] https://www.nature.com/articles/sdata201889.pdf
 [2018/05/16] http://sci-hub.hk/https://link.springer.com/chapter/10.1007/978-981-10-7799-9_6
 [2018/05/15] [Biblio : Urban Systems comparison book] https://link.springer.com/book/10.1007/978-981-10-7799-9
 X [2018/05/09] [Biblio Urban morphology] http://etseq.urv.cat/seeslab/media/publication_pdfs/Guimera-2004-Eur.Phys.J.B-38-381.pdf
 [2018/05/09] https://link.springer.com/chapter/10.1007/978-1-4612-3034-2_4
-[2018/05/09] http://sci-hub.hk/https://www.sciencedirect.com/science/article/pii/S016920461500047X
+X [2018/05/09] http://sci-hub.hk/https://www.sciencedirect.com/science/article/pii/S016920461500047X
 X [2018/05/09] https://arxiv.org/abs/1408.2874
 [2018/04/25] https://febs.onlinelibrary.wiley.com/doi/pdf/10.1111/febs.14032 https://scholar.google.fr/scholar?hl=fr&as_sdt=0,5&qsp=8&q=%22monte+carlo+sampling%22+inverse+problems http://rses.anu.edu.au/~malcolm/papers/pdf/ip23r1.pdf https://books.google.fr/books?hl=fr&lr=&id=qLSv6fpeMowC&oi=fnd&pg=PP2&dq=simulation+models+inverse+problem&ots=GM4DmBtobs&sig=z0GKcFwQzOd9vxFW12n5CRIQ7HE#v=onepage&q=simulation%20models%20inverse%20problem&f=false https://link.springer.com/content/pdf/10.1007%2Fs10040-004-0404-7.pdf https://scholar.google.fr/scholar?hl=fr&as_sdt=0%2C5&q=Holland+J+H+1975+Adaptation+in+Natural+and+Artificial+Systems&btnG=
 X [2018/04/24] stats / p values : https://link.springer.com/content/pdf/10.1007%2Fs10654-016-0149-3.pdf
