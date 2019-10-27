@@ -27,20 +27,20 @@
 [2018/07/27] Rq : pas a paradox, but a signature of the spatial distrib (redo analytical work ; fink transform ?) https://www.sciencedirect.com/science/article/pii/S0198971516300448
 [2018/07/23] virtual hallucinations deep dream https://www.nature.com/articles/s41598-017-16316-2
 [2018/07/20] [Spatial diffusion] https://www.nature.com/articles/s41467-018-05230-4
-[2018/07/20] http://sci-hub.tw/https://epubs.siam.org/doi/abs/10.1137/070710111
-[2018/07/20] http://sci-hub.tw/http://journals.sagepub.com/doi/pdf/10.1177/2399808318785634
-[2018/07/20] https://arxiv.org/pdf/1710.01068.pdf
-[2018/07/18] [Bib : granger ; nonlinear model mapping] http://www.pnas.org/content/pnas/114/34/E7063.full.pdf
-[2018/07/18] http://jasss.soc.surrey.ac.uk/21/4/1.html
-[2018/07/16] [Biblio TO READ] https://journals.openedition.org/cybergeo/29177
-[2018/07/12] [Biblio circeco] https://www.sciencedirect.com/science/article/pii/S0921800900002214
-[2018/07/11] [bib] http://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/1564401/
-[2018/07/11] http://sci-hub.tw/https://academic.oup.com/joeg/article-abstract/11/4/645/918123
-[2018/07/11] http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.467.9344&rep=rep1&type=pdf
-[2018/07/11] http://graduateinstitute.ch/files/live/sites/iheid/files/sites/ctei/shared/CTEI/Baldwin/Publications/Chapters/Trade%20Theory/Proof_Version_ROIE_546.pdf
-[2018/07/11] http://web.pdx.edu/~crkl/SEAUG/papers/Anselin_IRSR_2003.pdf
-[2018/07/11] http://sci-hub.tw/https://www.journals.uchicago.edu/doi/pdfplus/10.1086/261725
-[2018/07/11] http://sci-hub.tw/http://journals.sagepub.com/doi/abs/10.1080/00420987220080021?journalCode=usja
+X [2018/07/20] http://sci-hub.tw/https://epubs.siam.org/doi/abs/10.1137/070710111
+X [2018/07/20] http://sci-hub.tw/http://journals.sagepub.com/doi/pdf/10.1177/2399808318785634
+X [2018/07/20] https://arxiv.org/pdf/1710.01068.pdf
+X [2018/07/18] [Bib : granger ; nonlinear model mapping] http://www.pnas.org/content/pnas/114/34/E7063.full.pdf
+X [2018/07/18] http://jasss.soc.surrey.ac.uk/21/4/1.html
+X [2018/07/16] [Biblio TO READ] https://journals.openedition.org/cybergeo/29177
+X [2018/07/12] [Biblio circeco] https://www.sciencedirect.com/science/article/pii/S0921800900002214
+X [2018/07/11] [bib] http://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/1564401/
+X [2018/07/11] http://sci-hub.tw/https://academic.oup.com/joeg/article-abstract/11/4/645/918123
+X [2018/07/11] http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.467.9344&rep=rep1&type=pdf
+X [2018/07/11] http://graduateinstitute.ch/files/live/sites/iheid/files/sites/ctei/shared/CTEI/Baldwin/Publications/Chapters/Trade%20Theory/Proof_Version_ROIE_546.pdf -> no pdf/text: title only
+X [2018/07/11] http://web.pdx.edu/~crkl/SEAUG/papers/Anselin_IRSR_2003.pdf
+X [2018/07/11] http://sci-hub.tw/https://www.journals.uchicago.edu/doi/pdfplus/10.1086/261725
+X [2018/07/11] http://sci-hub.tw/http://journals.sagepub.com/doi/abs/10.1080/00420987220080021?journalCode=usja
 X [2018/07/11] http://sci-hub.tw/https://onlinelibrary.wiley.com/doi/pdf/10.1111/roiw.12185
 X [2018/07/05] [Biblio] https://arxiv.org/pdf/1807.00534.pdf
 X [2018/07/05] https://arxiv.org/pdf/1807.01408.pdf
