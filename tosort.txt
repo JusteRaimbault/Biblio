@@ -13,20 +13,20 @@
 [2018/08/14] [BIB PNAS] http://www.pnas.org/content/115/31/E7275.full.pdf
 [2018/08/14] http://www.pnas.org/content/115/30/E6987 : idee : pse / oee dans ce domaine ?
 [2018/08/14] http://www.pnas.org/content/115/30/E6996
-[2018/08/14] http://www.pnas.org/content/115/30/7638.full.pdf
-[2018/08/08] [BIB : patents] https://arxiv.org/abs/1808.01237
+X [2018/08/14] http://www.pnas.org/content/115/30/7638.full.pdf
+X [2018/08/08] [BIB : patents] https://arxiv.org/abs/1808.01237
 [2018/08/08] [BIB : article cybergeo verdier (check methodo)] https://journals.openedition.org/cybergeo/29197
 [2018/08/08] [BIB : TOREAD : article semblant reductioniste sur mecaQ / conscience] https://arxiv.org/pdf/1807.07669.pdf
-[2018/08/08] [BIB : OpenAccess] https://journals.openedition.org/cybergeo/29209#ftn21
+X [2018/08/08] [BIB : OpenAccess] https://journals.openedition.org/cybergeo/29209#ftn21
 [2018/08/08] https://liverman.faculty.arizona.edu/sites/liverman.faculty.arizona.edu/files/2018-08/Steffen%20et%20al%202018%20Trajectories%20of%20the%20Earth%20System%20in%20the%20Anthropocene_0.pdf
 [2018/08/06] https://dsweb.siam.org/The-Magazine/Article/spatio-temporal-patterns-of-rioting-activity-a-reaction-diffusion-approach
-[2018/08/06] https://arxiv.org/pdf/1808.00659.pdf
-[2018/08/05] http://www.pnas.org/content/early/2018/07/31/1721059115
-[2018/07/30] https://arxiv.org/abs/1807.10276
-[2018/07/30] http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2006022
-[2018/07/27] Rq : pas a paradox, but a signature of the spatial distrib (redo analytical work ; fink transform ?) https://www.sciencedirect.com/science/article/pii/S0198971516300448
-[2018/07/23] virtual hallucinations deep dream https://www.nature.com/articles/s41598-017-16316-2
-[2018/07/20] [Spatial diffusion] https://www.nature.com/articles/s41467-018-05230-4
+X [2018/08/06] https://arxiv.org/pdf/1808.00659.pdf
+X [2018/08/05] http://www.pnas.org/content/early/2018/07/31/1721059115
+X [2018/07/30] https://arxiv.org/abs/1807.10276
+X [2018/07/30] http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2006022
+X [2018/07/27] Rq : pas a paradox, but a signature of the spatial distrib (redo analytical work ; fink transform ?) https://www.sciencedirect.com/science/article/pii/S0198971516300448
+X [2018/07/23] virtual hallucinations deep dream https://www.nature.com/articles/s41598-017-16316-2
+X [2018/07/20] [Spatial diffusion] https://www.nature.com/articles/s41467-018-05230-4
 X [2018/07/20] http://sci-hub.tw/https://epubs.siam.org/doi/abs/10.1137/070710111
 X [2018/07/20] http://sci-hub.tw/http://journals.sagepub.com/doi/pdf/10.1177/2399808318785634
 X [2018/07/20] https://arxiv.org/pdf/1710.01068.pdf
