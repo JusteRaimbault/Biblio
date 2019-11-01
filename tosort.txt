@@ -6,13 +6,13 @@
 
 
 
-[2019/02/09] complexity literacy draft : https://docs.google.com/document/d/1XHqyDEYnuIKRztmPKMTqiwPXbHWS4FkDHEGLLBejzMM/edit
-[2018/08/15] https://link.springer.com/epdf/10.1007/s41109-018-0090-3?author_access_token=hd9gpeKBkjw2oO382rW7yPe4RwlQNchNByi7wbcMAY5YPxN48ELx_ava4tmFXhQrVxI4120X9EfVYdDW-HRGtTrQ5WdeSwrID1HckI_993QkExtFX8ewWuA1BDegV3qLZRr1jszjwhdxLFItQnOtnA%3D%3D
-[2018/08/15] https://arxiv.org/abs/1808.03730
+X [2019/02/09] complexity literacy draft : https://docs.google.com/document/d/1XHqyDEYnuIKRztmPKMTqiwPXbHWS4FkDHEGLLBejzMM/edit => ok publihsed version already in bib
+X [2018/08/15] https://link.springer.com/epdf/10.1007/s41109-018-0090-3?author_access_token=hd9gpeKBkjw2oO382rW7yPe4RwlQNchNByi7wbcMAY5YPxN48ELx_ava4tmFXhQrVxI4120X9EfVYdDW-HRGtTrQ5WdeSwrID1HckI_993QkExtFX8ewWuA1BDegV3qLZRr1jszjwhdxLFItQnOtnA%3D%3D
+X [2018/08/15] https://arxiv.org/abs/1808.03730
 [2018/08/14] [LUTECIA : BIB] https://ac.els-cdn.com/S0094119096920185/1-s2.0-S0094119096920185-main.pdf?_tid=38b71275-5a5f-4240-8d11-8b6e9a2019f3&acdnat=1534239712_826eccd8f9e84740e340f7e056326c54 https://www.sciencedirect.com/science/article/pii/S0966692317307391 https://www.sciencedirect.com/science/article/pii/S096669231730251X
-[2018/08/14] [BIB PNAS] http://www.pnas.org/content/115/31/E7275.full.pdf
-[2018/08/14] http://www.pnas.org/content/115/30/E6987 : idee : pse / oee dans ce domaine ?
-[2018/08/14] http://www.pnas.org/content/115/30/E6996
+X [2018/08/14] [BIB PNAS] http://www.pnas.org/content/115/31/E7275.full.pdf
+X [2018/08/14] http://www.pnas.org/content/115/30/E6987 : idee : pse / oee dans ce domaine ?
+X [2018/08/14] http://www.pnas.org/content/115/30/E6996
 X [2018/08/14] http://www.pnas.org/content/115/30/7638.full.pdf
 X [2018/08/08] [BIB : patents] https://arxiv.org/abs/1808.01237
 [2018/08/08] [BIB : article cybergeo verdier (check methodo)] https://journals.openedition.org/cybergeo/29197
