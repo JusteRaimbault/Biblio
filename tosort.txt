@@ -93,20 +93,21 @@ X [2018/03/14] https://hal.archives-ouvertes.fr/hal-01575456v2/document
 X [2018/03/14] https://scipost.org/SciPostPhys.2.3.016
 [2018/03/13] https://scholar.google.fr/scholar?hl=fr&as_sdt=0%2C5&q=algebraic+data+types&btnG=
 X [2018/03/13] https://link.springer.com/chapter/10.1007/978-3-319-46481-7_7
-[2018/03/13] https://scholar.google.fr/scholar?hl=fr&as_sdt=0%2C5&q=noisy+fitness+self+amplifying+noise&btnG=&oq=noisy+fitness+self-amplifying+noise
-[2018/03/13] https://books.google.fr/books?hl=fr&lr=&id=keypCAAAQBAJ&oi=fnd&pg=PA1&dq=noisy+fitness+self+amplifying+noise&ots=1gbMmJ_Rra&sig=a30LO-ace5R2EgS-5_dkqDLBe80#v=onepage&q&f=false
+X [2018/03/13] https://scholar.google.fr/scholar?hl=fr&as_sdt=0%2C5&q=noisy+fitness+self+amplifying+noise&btnG=&oq=noisy+fitness+self-amplifying+noise => ideas - NoisyEA
+X [2018/03/13] https://books.google.fr/books?hl=fr&lr=&id=keypCAAAQBAJ&oi=fnd&pg=PA1&dq=noisy+fitness+self+amplifying+noise&ots=1gbMmJ_Rra&sig=a30LO-ace5R2EgS-5_dkqDLBe80#v=onepage&q&f=false =>ok havebook
 X [2018/03/13] http://sci-hub.hk/http://rspb.royalsocietypublishing.org/content/269/1508/2423
 X [2018/03/12] [biblio] Kalman noisy test data : http://sci-hub.hk/https://www.sciencedirect.com/science/article/pii/S0164121214002660
 X [2018/03/12] probas ranking switch bgo : https://engagedscholarship.csuohio.edu/cgi/viewcontent.cgi?article=1679&context=etdarchive
 X [2018/03/10] [Bib : Holland GA] http://www.jstor.org/stable/24939139?seq=1#page_scan_tab_contents
 X [2018/03/07] [biblio algo genetiques] https://link.springer.com/chapter/10.1007/978-3-319-15892-1_3 => already in SimulationModels ;  http://sci-hub.hk/http://ieeexplore.ieee.org/abstract/document/996017/=> idem ;  https://www.egr.msu.edu//~kdeb/papers/c2015002.pdf => idem
 X [2018/03/07] [biblio opinion dybamics] http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0183468 http://sci-hub.hk/10.1142/S0129183107011789 https://hal.archives-ouvertes.fr/hal-00995139/document https://link.springer.com/chapter/10.1007%2F978-3-319-02925-2_15 https://arxiv.org/pdf/0708.2981.pdf http://onlinelibrary.wiley.com/doi/10.1002/cplx.10031/pdf
-[2018/03/07] http://sci-hub.hk/10.1142/S0129183107011789 https://link.springer.com/chapter/10.1007%2F978-3-319-02925-2_15
+X [2018/03/07] http://sci-hub.hk/10.1142/S0129183107011789
+[2018/03/07] https://link.springer.com/chapter/10.1007%2F978-3-319-02925-2_15
 X [2018/03/03] http://barabasi.com/f/939.pdf
 X [2018/02/26] [Sobol Sensitivity ] http://sci-hub.hk/https://link.springer.com/article/10.1007/s11222-017-9759-1
 X [2018/02/06] https://journals.openedition.org/cybergeo/2636?file=1
 X [2018/02/06] https://www.sciencedirect.com/science/article/pii/S0965856416300854
-[2018/02/06] https://books.google.com/ngrams/graph?content=morphogenesis
+X [2018/02/06] https://books.google.com/ngrams/graph?content=morphogenesis => ok mentioned in paper morphogenesis ; google ngrams in resources: tools
 X [2018/02/04] https://epjdatascience.springeropen.com/track/pdf/10.1140/epjds/s13688-018-0132-1?site=epjdatascience.springeropen.com
 X [2018/01/18] http://journals.openedition.org/cybergeo/28922
 X [2018/01/13] https://www.nature.com/articles/s41893-017-0010-z
@@ -121,7 +122,7 @@ X [2017/12/20] http://feedproxy.google.com/~r/pnas/UJrK/~3/vPOPBFu64nU/13531.sho
 X [2017/12/20] http://feedproxy.google.com/~r/pnas/UJrK/~3/EwN2vLl0KnQ/13447.short
 X [2017/12/18] http://www.sciencedirect.com/science/article/pii/S235214651730594X
 X [2017/12/11] [Bitbol] https://en.wikipedia.org/wiki/Michel_Bitbol http://philsci-archive.pitt.edu/4006/1/Emergence1.pdf
-[2017/12/11] Physique quantique http://pagesperso.lina.univ-nantes.fr/~prie-y/archives/ENACTION-SCHOOLS/docs/documents2009/quantique-cognition.pdf
+X [2017/12/11] Physique quantique http://pagesperso.lina.univ-nantes.fr/~prie-y/archives/ENACTION-SCHOOLS/docs/documents2009/quantique-cognition.pdf => Bitbol, M. (2000). Physique quantique et cognition. Revue internationale de philosophie, 54(212 (2), 299-328. (?)
 X [2017/12/11] http://rsta.royalsocietypublishing.org/content/roypta/375/2109/20160338.full.pdf
 X [2017/12/11] https://halshs.archives-ouvertes.fr/halshs-00145939/document
 X [2017/12/11] https://halshs.archives-ouvertes.fr/halshs-01625460/document
@@ -135,7 +136,7 @@ X [2017/11/24] https://arxiv.org/pdf/1711.03499.pdf
 X [2017/11/24] https://halshs.archives-ouvertes.fr/tel-01419708/document
 X [2017/11/24] [Ergodicity] https://sci-hub.cc/http://iopscience.iop.org/article/10.1088/1751-8113/47/48/485002/meta
 X [2017/11/24] https://link.springer.com/content/pdf/10.1007/BF01886869.pdf
-[2017/11/24] https://scholar.google.fr/scholar?hl=fr&as_sdt=0%2C5&q=non-ergodic+non-stationary+spatial+processes&btnG=
+X [2017/11/24] https://scholar.google.fr/scholar?hl=fr&as_sdt=0%2C5&q=non-ergodic+non-stationary+spatial+processes&btnG= [2020/06/05] => ideas - reprendre note results (Frog)
 X [2017/11/24] [Time Series] https://cran.r-project.org/web/packages/tseriesChaos/tseriesChaos.pdf => idem 
 X [2017/11/24] https://cran.r-project.org/web/views/TimeSeries.html => idem
 X [2017/11/24] https://stackoverflow.com/questions/1714280/multivariate-time-series-modelling-in-r => resources time series
@@ -159,8 +160,7 @@ X [2017/10/28] https://pdfs.semanticscholar.org/e9e6/bb5f2a04ae30d8ecc9287f8b702
 X [2017/10/28] http://pubs.rsc.org/en/content/articlepdf/2014/CP/C4CP03465A
 X [2017/10/28] https://sci-hub.cc/https://link.springer.com/article/10.1007/BF00893695?LI=true
 X [2017/10/28] https://sci-hub.cc/http://www.sciencedirect.com/science/article/pii/S1364815210002008
-[2017/10/20] [Morphogenesis / soc] https://scholar.google.fr/scholar?hl=fr&as_sdt=0%2C5&q=Jean+Petitot&btnG= https://scholar.google.fr/scholar?hl=fr&as_sdt=0%2C5&q=self+organized+criticality&btnG=&oq=self-organized+critical
-
+X [2017/10/20] [Morphogenesis / soc] https://scholar.google.fr/scholar?hl=fr&as_sdt=0%2C5&q=Jean+Petitot&btnG= https://scholar.google.fr/scholar?hl=fr&as_sdt=0%2C5&q=self+organized+criticality&btnG=&oq=self-organized+critical => (2020/06/05) Jean petitot morphogenèse du sens Book (=> paper morphogenesis) ; SOC: Petitot, J. (2006). Entoptic vision and physicalist emergentism. Philos Issues Psychiatry, 25-26.
 X [2017/10/20] [LUTI]  http://lvmt.altercreation.fr/recherche/mots-du-lvmt/quels-systemes-territoriaux/ => resource geo https://hal.inria.fr/hal-01093254/document https://dspace.ucalgary.ca/bitstream/1880/42758/1/49478Abraham.pdf
 X [2017/10/18] http://www.persee.fr/doc/spgeo_0046-2497_1990_num_19_1_2943
 X [2017/10/18] https://arxiv.org/pdf/1709.05718.pdf
