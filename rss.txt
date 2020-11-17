@@ -1,0 +1,14 @@
+http://export.arxiv.org/rss/cs.CY?version=2.0
+2: [*] http://export.arxiv.org/rss/cs.MA?version=2.0
+3: [*] http://export.arxiv.org/rss/physics.soc-ph?version=2.0
+4: [*] http://feeds.nature.com/nature/rss/current
+5: [*] http://feeds.nature.com/ncomms/rss/current
+6: [*] https://www.openedition.org/
+7: [*] https://feeds.feedburner.com/ProceedingsOfTheNationalAcademyOfSciencesSustainabilityScience
+8: [*] https://feeds.feedburner.com/ProceedingsOfTheNationalAcademyOfSciencesAnthropology
+9: [*] https://feeds.feedburner.com/ProceedingsOfTheNationalAcademyOfSciencesSocialSciences 
+10: [*] https://epjdatascience.springeropen.com/articles/most-recent/rss.xml
+11: [*] https://casmodeling.springeropen.com/articles/most-recent/rss.xml
+12: [*] https://feeds.feedburner.com/ProceedingsOfTheNationalAcademyOfSciencesAppliedPhysicalSciences
+
+
