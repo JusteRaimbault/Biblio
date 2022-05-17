@@ -1,3 +1,22 @@
+
+New setup on 2022/05/17:
+0: [*] nature (http://feeds.nature.com/nature/rss/current -> rss.raimbaultjwin@gmail.com)
+1: [*] ncomms (http://feeds.nature.com/ncomms/rss/current -> rss.raimbaultjwin@gmail.com)
+2: [*] pnasSust (https://feeds.feedburner.com/ProceedingsOfTheNationalAcademyOfSciencesSustainabilityScience -> rss.raimbaultjwin@gmail.com)
+3: [*] pnasAnthropo (https://feeds.feedburner.com/ProceedingsOfTheNationalAcademyOfSciencesAnthropology -> rss.raimbaultjwin@gmail.com)
+4: [*] pnasSoc (https://feeds.feedburner.com/ProceedingsOfTheNationalAcademyOfSciencesSocialSciences -> rss.raimbaultjwin@gmail.com)
+5: [*] pnasPhys (https://feeds.feedburner.com/ProceedingsOfTheNationalAcademyOfSciencesAppliedPhysicalSciences -> rss.raimbaultjwin@gmail.com)
+6: [*] epjds (https://epjdatascience.springeropen.com/articles/most-recent/rss.xml -> rss.raimbaultjwin@gmail.com)
+7: [*] casmodling (https://casmodeling.springeropen.com/articles/most-recent/rss.xml -> rss.raimbaultjwin@gmail.com)
+8: [*] arxivcsma (http://arxiv.org/rss/cs.MA -> rss.raimbaultjwin@gmail.com)
+9: [*] arxivcscy (http://arxiv.org/rss/cs.CY -> rss.raimbaultjwin@gmail.com)
+10: [*] arxivsocpys (http://arxiv.org/rss/physics.soc-ph -> rss.raimbaultjwin@gmail.com)
+11: [*] cybergeo (https://journals.openedition.org/cybergeo/backend?format=rssdocuments -> rss.raimbaultjwin@gmail.com)
+
+
+
+====
+
 http://feeds.nature.com/nature/rss/current
 http://feeds.nature.com/ncomms/rss/current
 https://feeds.feedburner.com/ProceedingsOfTheNationalAcademyOfSciencesSustainabilityScience
