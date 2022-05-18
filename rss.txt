@@ -1,4 +1,9 @@
 
+2022/05/18:
+new version setup ok
+replace pnasSust by https://www.pnas.org/action/showFeed?tagCode=sustainability&type=searchTopic&taxonomyCode=topic
+
+
 New setup on 2022/05/17:
 0: [*] nature (http://feeds.nature.com/nature/rss/current -> rss.raimbaultjwin@gmail.com)
 1: [*] ncomms (http://feeds.nature.com/ncomms/rss/current -> rss.raimbaultjwin@gmail.com)
